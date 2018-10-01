@@ -4,3 +4,5 @@ description: Retrouver les cartels et quelques explications complémentaires
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+author: Institut national d'histoire de l'art
+twitter_username: jekyllrb
