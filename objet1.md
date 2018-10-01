@@ -8,7 +8,7 @@
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-xldj" rowspan="3">TOTO</th>
+    <th class="tg-xldj" rowspan="3"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Johann_Joachim_Winckelmann_%28Angelika_Kaufmann%29.jpg/220px-Johann_Joachim_Winckelmann_%28Angelika_Kaufmann%29.jpg"></th>
     <th class="tg-xldj">titre</th>
   </tr>
   <tr>
