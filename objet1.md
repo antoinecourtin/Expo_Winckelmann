@@ -1,6 +1,6 @@
 ## Objet n°1
 
-![Branching](objet1.jpg)
+![Branching](./img/objet1.jpg)
 
 
 ### Cartel
