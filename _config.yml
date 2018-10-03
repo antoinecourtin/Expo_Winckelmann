@@ -1,7 +1,6 @@
 title: Dossier thématique
 logo: ./img/winckelmann.jpeg
-description:
-  En accompagnement du colloque, la bibliothèque de l’INHA présentera en salle Labrouste une exposition dossier autour de ce « père fondateur » de l’histoire de l’art et de l’archéologie. Cette expérimentation de publication en ligne permttra de retrouver la description des objets représentés.
+description: Vous trouverez ici la version numérique des cartels de l'exposition dossier réalisée par l'Institut national d'histoire de l'art
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
