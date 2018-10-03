@@ -1,6 +1,6 @@
 title: Exposition Winckelmann
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Johann_Joachim_Winckelmann_%28Angelika_Kaufmann%29.jpg/220px-Johann_Joachim_Winckelmann_%28Angelika_Kaufmann%29.jpg
-description: Retrouver les cartels et quelques explications complémentaires 
+logo: ./img/logo_inha.jpg
+description: Retrouver les cartels et quelques explications complémentaires
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
