@@ -6,3 +6,5 @@ google_analytics:
 theme: jekyll-theme-minimal
 author: Institut national d'histoire de l'art
 twitter_username: jekyllrb
+github:
+  is_project_page: false
