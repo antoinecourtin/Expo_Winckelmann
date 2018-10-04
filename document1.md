@@ -211,15 +211,15 @@ Donec vitae enim efficitur metus tincidunt viverra. Phasellus ut turpis ante. Nu
    <div class="carousel-inner">
       <input name="carousel" class="carousel-open" id="carousel-1" aria-hidden="true" type="radio" hidden="true" Checked/>
       <div class="carousel-item">
-<img class="pic" src="http://wearenorthwest.northwest.ca/departments/humanresources/test/PublishingImages/O%20Gibraltar.PNG">
+<img class="pic" src="./img/doc1/doc1_1.jpg">
       </div>
       <input name="carousel" class="carousel-open" id="carousel-2" aria-hidden="true" type="radio" hidden="true"/>
       <div class="carousel-item">
-  <img class="pic" src="http://wearenorthwest.northwest.ca/departments/humanresources/test/PublishingImages/ADC.PNG">
+  <img class="pic" src="./img/doc1/doc1_2.jpg">
       </div>
       <input name="carousel" class="carousel-open" id="carousel-3" aria-hidden="true" type="radio" hidden="true"/>
       <div class="carousel-item">
-<img class="pic" src="http://wearenorthwest.northwest.ca/departments/humanresources/test/PublishingImages/CUL.PNG">
+<img class="pic" src="./img/doc1/doc1_1.jpg">
       </div>
       <label class="carousel-control prev control-1" for="carousel-3">‹</label>
       <label class="carousel-control next control-1" for="carousel-2">›</label>
