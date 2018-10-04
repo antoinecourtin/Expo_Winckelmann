@@ -2,7 +2,6 @@ title: Dossier thématique
 logo:
 description: Vous trouverez ici la version numérique des cartels de l'exposition dossier réalisée par l'Institut national d'histoire de l'art
 show_downloads: false
-markdown: kramdown
 google_analytics:
 theme: jekyll-theme-minimal
 author: Institut national d'histoire de l'art
