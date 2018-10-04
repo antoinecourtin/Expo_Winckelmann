@@ -1,4 +1,5 @@
-## Winckelmann et l’œuvre d’art : Matériaux et types
+## Chapitre 1
+### La tradition antiquaire
 
 En accompagnement du colloque, la bibliothèque de l’INHA présentera en salle Labrouste une exposition dossier autour de ce « père fondateur » de l’histoire de l’art et de l’archéologie. Des livres du XVIIIe siècle, certains somptueusement illustrés, seront sortis des collections de la bibliothèque et exposés aux yeux de tous.
 
