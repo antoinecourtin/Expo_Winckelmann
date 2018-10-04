@@ -1,7 +1,8 @@
 ---
 ---
-
-@import "{{ site.theme }}";
 a:hover, a:focus {
   color:pink;
 }
+
+
+@import "{{ site.theme }}";
