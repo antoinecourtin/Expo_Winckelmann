@@ -181,6 +181,15 @@ font-weight:bold;}
 
 ## Document n°1
 
+### Cartel
+
+**Titre** : ????  
+**Date de publication** : ????  
+**Editeur** : ??????  
+**Cote** : ??????  
+
+[Consulter le document numérisé](https://bibliotheque-numerique.inha.fr/collection/item/13543-lettres-familieres-de-m-winckelmann-premiere-partie?offset=2)
+
 ### getElementsByTagName
 <div class="carousel">
    <div class="carousel-inner">
@@ -221,17 +230,8 @@ font-weight:bold;}
               <img src="./img/doc1/doc1_1.jpg" />
             </div>
          </li>
-      </ol>
-</div>
 
-### Cartel
 
-**Titre** : ????  
-**Date de publication** : ????  
-**Editeur** : ??????  
-**Cote** : ??????  
-
-[Consulter le document numérisé](https://bibliotheque-numerique.inha.fr/collection/item/13543-lettres-familieres-de-m-winckelmann-premiere-partie?offset=2)
 
 ### Description de l'objet
 
@@ -244,46 +244,3 @@ Donec vitae enim efficitur metus tincidunt viverra. Phasellus ut turpis ante. Nu
 [^1]: Note de bas de page
 </small>
 </p>
-
-###getElementsByTagName
-<div class="carousel">
-   <div class="carousel-inner">
-      <input name="carousel" class="carousel-open" id="carousel-1" aria-hidden="true" type="radio" hidden="true" Checked/>
-      <div class="carousel-item">
-<img class="pic" src="./img/doc1/doc1_1.jpg">
-      </div>
-      <input name="carousel" class="carousel-open" id="carousel-2" aria-hidden="true" type="radio" hidden="true"/>
-      <div class="carousel-item">
-  <img class="pic" src="./img/doc1/doc1_2.jpg">
-      </div>
-      <input name="carousel" class="carousel-open" id="carousel-3" aria-hidden="true" type="radio" hidden="true"/>
-      <div class="carousel-item">
-<img class="pic" src="./img/doc1/doc1_1.jpg">
-      </div>
-      <label class="carousel-control prev control-1" for="carousel-3">‹</label>
-      <label class="carousel-control next control-1" for="carousel-2">›</label>
-      <label class="carousel-control prev control-2" for="carousel-1">‹</label>
-      <label class="carousel-control next control-2" for="carousel-3">›</label>
-      <label class="carousel-control prev control-3" for="carousel-2">‹</label>
-      <label class="carousel-control next control-3" for="carousel-1">›</label>
-
-      <ol class="carousel-indicators">
-         <li>
-            <label class="carousel-bullet" for="carousel-1">●</label>
-            <div class="carousel-preview">
-              <img src="./img/doc1/doc1_1.jpg" />
-            </div>
-         </li>
-         <li>
-            <label class="carousel-bullet" for="carousel-2">●</label>
-            <div class="carousel-preview">
-              <img src="./img/doc1/doc1_2.jpg" />
-            </div>
-         <li>
-            <label class="carousel-bullet" for="carousel-3">●</label>
-            <div class="carousel-preview">
-              <img src="./img/doc1/doc1_1.jpg" />
-            </div>
-         </li>
-      </ol>
-</div>
