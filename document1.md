@@ -9,7 +9,7 @@
     border-color:rgba(0, 0, 0, 0.05);
     box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
     width:100%;
-    height:290px;
+    height:590px;
   border-width:3px;
   border-radius:2px;
   border-color:#FCFCFC;
