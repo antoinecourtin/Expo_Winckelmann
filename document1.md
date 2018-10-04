@@ -1,4 +1,4 @@
-## Objet n°1
+## Document n°1
 
 ![Branching](./img/doc1/doc1_1.jpg)
 ![Branching](./img/doc1/doc1_2.jpg)
