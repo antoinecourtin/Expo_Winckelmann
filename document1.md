@@ -226,7 +226,7 @@ font-weight:bold;}
 </div>
 </div>
 
-<div>
+
 ### Cartel
 
 **Titre** : ????  
@@ -248,4 +248,3 @@ Donec vitae enim efficitur metus tincidunt viverra. Phasellus ut turpis ante. Nu
 [^1]: Note de bas de page
 </small>
 </p>
-</div>
