@@ -1,7 +1,122 @@
+<script>
+$('.responsive').slick({
+dots: true,
+prevArrow: $('.prev'),
+nextArrow: $('.next'),
+infinite: false,
+speed: 300,
+slidesToShow: 4,
+slidesToScroll: 4,
+responsive: [
+{
+  breakpoint: 1024,
+  settings: {
+    slidesToShow: 3,
+    slidesToScroll: 3,
+    infinite: true,
+    dots: true
+  }
+},
+{
+  breakpoint: 600,
+  settings: {
+    slidesToShow: 2,
+    slidesToScroll: 2
+  }
+},
+{
+  breakpoint: 480,
+  settings: {
+    slidesToShow: 1,
+    slidesToScroll: 1
+  }
+}
+// You can unslick at a given breakpoint now by adding:
+// settings: "unslick"
+// instead of a settings object
+]
+});
+</script>
+<style type="text/css">
+html {box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}
+
+img {
+  width: 100%;
+  height: auto;
+  padding: 5px;
+}
+
+h2 {
+  text-align:center;
+  padding-bottom: 1em;
+}
+
+.slick-dots {
+  text-align: center;
+  margin: 0 0 10px 0;
+  padding: 0;
+  li {
+    display:inline-block;
+    margin-left: 4px;
+    margin-right: 4px;
+    &.slick-active {
+      button {
+        background-color:black;
+      }
+    }
+    button {
+      font: 0/0 a;
+      text-shadow: none;
+      color: transparent;
+      background-color:#999;
+      border:none;
+      width: 15px;
+      height: 15px;
+      border-radius:50%;
+    }
+    :hover{
+      background-color: black;
+    }
+  }
+}
+
+/* Custom Arrow */
+.prev{
+  color: #999;
+  position: absolute;
+  top: 38%;
+  left: -2em;
+  font-size: 1.5em;
+    :hover{
+      cursor: pointer;
+      color: black;
+    }
+}
+.next{
+  color: #999;
+  position: absolute;
+  top: 38%;
+  right: -2em;
+  font-size: 1.5em;
+  :hover{
+      cursor: pointer;
+      color: black;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .next {
+        display: none !important;
+    }
+}
+</style>
+
 ## Document n°1
 
 ![Branching](./img/doc1/doc1_1.jpg)
 ![Branching](./img/doc1/doc1_2.jpg)
+
 
 <div class="container">
   <h2>Slider - Multpile Items & Responsive</h2>
