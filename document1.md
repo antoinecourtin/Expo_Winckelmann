@@ -19,7 +19,7 @@
     position: relative;
     overflow: hidden;
     width: 100%;
-    height:290px;
+    height:590px;
 }
 
 .carousel-open:checked + .carousel-item {
@@ -27,7 +27,7 @@
     opacity: 100;
     background-color:black;
     width:100%;
-    height:290px;
+    height:590px;
 }
 
 .carousel-item {
