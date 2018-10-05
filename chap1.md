@@ -39,6 +39,7 @@ Fusce consectetur libero at venenatis fermentum. Integer auctor non purus in sce
 
 
 
+* * *
 
 <p>
 <small>
@@ -46,6 +47,7 @@ Fusce consectetur libero at venenatis fermentum. Integer auctor non purus in sce
 </small>
 </p>
 <p>
+
 <small>
 <a name="myfootnote1">2</a>: autre Footnote content goes here
 </small>
