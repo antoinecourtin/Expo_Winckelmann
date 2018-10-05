@@ -23,7 +23,8 @@ Fusce sem libero, vulputate eget quam sit amet, venenatis semper arcu. Duis dapi
 
 In aliquet sapien lectus. Mauris ut tempus turpis, eget dignissim lectus. Vivamus ac pellentesque lectus, quis consequat lorem. Mauris felis augue, rhoncus ac tellus eget, dignissim scelerisque est. Donec dignissim nulla at tristique scelerisque. Suspendisse vestibulum, est nec placerat viverra, nisl ligula lacinia orci, in tincidunt lectus ipsum non orci. Nunc vehicula aliquam tortor, eget rutrum lacus eleifend molestie. Vivamus tristique ullamcorper lorem, eu venenatis nibh volutpat a. Nam tincidunt nisl ac auctor vehicula.
 
-![Branching](https://www.albion-prints.com/ekmps/shops/albionprint/images/Winkelmann-Monumenti-Antichi-1821-Antique-Print-138-271391-p.jpg)
+![Branching](./img/doc1/doc1_1.jpg)
+<small><a href="./document1.html>voir la notice du document</a><small>
 
 
 Suspendisse et mi iaculis, placerat velit molestie, rhoncus nunc. Proin faucibus viverra vestibulum. Maecenas rutrum mattis elit, eu dapibus risus tempus vitae. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean blandit iaculis feugiat. Suspendisse non magna eget nibh suscipit porttitor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin id augue at ante venenatis tempus et non urna. Duis tincidunt sed risus non molestie. Nam pharetra interdum auctor. Fusce tristique, est ac ultrices venenatis, mauris diam varius diam, quis sodales turpis purus ac mi.
