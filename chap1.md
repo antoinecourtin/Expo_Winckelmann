@@ -17,7 +17,7 @@ Nulla lobortis nibh sed turpis tristique, eget auctor tortor lobortis. Integer p
 Fusce consectetur libero
 ```
 
-Fusce sem libero, vulputate eget quam sit amet, venenatis semper arcu. Duis dapibus eu libero sit amet sollicitudin. Aliquam dapibus tempus lorem vulputate sodales. Pellentesque tortor elit, efficitur quis porttitor eget, iaculis ut orci. Mauris hendrerit mauris purus, egestas dignissim tellus commodo in. Mauris semper felis erat, id porta eros iaculis vel. Pellentesque maximus tellus non mauris sagittis, ut dignissim urna pulvinar. Cras eu iaculis ipsum <sup>[1](#myfootnote1)</sup>.
+Fusce sem libero, vulputate eget quam sit amet, venenatis semper arcu. Duis dapibus eu libero sit amet sollicitudin. Aliquam dapibus tempus lorem vulputate sodales. Pellentesque tortor elit, efficitur quis porttitor eget, iaculis ut orci. Mauris hendrerit mauris purus, egestas dignissim tellus commodo in. Mauris semper felis erat, id porta eros iaculis vel. Pellentesque maximus tellus non mauris sagittis, ut dignissim urna pulvinar. Cras eu iaculis ipsum <sup>[2](#myfootnote1)</sup>.
 
 * * *
 
@@ -43,7 +43,6 @@ Fusce consectetur libero at venenatis fermentum. Integer auctor non purus in sce
 <p>
 <small>
 <a name="myfootnote1">1</a>: Footnote content goes here
-<a name="myfootnote1">2</a>: Footnote content goes here
-
+<a name="myfootnote1">2</a>: autre Footnote content goes here
 </small>
 </p>
