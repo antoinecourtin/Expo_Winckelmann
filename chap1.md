@@ -1,7 +1,7 @@
 ## Chapitre 1
 ### La tradition antiquaire
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fringilla ornare pulvinar. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras malesuada, nisi id aliquet imperdiet, odio risus fermentum felis, vel mollis arcu dolor sed lorem. Sed volutpat placerat diam sed consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fringilla ornare pulvinar. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras malesuada, nisi id aliquet imperdiet, odio risus fermentum felis, vel mollis arcu dolor sed lorem. Sed volutpat placerat diam sed consequat <sup>[1](#myfootnote1)</sup>.
 
 > Sed eu maximus augue. Cras non felis mattis, blandit est eget, finibus ex. Quisque eu ligula turpis. Duis non mauris sit amet augue suscipit tincidunt. Aliquam erat volutpat. Nulla ac dictum purus, a consectetur nunc. Ut dapibus quam sed suscipit dignissim.
 
@@ -34,6 +34,14 @@ Vestibulum pulvinar ullamcorper justo, et rhoncus ligula ornare ac. Sed ut nulla
 
 Fusce consectetur libero at venenatis fermentum. Integer auctor non purus in scelerisque. Aenean et eros eget leo efficitur tincidunt eu id enim. Morbi maximus, risus at viverra laoreet, lorem lectus cursus purus, at condimentum velit tortor ac lacus. Phasellus nisi odio, faucibus id libero ullamcorper, tempor pharetra sapien. Phasellus ac fringilla turpis, non porttitor leo. Quisque pulvinar augue nec libero lobortis viverra. Nunc posuere enim odio, auctor volutpat urna tincidunt id. Maecenas tincidunt pulvinar elit.
 
+![Branching](https://www.albion-prints.com/ekmps/shops/albionprint/images/Winkelmann-Monumenti-Antichi-1821-Antique-Print-138-271391-p.jpg)
+
 ```txt
-Vestibulum tempus risus vitae feugiat venenatis. Phasellus finibus lobortis nisi ac tempus. Cras rutrum quis lectus ut semper. Ut in porta dolor, in lobortis erat. Vestibulum et dolor velit. Aenean metus arcu, consequat vel lorem non, tempus maximus orci. Nunc at dui pretium, aliquet ex ac, fermentum libero.
+Fusce consectetur libero
 ```
+
+<p>
+<small>
+<a name="myfootnote1">1</a>: Footnote content goes here
+</small>
+</p>
