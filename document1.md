@@ -124,8 +124,8 @@
     overflow: hidden;
 }
 .carousel-indicators .carousel-preview img {
-    max-width:100px;
-    max-height:50px;
+    max-width:40px;
+    max-height:80px;
     padding: 2px;
     background-color: white;
 }
@@ -226,7 +226,7 @@ font-weight:bold;}
 </div>
 </div>
 
-*** 
+***
 ### Cartel
 
 **Titre** : ????  
