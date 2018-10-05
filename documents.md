@@ -46,15 +46,6 @@
     <img src="./img/doc1/doc1_1.jpg">
     <img src="./img/doc1/doc1_1.jpg">
   </div>
-  <div class="column">
-    <img src="./img/doc1/doc1_2.jpg">
-    <img src="./img/doc1/doc1_1.jpg">
-    <img src="./img/doc1/doc1_2.jpg">
-    <img src="./img/doc1/doc1_2.jpg">
-    <img src="./img/doc1/doc1_2.jpg">
-    <img src="./img/doc1/doc1_2.jpg">
-    <img src="./img/doc1/doc1_1.jpg">
-  </div>
 </div>
 
 ### Chapitre 1
