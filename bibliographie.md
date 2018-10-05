@@ -1,13 +1,5 @@
 ## Bibliographie
 
-<dl>
-<dt>BALANTZIAN 2013</dt>
-<dd>Balantzian Gérard, Gouvernance de l’information pour l’entreprise numérique :  processus, architectures, risques et pilotage, Paris, Hermès science publications-Lavoisier, 2013, 1 vol., (Management et informatique).</dd>
-<dt>SALUN 2012</dt>
-<dd>Salaün Jean-Michel, Vu, lu, su :  les architectes de l’information face à l’oligopole du Web, Paris, la Découverte, 2012, 1 vol., ([Cahiers libres).</dd>
-</dl>
-
-
 ### Ouvrages
 
 ### Articles
