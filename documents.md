@@ -40,28 +40,26 @@
   <div class="column">
     <a href="./document1.html"><img src="./img/doc1/doc1_1.jpg"></a>
     <img src="./img/doc1/doc1_2.jpg">
+    <img src="./img/doc1/doc1_2.jpg">
+    <img src="./img/doc1/doc1_2.jpg">
+
   </div>
   <div class="column">
     <img src="./img/doc1/doc1_2.jpg">
     <img src="./img/doc1/doc1_1.jpg">
+    <img src="./img/doc1/doc1_2.jpg">
+    <img src="./img/doc1/doc1_2.jpg">
   </div>
   <div class="column">
   <img src="./img/doc1/doc1_2.jpg">
   <img src="./img/doc1/doc1_1.jpg">
+  <img src="./img/doc1/doc1_2.jpg">
+  <img src="./img/doc1/doc1_2.jpg">
   </div>
   <div class="column">
   <img src="./img/doc1/doc1_2.jpg">
   <img src="./img/doc1/doc1_1.jpg">
+  <img src="./img/doc1/doc1_2.jpg">
+  <img src="./img/doc1/doc1_2.jpg">
   </div>
 </div>
-
-
-### Chapitre 1
-
-### Chaptire 2
-
-### Chaptire 3
-
-### Chapitre 4
-
-### Chapitre 5
