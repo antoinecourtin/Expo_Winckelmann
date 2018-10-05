@@ -42,7 +42,9 @@ Fusce consectetur libero at venenatis fermentum. Integer auctor non purus in sce
 
 <p>
 <small>
-<a name="myfootnote1">1</a>: Footnote content goes here </br>
+<a name="myfootnote1">1</a>: Footnote content goes here
+</small>
+<small>
 <a name="myfootnote1">2</a>: autre Footnote content goes here
 </small>
 </p>
