@@ -234,7 +234,7 @@ font-weight:bold;}
 **Editeur** : ??????  
 **Cote** : ??????  
 
-[Consulter le document numérisé](https://bibliotheque-numerique.inha.fr/collection/item/13543-lettres-familieres-de-m-winckelmann-premiere-partie?offset=2)
+[Consulter le document numérisé](https://bibliotheque-numerique.inha.fr/collection/item/13543-lettres-familieres-de-m-winckelmann-premiere-partie?offset=2){:target="_blank"}
 
 
 
