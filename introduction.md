@@ -2,7 +2,11 @@
 
 ### Winckelmann et l’histoire de l’art antique
 
-Si les œuvres de l’Antiquité ont été rassemblées et étudiées depuis la Renaissance, au XVIIIe siècle la façon de les considérer change radicalement. Dans un contexte de construction de nouveaux savoirs rationnels sur l’homme et la nature, les découvertes archéologiques de plus en plus nombreuses encouragent le développement d’une véritable science pour les étudier. Progressivement, les œuvres qui nous parviennent des civilisations antiques ne sont plus considérées comme de simples illustrations des textes grecs et latins, mais sont étudiées en elles-mêmes et dans tous leurs aspects : de leur analyse rigoureuse découle le savoir.  Johann Joachim Winckelmann est un de ceux qui ont mis en œuvre ce changement épistémologique majeur, et sans doute celui dont l’influence a été la plus importante, de son vivant comme après sa mort prématurée. Mais cette “fascination de l’Antique” va bien au-delà des cercles érudits : toute l'Europe lettrée redécouvre alors l’Antiquité dont on débat à Paris ou à Londres, dans les salons et en société, entre artistes, collectionneurs et ces spécialistes que l’on appelle encore “antiquaires”.					 
+Si les œuvres de l’Antiquité ont été rassemblées et étudiées depuis la Renaissance, au XVIIIe siècle la façon de les considérer change radicalement. Dans un contexte de construction de nouveaux savoirs rationnels sur l’homme et la nature, les découvertes archéologiques de plus en plus nombreuses encouragent le développement d’une véritable science pour les étudier.
+
+>Progressivement, les œuvres qui nous parviennent des civilisations antiques ne sont plus considérées comme de simples illustrations des textes grecs et latins, mais sont étudiées en elles-mêmes et dans tous leurs aspects : de leur analyse rigoureuse découle le savoir.  
+
+**Johann Joachim Winckelmann** est un de ceux qui ont mis en œuvre ce changement épistémologique majeur, et sans doute celui dont l’influence a été la plus importante, de son vivant comme après sa mort prématurée. Mais cette “fascination de l’Antique” va bien au-delà des cercles érudits : toute l'Europe lettrée redécouvre alors l’Antiquité dont on débat à Paris ou à Londres, dans les salons et en société, entre artistes, collectionneurs et ces spécialistes que l’on appelle encore “antiquaires”.					 
 
 #### La vie de Winckelmann, de Dresde à Rome
 
