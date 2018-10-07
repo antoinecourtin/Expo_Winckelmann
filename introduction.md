@@ -64,8 +64,7 @@ Il le répète à de nombreuses reprises : il faut regarder les œuvres, toutes 
 
 
 #### Table des illusration
-1. Anton von Maron (1733-1808), Portrait de JJW, 1768, huile sur toile, château de Weimar.
-(image libre de droits sur wikipedia https://commons.wikimedia.org/wiki/File:Johann_Joachim_Winckelmann_(Anton_von_Maron_1768).jpg)
+1. Anton von Maron (1733-1808), Portrait de JJW, 1768, huile sur toile, château de Weimar.  https://commons.wikimedia.org/wiki/File:Johann_Joachim_Winckelmann_(Anton_von_Maron_1768).jpg)
 2. Carte de l’Europe, 1759. https://fr.wikipedia.org/wiki/Fichier:Carte_europe_1763.jpg
 3. Hubert Robert (1733 - 1808), Un dessinateur dans la galerie du Capitole, vers 1765, sanguine, The J. Paul Getty Museum, Los Angeles.
 4. “Apollon du Belvédère”, copie romaine d’un original de Léocharès du 4e siècle av JC, marbre, Vatican, Museo Pio-Clementino. https://fr.wikipedia.org/wiki/Fichier:Belvedere_Apollo_Pio-Clementino_Inv1015_n4.jpg © Marie-Lan Nguyen / Wikimedia Commons.
