@@ -24,7 +24,7 @@ Cette découverte lui inspire son premier ouvrage, Réflexions sur l’imitation
 Pourtant, Winckelmann n’a encore eu que peu de contact direct avec les marbres antiques. Si les collections de Dresde sont les plus importantes d’Europe du Nord, elles sont difficilement visibles, et c’est surtout à partir de ses lectures que le savant élabore ses réflexions. Pour continuer l’étude de l’art, une destination s’impose alors : Rome, capitale des arts, le centre des collections antiques comme du savoir.
 
 ![Branching](./img/chap1/illu_2.jpg)
-<small> fig.2 : Carte de l’Europe, 1759  </small>
+<small style="text-align:center"> fig.2 : Carte de l’Europe, 1759  </small>
 
 Après une conversion opportuniste au catholicisme, par le cardinal Alberico Archinto (1698-1758), nonce apostolique à Dresde, il obtient une pension d'Auguste III pour poursuivre ses études à Rome, où il arrive en novembre 1755. Il découvre alors les collections de la ville, à commencer par celles du Vatican et du musée du Capitole qu’il fréquente avec passion. Il décrit notamment les sculptures de la cour du Belvédère : l’Apollon, le Torse, le Laocoon …
 Son séjour devient permanent grâce aux appuis qu’il obtient : d’abord brièvement bibliothécaire des cardinaux Archinto et Passionei, à partir de 1758 il devient celui du cardinal Alessandro Albani (1692-1779) avec lequel il se lie d’une solide amitié et qui soutient ses activités savantes. Il y est en charge de toutes les collections rassemblées par le riche amateur : les livres, les dessins et estampes, les peintures, et bien sûr les antiquités, exposées dans le palais de la rue des Quatre-Fontaines et dans la villa aménagée au delà de la Porta Salaria.
