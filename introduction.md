@@ -6,7 +6,10 @@ Si les œuvres de l’Antiquité ont été rassemblées et étudiées depuis la 
 
 >Progressivement, les œuvres qui nous parviennent des civilisations antiques ne sont plus considérées comme de simples illustrations des textes grecs et latins, mais sont étudiées en elles-mêmes et dans tous leurs aspects : de leur analyse rigoureuse découle le savoir.  
 
-**Johann Joachim Winckelmann** est un de ceux qui ont mis en œuvre ce changement épistémologique majeur, et sans doute celui dont l’influence a été la plus importante, de son vivant comme après sa mort prématurée. Mais cette “fascination de l’Antique” va bien au-delà des cercles érudits : toute l'Europe lettrée redécouvre alors l’Antiquité dont on débat à Paris ou à Londres, dans les salons et en société, entre artistes, collectionneurs et ces spécialistes que l’on appelle encore “antiquaires”.					 
+![Branching](./img/chap1/illu_1.jpg)
+<small> fig.1 : Anton von Maron (1733-1808), Portrait de JJW, 1768  </small>
+
+**Johann Joachim Winckelmann** est un de ceux qui ont mis en œuvre ce changement épistémologique majeur, et sans doute celui dont l’influence a été la plus importante, de son vivant comme après sa mort prématurée<sup>[1](#myfootnote1)</sup>. Mais cette “fascination de l’Antique” va bien au-delà des cercles érudits : toute l'Europe lettrée redécouvre alors l’Antiquité dont on débat à Paris ou à Londres, dans les salons et en société, entre artistes, collectionneurs et ces spécialistes que l’on appelle encore “antiquaires”.					 
 
 #### La vie de Winckelmann, de Dresde à Rome
 
@@ -50,6 +53,26 @@ Certains aspects du personnage aussi ont façonné sa légende : sa mort brutale
 Winckelmann est pleinement un homme du XVIIIe siècle : sa pensée est par de nombreux aspects datée et dépassée, et elle a été à juste titre critiquée, notamment sur la notion de race et son importance dans la définition des styles. Il a aussi refusé de considérer, au contraire de Caylus, des influences extérieures (notamment égyptiennes) sur l’art grec, et exalté la blancheur du marbre, alors que l’on sait maintenant que les œuvres étaient majoritairement polychromes. Il faut dire aussi que Winckelmann n’a jamais été en Grèce même ; ses lettres dévoilent le projet d’un voyage toujours repoussé. La perfection de sa vision de la cité grecque est donc largement un fantasme, et on a depuis longtemps raillé le fait qu’il ait théorisé la perfection grecque classique à partir d’œuvres que l’on sait maintenant être datées de l’époque romaine. Par bien des aspects, il a voulu faire correspondre le jugement sur les œuvres à l’idée préconçu qu’il avait de la beauté antique. On a donc aujourd’hui une lecture plus distanciée et critique de ces textes, qui restent essentiels pour comprendre l’histoire de la discipline.
 
 
-
 Mais des aspects parlent plus directement à l’historien de l’art d’aujourd’hui. Si l’on revient aux textes, on se rend compte que Winckelmann a écrit sur tout ce qui concerne l’Antiquité. Son goût pour la grande sculpture ne l’a pas empêché d’étudier les pierres gravées, les peintures murales, les vases grecs, les monnaies, et même les instruments de la vie quotidienne ou inscriptions sortis du sol romain. Si son influence se sent dans l’importance accordée, depuis, au style dans l’archéologie classique et dans ses liens forts avec l’histoire de l’art (par rapport aux autres champs de l’archéologie), elle est aussi à l’œuvre dans le développement d’une herméneutique perceptible dans les Monumenti inediti ou les écrits sur les sites campaniens.
 Il le répète à de nombreuses reprises : il faut regarder les œuvres, toutes les œuvres, et y revenir sans cesse ; la beauté comme la connaissance se méritent. Mais cet examen poussé ne doit pas déboucher sur une érudition stérile, et Winckelmann n’a que dédain pour les érudits pour lesquels une œuvre n’est que le prétexte de commentaires sans fin. Lier l’archéologie la plus exigeante à une appréciation esthétique la plus sensible, ouvrir la discipline au-delà du cercle des spécialistes : voilà sans doute des considérations qui résonnent encore aujourd’hui.
+
+
+
+#### Table des illusration
+1. Anton von Maron (1733-1808), Portrait de JJW, 1768, huile sur toile, château de Weimar.
+(image libre de droits sur wikipedia https://commons.wikimedia.org/wiki/File:Johann_Joachim_Winckelmann_(Anton_von_Maron_1768).jpg)
+2. Carte de l’Europe, 1759. https://fr.wikipedia.org/wiki/Fichier:Carte_europe_1763.jpg
+3. Hubert Robert (1733 - 1808), Un dessinateur dans la galerie du Capitole, vers 1765, sanguine, The J. Paul Getty Museum, Los Angeles.
+4. “Apollon du Belvédère”, copie romaine d’un original de Léocharès du 4e siècle av JC, marbre, Vatican, Museo Pio-Clementino. https://fr.wikipedia.org/wiki/Fichier:Belvedere_Apollo_Pio-Clementino_Inv1015_n4.jpg © Marie-Lan Nguyen / Wikimedia Commons.
+ou photo ancienne du Getty : (vers 1870–1890, Tirage sur papier albuminé, The J. Paul Getty Museum, Los Angeles).
+5. Giovanni Battista Piranesi (1720-1778), Vedute di Roma, Rome, 1748, pl.XXXVI : Villa Albani, bibliothèque de l’INHA.
+6. J.J. Winckelmann, Geschichte der Kunst des Altertums, 1764, page de titre.
+
+* * *
+
+<p>
+<small>
+<a name="myfootnote1">1</a>: Haskell, Penny 1988 ; Polignac, Raspi Serra 1998.
+</small>
+</p>
+<p>
