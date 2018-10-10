@@ -78,6 +78,8 @@ ou photo ancienne du Getty : (vers 1870–1890, Tirage sur papier albuminé, The
 5. Giovanni Battista Piranesi (1720-1778), Vedute di Roma, Rome, 1748, pl.XXXVI : Villa Albani, bibliothèque de l’INHA.
 6. J.J. Winckelmann, Geschichte der Kunst des Altertums, 1764, page de titre.
 
+
+
 * * *
 
 <p>
