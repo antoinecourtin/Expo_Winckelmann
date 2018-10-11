@@ -9,7 +9,7 @@
     border-color:rgba(0, 0, 0, 0.05);
     box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
     width:100%;
-    height:490px;
+    height:690px;
   border-width:3px;
   border-radius:2px;
   border-color:#FCFCFC;
@@ -19,7 +19,7 @@
     position: relative;
     overflow: hidden;
     width: 100%;
-    height:590px;
+    height:690px;
 }
 
 .carousel-open:checked + .carousel-item {
@@ -27,7 +27,7 @@
     opacity: 100;
     background-color:black;
     width:100%;
-    height:590px;
+    height:690px;
 }
 
 .carousel-item {
