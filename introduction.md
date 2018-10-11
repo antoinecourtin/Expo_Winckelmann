@@ -79,7 +79,6 @@ ou photo ancienne du Getty : (vers 1870–1890, Tirage sur papier albuminé, The
 6. J.J. Winckelmann, Geschichte der Kunst des Altertums, 1764, page de titre.
 
 
-
 * * *
 
 <p>
