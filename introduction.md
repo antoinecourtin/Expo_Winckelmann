@@ -1,6 +1,5 @@
-## Introduction
+## Introduction : Winckelmann et l’histoire de l’art antique
 
-### Winckelmann et l’histoire de l’art antique
 
 Si les œuvres de l’Antiquité ont été rassemblées et étudiées depuis la Renaissance, au XVIIIe siècle la façon de les considérer change radicalement. Dans un contexte de construction de nouveaux savoirs rationnels sur l’homme et la nature, les découvertes archéologiques de plus en plus nombreuses encouragent le développement d’une véritable science pour les étudier.
 
@@ -11,7 +10,7 @@ Si les œuvres de l’Antiquité ont été rassemblées et étudiées depuis la 
 
 **Johann Joachim Winckelmann** est un de ceux qui ont mis en œuvre ce changement épistémologique majeur, et sans doute celui dont l’influence a été la plus importante, de son vivant comme après sa mort prématurée<sup>[1](#myfootnote1)</sup>. Mais cette “fascination de l’Antique” va bien au-delà des cercles érudits : toute l'Europe lettrée redécouvre alors l’Antiquité dont on débat à Paris ou à Londres, dans les salons et en société, entre artistes, collectionneurs et ces spécialistes que l’on appelle encore “antiquaires”.					 
 
-#### La vie de Winckelmann, de Dresde à Rome
+### Winckelmann, de l’Allemagne à l’Italie
 
 Rien se semblait prédisposer Johann Joachim Winckelmann à la carrière ni à la vie qu’il a mené. Il nait le 9 décembre 1717 dans un petite ville sur l’Elbe, Stendal, dans un milieu modeste (son père est cordonnier). Après des études de théologie à l’université de Halle puis de médecine à Jena, il gagne chichement sa vie en devenant en 1743 précepteur dans une école de la petite ville de Seehausen.
 
@@ -26,7 +25,17 @@ Pourtant, Winckelmann n’a encore eu que peu de contact direct avec les marbres
 ![Branching](./img/chap1/illu_2.jpg)
 <small style="text-align:center"> fig.2 : Carte de l’Europe, 1759  </small>
 
-Après une conversion opportuniste au catholicisme, par le cardinal Alberico Archinto (1698-1758), nonce apostolique à Dresde, il obtient une pension d'Auguste III pour poursuivre ses études à Rome, où il arrive en novembre 1755. Il découvre alors les collections de la ville, à commencer par celles du Vatican et du musée du Capitole qu’il fréquente avec passion. Il décrit notamment les sculptures de la cour du Belvédère : l’Apollon, le Torse, le Laocoon …
+Après une conversion opportuniste au catholicisme, par le cardinal Alberico Archinto (1698-1758), nonce apostolique à Dresde, il obtient une pension d'Auguste III pour poursuivre ses études à Rome, où il arrive en novembre 1755.  Il découvre alors les collections de la ville, à commencer par celles du Vatican et du musée du Capitole qu’il fréquente avec passion.
+
+![Branching](./img/chap1/illu_3.jpg)
+<small style="text-align:center"> fig.3 : Hubert Robert (1733 - 1808), Un dessinateur dans la galerie du Capitole, vers 1765, sanguine, The J. Paul Getty Museum, Los Angeles.
+ </small>
+
+Il s’enflamme notamment pour les fameuses sculptures de la cour du Belvédère : l’Apollon, le Torse ou le Laocoon (fig.4).
+
+![Branching](./img/chap1/illu_4.jpg)
+<small style="text-align:center"> fig.4 :“Apollon du Belvédère”, copie romaine d’un original de Léocharès du IVe siècle av. J.-C., marbre, Vatican, Museo Pio-Clementino </small> 
+
 Son séjour devient permanent grâce aux appuis qu’il obtient : d’abord brièvement bibliothécaire des cardinaux Archinto et Passionei, à partir de 1758 il devient celui du cardinal Alessandro Albani (1692-1779) avec lequel il se lie d’une solide amitié et qui soutient ses activités savantes. Il y est en charge de toutes les collections rassemblées par le riche amateur : les livres, les dessins et estampes, les peintures, et bien sûr les antiquités, exposées dans le palais de la rue des Quatre-Fontaines et dans la villa aménagée au delà de la Porta Salaria.
 
 Il visite toutes les collections et regarde toutes les œuvres : à Rome même, les nouvelles fouilles comme les autres grandes collections particulières (Farnèse, Giustiniani, Ludovisi, Barberini, Borghèse, Mattei, Negroni...), mais aussi ailleurs en Italie. Il voyage plusieurs fois à Naples dès 1758, pour voir les fouilles des cités campaniennes (Pompéi, Herculanum, Stabies etc.) et le musée royal de Portici ; il en publie des rapports en 1762 et en 1764. Il connaît Florence aussi, où il se rend en 1758 pour publier la collection de pierres gravées du baron Philipp von Stosch (1691-1757), récemment décédé. A cette époque, on trouve dans tous ces fonds bien sûr des antiquités sorties du sol italien (grecques, étrusques ou romaines), mais aussi des objets venus de Méditerranée orientale, notamment des œuvres égyptiennes, et de nombreuses pierres gravées et monnaies qui circulent facilement.
@@ -35,7 +44,7 @@ Grâce à sa connaissance intime et encyclopédique des œuvres, il affine sa pe
 
 Mais une mort tragique met un terme brutal et prématuré à cette brillante carrière : revenant d’un voyage en Allemagne et à Vienne, il est assassiné le 8 juin 1768 dans une auberge de Trieste, par un malfrat qui lui dérobe les médailles antiques offertes par Marie-Thérèse et Joseph II.
 
-#### L’Histoire de l’art de l’antiquité, une œuvre fondatrice
+### L’Histoire de l’art de l’antiquité, une œuvre fondatrice
 
 Cette œuvre majeure est la contribution la plus décisive de Winckelmann à l’histoire du savoir, synthèse de ses connaissances sur l’art antique et de ses idées sur l’Art en général. Si l’ouvrage est dense et riche de références aux œuvres comme aux textes, il cherche clairement à dépasser la simple érudition pour proposer à la fois un récit historique et une interprétation des œuvres et des styles. On retrouve les idées principales déjà exposées dans les Réflexions parue neuf ans plus tôt, mais développées et complétées pour proposer un véritable système. La première phrase explose clairement le but fixé :
 
@@ -47,7 +56,7 @@ L’histoire grecque, c’est celle ouverte par Hérodote et pensée comme une e
 Pourquoi cette Histoire de l’Art a-t-elle révolutionné l’approche des œuvres ? La nouveauté est triple : par la volonté de faire un récit historique, il se démarque des écrits érudits des antiquaires, qui traditionnellement juxtaposent les explications de chaque objet. Et cette histoire est une histoire de l’art, et non pas une histoire des artistes : il cherche ainsi à rompre avec la tradition des vies d’artistes, qui remonte à Giorgio Vasari (1511-1574) et au-delà aux écrivains antiques. Il insère ainsi sa démarche et son œuvre dans une histoire universelle dont les multiples chapitres sont en train de s’écrire au siècle des Lumières. Enfin, par son modèle d’évolution artistique, il pose l’art comme idée, au sens philosophique du terme, un Art qui s’incarne dans des œuvres portées par une histoire analogue à celle de la vie des hommes. L’important est alors l’étude et la compréhension du style, et pas seulement la compréhension du sujet représenté. C’est un nouveau regard que Winckelmann propose à ses contemporains, dans un style passionné, convaincu de la beauté des œuvres antiques et résolu à convaincre de la nécessité pour les artistes de revenir à cette source.
 
 
-#### Winckelmann, un homme du XVIIIe siècle
+### Winckelmann, un homme du XVIIIe siècle
 
 Pour lui, le lien avec la création de son temps est essentiel, et d’ailleurs il fréquente de près peintres et sculpteurs. Dans la plupart de ses écrits, il s’adresse clairement aux artistes, et propose aussi des considérations techniques sur la manière de créer des anciens ; en cela il s’insère dans une tradition des écrits et discours sur l’art qui, depuis la Renaissance, se doivent d’apporter des modèles ou des normes pour la création. L’art antique est donc clairement proposé comme modèle, mais en même temps, par son insertion dans le récit historique, il appartient à un passé révolu et donc impossible à répéter : il doit servir d’inspiration. Pour autant, Winckelmann n’est pas à l’origine du mouvement néo-classique, dont les tendances étaient déjà bien présentes dans la culture européenne. Mais il en a rédigé le plus éclatant manifeste, et il a ainsi puissamment contribué à son développement.
 
@@ -55,7 +64,7 @@ On a eu tendance à exagérer la nouveauté radicale de l’approche de Winckelm
 
 La nouveauté réside aussi dans la langue et le ton des écrits. Winckelmann considère les œuvres antiques comme si elles étaient contemporaines, et n’hésite pas à émettre des jugements très net sur l’art antique comme moderne : les deux sont souvent mêlés et comparés. Parmi les artistes européens, c’est Raphaël qu’il place sur la plus haute marche, louant la pureté de son trait, tandis qu’il est très dur avec des artistes comme le Bernin, qui incarne tous les excès du baroque. Mais son approche est aussi éminemment sensible et il a su montrer à ses lecteurs des beautés parfois difficiles à appréhender. Ses écrits aussi offrent une vision érotique de la sculpture antique, les œuvres sont décrites avec une passion qui a inspiré beaucoup de lecteurs.
 
-#### Winckelmann hier et aujourd’hui
+### Winckelmann hier et aujourd’hui
 
 La postérité de Winckelmann est immense, et ses idées ont irrigué aussi bien l’histoire, l’archéologie, la philosophie, et l’histoire de l’art, comme en témoignent les nombreuses éditions et traductions de ses écrits, de son vivant ou après sa mort. C’est en Allemagne sans doute que sa figure a eu le plus profond retentissement, avant tout sur le classicisme du cercle de Weimar porté par J.W. Goethe (1749-1832) et J.G. Herder (1744-1803)  : dès le début du XIXe siècle, il devient le symbole de la culture allemande.
 Différents aspects ont été retenus au fil du temps et selon les milieux ou les disciplines, et les héritages sont multiples. Ainsi, la France révolutionnaire va faire avant tout une lecture politique, et mettre en avant le lien primordial établi entre l’art et la liberté ; Paris sera la capitale des arts, une nouvelle Athènes, patrie de la liberté, et c’est au nom de ces principes qu’on justifiera lors des campagnes napoléoniennes le déplacement des chefs-d’œuvres de l’Europe entière dans la capitale française.  
@@ -68,7 +77,7 @@ Winckelmann est pleinement un homme du XVIIIe siècle : sa pensée est par de no
 Mais des aspects parlent plus directement à l’historien de l’art d’aujourd’hui. Si l’on revient aux textes, on se rend compte que Winckelmann a écrit sur tout ce qui concerne l’Antiquité. Son goût pour la grande sculpture ne l’a pas empêché d’étudier les pierres gravées, les peintures murales, les vases grecs, les monnaies, et même les instruments de la vie quotidienne ou inscriptions sortis du sol romain. Si son influence se sent dans l’importance accordée, depuis, au style dans l’archéologie classique et dans ses liens forts avec l’histoire de l’art (par rapport aux autres champs de l’archéologie), elle est aussi à l’œuvre dans le développement d’une herméneutique perceptible dans les Monumenti inediti ou les écrits sur les sites campaniens.
 
 Il le répète à de nombreuses reprises :
-> il faut regarder les œuvres, toutes les œuvres, et y revenir sans cesse ; la beauté comme la connaissance se méritent. 
+> il faut regarder les œuvres, toutes les œuvres, et y revenir sans cesse ; la beauté comme la connaissance se méritent.
 
 Mais cet examen poussé ne doit pas déboucher sur une érudition stérile, et Winckelmann n’a que dédain pour les érudits pour lesquels une œuvre n’est que le prétexte de commentaires sans fin. Lier l’archéologie la plus exigeante à une appréciation esthétique la plus sensible, ouvrir la discipline au-delà du cercle des spécialistes : voilà sans doute des considérations qui résonnent encore aujourd’hui.
 
