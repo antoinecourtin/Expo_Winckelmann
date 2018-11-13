@@ -7,7 +7,7 @@ Si les œuvres de l’Antiquité ont été rassemblées et étudiées depuis la 
 
 ![Branching](./img/chap1/illu_1.jpg)
 <small style="text-align:center">fig.1 : Anton von Maron (1733-1808), Portrait de JJW, 1768  </small>
-	
+
 
 **Johann Joachim Winckelmann** compte parmi ceux qui ont mis en œuvre ce changement épistémologique majeur, et il est sans doute celui dont l’influence a été la plus importante, de son vivant comme après sa mort prématurée<sup>[1](#myfootnote1)</sup>. Mais la “fascination de l’antique” qui caractérise l’époque va bien au-delà des cercles érudits : toute l'Europe lettrée redécouvre alors ce passé lointain dont on débat à Paris ou à Londres, dans les salons et en société, entre artistes, collectionneurs et ces spécialistes que l’on appelle encore des “antiquaires”.								 
 
@@ -100,10 +100,10 @@ Par bien des aspects, il a voulu faire correspondre son jugement sur les œuvres
 
 Mais des aspects parlent plus directement à l’historien de l’art d’aujourd’hui. Si l’on revient aux textes, on se rend compte que Winckelmann a écrit sur tout ce qui concerne l’antiquité. Son goût pour la grande sculpture ne l’a pas empêché d’étudier les pierres gravées, les peintures murales, les vases grecs, les monnaies, et même les instruments de la vie quotidienne ou inscriptions sortis du sol romain .
 
-![Branching](./img/chap1/illu_10.jpg)
+![Branching](./img/chap1/illu_9.jpg)
 <small style="text-align:center"> fig.10 : Hydrie attique à figures rouges, signée par Meidias, 420-400 av. J.-C., terre cuite, Londres, British Museum.</small>
 
-![Branching](./img/chap1/illu_11.jpg)
+![Branching](./img/chap1/illu_9.jpg)
 <small style="text-align:center"> fig.11 : Intaille de la collection Stosch, dans  Johann Joachim Winckelmann, Monumenti antichi inediti, Rome, 1767, pl.97.</small>
 
 Si son influence se sent dans l’importance accordée au style dans l’archéologie classique et dans ses liens forts avec l’histoire de l’art (par rapport aux autres champs de l’archéologie), elle est aussi à l’œuvre dans le développement d’une herméneutique perceptible dans les Monumenti inediti ou les écrits sur les sites campaniens.
