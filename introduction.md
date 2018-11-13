@@ -53,7 +53,7 @@ Mais une mort tragique met un terme brutal et prématuré à cette brillante car
 Synthèse de ses connaissances sur l’art antique et de ses idées sur l’Art en général, cette œuvre majeure est la contribution la plus décisive de Winckelmann à l’histoire du savoir.
 
 ![Branching](./img/chap1/illu_6.jpg)
-<small style="text-align:center"> fig.6 :</small>
+<small style="text-align:center"> fig.6 :  J.J. Winckelmann, Geschichte der Kunst des Altertums, 1764, page de titre.</small>
 
 Si l’ouvrage est dense et riche de références aux œuvres comme aux textes, il cherche clairement à dépasser la simple érudition pour proposer à la fois un récit historique et une interprétation des œuvres et des styles. On retrouve les idées principales déjà exposées dans les Réflexions parues neuf ans plus tôt, mais elles sont développées et complétées pour proposer un véritable système.
 
@@ -100,10 +100,11 @@ Par bien des aspects, il a voulu faire correspondre son jugement sur les œuvres
 
 Mais des aspects parlent plus directement à l’historien de l’art d’aujourd’hui. Si l’on revient aux textes, on se rend compte que Winckelmann a écrit sur tout ce qui concerne l’antiquité. Son goût pour la grande sculpture ne l’a pas empêché d’étudier les pierres gravées, les peintures murales, les vases grecs, les monnaies, et même les instruments de la vie quotidienne ou inscriptions sortis du sol romain .
 
-![Branching](./img/chap1/illu_9.jpg)
+
+![Branching](./img/chap1/illu_10.jpg)
 <small style="text-align:center"> fig.10 : Hydrie attique à figures rouges, signée par Meidias, 420-400 av. J.-C., terre cuite, Londres, British Museum.</small>
 
-![Branching](./img/chap1/illu_9.jpg)
+![Branching](./img/chap1/illu_11.jpg)
 <small style="text-align:center"> fig.11 : Intaille de la collection Stosch, dans  Johann Joachim Winckelmann, Monumenti antichi inediti, Rome, 1767, pl.97.</small>
 
 Si son influence se sent dans l’importance accordée au style dans l’archéologie classique et dans ses liens forts avec l’histoire de l’art (par rapport aux autres champs de l’archéologie), elle est aussi à l’œuvre dans le développement d’une herméneutique perceptible dans les Monumenti inediti ou les écrits sur les sites campaniens.
