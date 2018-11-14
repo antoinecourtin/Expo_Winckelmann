@@ -24,9 +24,8 @@ Domaine de recherche Histoire de l’art antique et de l’archéologie
 * Marie-Laure Moreau
 * Anne-Gaëlle Plumejeau
 * Hélène Boubée
-
-### Livret
 * Marc Riou
+
 
 ### Site Internet
 * Antoine Courtin
