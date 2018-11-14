@@ -5,7 +5,7 @@ Si les œuvres de l’Antiquité ont été rassemblées et étudiées depuis la 
 >Progressivement, les œuvres qui nous parviennent des civilisations antiques ne sont plus considérées comme de simples illustrations des textes grecs et latins, mais sont étudiées en elles-mêmes et dans tous leurs aspects : de leur analyse rigoureuse découle le savoir.  
 
 ![Branching](./img/chap1/illu_1.jpg)
-<small style="text-align:center">fig.1 : Anton von Maron (1733-1808), Portrait de JJW, 1768  </small>
+<small style="text-align:center">fig.1 : Anton von Maron (1733-1808), Portrait de JJW, 1768, huile sur toile, château de Weimar. </small>
 
 
 **Johann Joachim Winckelmann** compte parmi ceux qui ont mis en œuvre ce changement épistémologique majeur, et il est sans doute celui dont l’influence a été la plus importante, de son vivant comme après sa mort prématurée<sup>[1](#myfootnote1)</sup>. Mais la “fascination de l’antique” qui caractérise l’époque va bien au-delà des cercles érudits : toute l'Europe lettrée redécouvre alors ce passé lointain dont on débat à Paris ou à Londres, dans les salons et en société, entre artistes, collectionneurs et ces spécialistes que l’on appelle encore des “antiquaires”.								 
