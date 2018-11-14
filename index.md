@@ -1,7 +1,7 @@
 ## Winckelmann à la bibliothèque de l'INHA
 
 Cette exposition virtuelle met en valeur les fonds de la bibliothèque de l'INHA relatif à l'historien de l'art Johann Joachim Winckelmann.
-Elle a a été réalisée à l'occasion d'une présentation en salle Labrouste du 22 au 30 novembre 2018.
+Elle a été réalisée à l'occasion d'une présentation en salle Labrouste du 22 au 30 novembre 2018.
 
 
 <div class="row">
@@ -68,9 +68,13 @@ Elle a a été réalisée à l'occasion d'une présentation en salle Labrouste d
 }
 </style>
 
-> Contrairement à ce que l’on pourrait s’imaginer, la bibliothèque de l’INHA ne possède pas les premières éditions allemandes des écrits de Winckelmann.
 
- Ainsi, de ses éditions originales, le lecteur n’y trouvera que la Description des pierres gravées du feu Baron de Stosch, parue à Florence, chez Bonducci, en 1760, et les Monumenti Antichi Inediti, publiés à Rome à compte d’auteur en 1767.
+
+## Avant-propos
+
+Contrairement à ce que l’on pourrait s’imaginer, la bibliothèque de l’INHA ne possède pas les premières éditions allemandes des écrits de Winckelmann.
+
+Ainsi, de ses éditions originales, le lecteur n’y trouvera que la Description des pierres gravées du feu Baron de Stosch, parue à Florence, chez Bonducci, en 1760, et les Monumenti Antichi Inediti, publiés à Rome à compte d’auteur en 1767.
  La première est une acquisition du début du XXe siècle - elle se trouvait déjà rue Spontini, dans la bibliothèque que René-Jean avait organisée pour Jacques Doucet -, tandis que le second ouvrage avait appartenu à l’architecte écossais Charles Cameron, nommé architecte de la tzarine Catherine la Grande en 1779.
 
  Toutes les autres éditions anciennes des écrits de l’antiquaire sont des traductions françaises, arrivées à la bibliothèque à des moments différents par achat ou par don. Parmi les donateurs qui avaient possédé une édition française de la Geschichte der Kunst des Alterthums on retiendra les noms de Louis Dimier et du chanoine Jacques-Camille Broussolle. Dans l’ancien fonds Jacques Doucet se trouvaient encore un exemplaire des Lettres familières de M. Winckelmann publié à Amsterdam en 1781 et le discours sur Winckelmann prononcé par le professeur Carl Morgenstern à l’université de Dorpat le 12 décembre 1803. La bibliothèque de l’INHA possède en outre l’édition originale de la seconde édition du Winckelmann und seine Zeitgenossen de Carl Justi et la biographie que Ferdinand Bac a fait paraître à Paris en 1929. Elle conserve aussi une lettre manuscrite, datée de Rome le 14 février 1761 et rédigée en italien.
@@ -82,5 +86,3 @@ Nous avons pu réaliser ce travail grâce à l’accord et au soutien de France 
 Cécile Colonna et Daniela Gallo, Paris le 10 novembre 2018.
 
 [Pour en savoir + sur le colloque](https://www.inha.fr/fr/agenda/parcourir-par-annee/en-2018/novembre-2018/winckelmann-et-l-uvre-d-art-materiaux-et-types.html)
-
-Découvrir les Documents

@@ -1,6 +1,5 @@
 ## Introduction : Winckelmann et l’histoire de l’art antique
 
-
 Si les œuvres de l’Antiquité ont été rassemblées et étudiées depuis la Renaissance, au XVIIIe siècle la façon de les considérer change radicalement. Dans un contexte de construction de nouveaux savoirs rationnels sur l’homme et la nature, les découvertes archéologiques de plus en plus nombreuses encouragent le développement d’une véritable science pour les étudier.
 
 >Progressivement, les œuvres qui nous parviennent des civilisations antiques ne sont plus considérées comme de simples illustrations des textes grecs et latins, mais sont étudiées en elles-mêmes et dans tous leurs aspects : de leur analyse rigoureuse découle le savoir.  
@@ -40,7 +39,7 @@ Il s’enflamme notamment pour les fameuses sculptures de la cour du Belvédère
 Son séjour devient permanent grâce aux appuis qu’il obtient : d’abord brièvement bibliothécaire des cardinaux Archinto et Passionei, à partir de 1758 il devient celui du cardinal Alessandro Albani (1692-1779) avec lequel il se lie d’une solide amitié et qui soutient ses activités savantes. Il y est en charge de toutes les collections rassemblées par le riche amateur : les livres, les dessins et estampes, les peintures, et bien sûr les antiquités, exposées dans le palais de la rue des Quatre-Fontaines et dans la villa aménagée au delà de la Porta Salaria.
 
 ![Branching](./img/chap1/illu_5.jpg)
-<small style="text-align:center"> fig.5 :</small>
+<small style="text-align:center"> fig.5 : Giovanni Battista Piranesi (1720-1778), Vedute di Roma, Rome, 1748, pl.XXXVI : Villa Albani, bibliothèque de l’INHA. </small>
 
 Il visite toutes les collections et regarde toutes les œuvres : à Rome même, les nouvelles fouilles comme les autres grandes collections particulières (Farnèse, Giustiniani, Ludovisi, Barberini, Borghèse, Mattei, Negroni...), mais aussi ailleurs en Italie. Il voyage plusieurs fois à Naples dès 1758, pour voir les fouilles des cités campaniennes (Pompéi, Herculanum, Stabies etc.) et le musée royal de Portici ; il en publie des rapports en 1762 et en 1764. Il connaît Florence aussi, où il se rend en 1758 pour publier la collection de pierres gravées du baron Philipp von Stosch (1691-1757), récemment décédé. A cette époque, on trouve dans tous ces fonds bien sûr des antiquités sorties du sol italien (grecques, étrusques ou romaines), mais aussi des objets venus de Méditerranée orientale, notamment des œuvres égyptiennes, et de nombreuses pierres gravées et monnaies qui circulent facilement.
 
@@ -102,7 +101,7 @@ Mais des aspects parlent plus directement à l’historien de l’art d’aujour
 
 
 ![Branching](./img/chap1/illu_10.jpg)
-<small style="text-align:center"> fig.10 : Hydrie attique à figures rouges, signée par Meidias, 420-400 av. J.-C., terre cuite, Londres, British Museum.</small>
+<small style="text-align:center"> fig.10 : P.-F.H. d’Hancarville, Collection of Etruscan, Greek and Roman Antiquities from the Cabinet of the Hon. W. Hamilton, Naples, 1766, vol.1, pl.127. </small>
 
 ![Branching](./img/chap1/illu_11.jpg)
 <small style="text-align:center"> fig.11 : Intaille de la collection Stosch, dans  Johann Joachim Winckelmann, Monumenti antichi inediti, Rome, 1767, pl.97.</small>
