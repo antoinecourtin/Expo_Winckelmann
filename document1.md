@@ -228,7 +228,7 @@ font-weight:bold;}
 
 ***
 ### **Document n°1 - Anton Francesco Gori (1691-1757)**
-**_Museum florentinum exhibens insigniora vetustatis monumenta quae Florentiae sunt, Ioanni Gastoni Etruriae Magno Duci dedicatum.-**
+**_Museum florentinum exhibens insigniora vetustatis monumenta quae Florentiae sunt, Ioanni Gastoni Etruriae Magno Duci dedicatum._**
 **_I, Gemmae antiquae ex thesauro mediceo et privatorum dactyliothecis Florentiae exhibentes tabulis_**
 **_c. Imagines virorum illustrium et deorum cum observationibus Antonii Francisci Gorii publici historiarum professoris, Florence,_**
 **_ex typographia Michaelis Nestenus et Francisci Moücke, 1731-1732_**
@@ -236,13 +236,24 @@ font-weight:bold;}
 
 [Consulter le document numérisé](https://bibliotheque-numerique.inha.fr/collection/item/13543-lettres-familieres-de-m-winckelmann-premiere-partie?offset=2){:target="_blank"}
 
-[exemplaire numérisé d'une autre bibliothèque] (http://gallica.bnf.fr/ark:/12148/bpt6k888083n) {:target="_blank"}
+[exemplaire numérisé d'une autre bibliothèque](http://gallica.bnf.fr/ark:/12148/bpt6k888083n){:target="_blank"}
 
-2 volumes in-quarto (33 x 22 cm)
-Reliure en maroquin rouge, encadrement doré sur les plats, dos à cinq nerfs cloisonné de filets dorés, titre et tomaison.
-première page mention à l’encre :
-> 1877. collationné complet le 6 juillet 1825. J.J. Debure l’ainé. la feuille 6 du tome second est double. en bas
-> > c.d.m.m. 689
+2 volumes in-folio (47 x 36 cm).
+
+Reliure en maroquin rouge, encadrement doré sur les plats avec au centre du premier plat de chaque volume des armes frappées or, dos à six nerfs cloisonné de filets dorés, titre et tomaison (interversion volumes I et II).
+Ex-libris gravé
+> The Marquis of Stafford
+
+avec la devise
+
+> Honi soit qui mal y pense
+
+, collé sur le premier contreplat de chaque volume.
+Estampille sur la page de titre :
+> Bibliothèque d'art et d'archéologie, 19 rue Spontini, 19 Paris.
+
+Entièrement réglés à l'encre rouge ; marges d'origine conservées. Les planches sont intercalées au regard des explications dans le texte. 
+
 
 Anton Francesco Gori est un célèbre antiquaire de Florence, une des grandes figures de la première moitié du XVIIIe siècle.
 Elève de Anton Maria Salvini (1653-1729) et inspiré par les études de Filippo Buonarroti (1661-1733), il est un des fondateurs de la > Società Colombaria Fiorentina en 1735.
@@ -268,6 +279,7 @@ Ce type d’œuvres, principalement les intailles, sont extrêmement prisées, c
 Ce succès s’explique par de nombreux facteurs : ces pierres subsistent en nombre, et sont largement intactes, contrairement à la grande sculpture ; elles offrent ainsi
 un accès direct au
 > dessin
+
 des anciens, et permettent une étude aussi bien des sujets que, de plus en plus, des styles.
 Ce sont de petits objets précieux, dont on peut facilement faire des empreintes ou même des reproductions (en pâte de verre) : ces dernières sont alors largement échangées
 entre les amateurs de toute l’Europe, permettant de constituer des cabinets montrant toute la diversité des productions et des sujets.
