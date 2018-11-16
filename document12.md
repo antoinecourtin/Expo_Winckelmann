@@ -20,6 +20,4 @@ Morgenstern prononça son discours sur Winckelmann le 12 décembre 1803 à l’o
 Il avait prononcé son discours sur l’influence des études classiques sur la formation  harmonieuse de l’être humain le 12 décembre 1802, à l’occasion de l’anniversaire du tzar.
 Cet exemplaire arriva-t-il à Paris lors de la campagne napoléonienne de 1806-1807 ? La présence du tampon avec l’aigle impériale pourrait le laisser entendre. Quant à l’architecte A. Kaufmann, il est l’auteur d’une plaquette sur le château de Brugny en Champagne publiée à Paris, chez Plon frères, en 1852.
 
-_Daniela Gallo_
-
 Biblio. : Traemer 1885 ; Brohm 2008, p. 107 ; Rößler 2014, p. 212.
