@@ -2,7 +2,9 @@
 ### **Document n°8 - Giambattista Piranesi (1720-1778)**
 **_Le Antichità Romane di Giambattista Piranesi Architetto Veneziano, Tomo secondo contenente gli avanzi de’ monumenti sepolcrali di Roma e dell’agro romano. Tomo terzo_ avec le même titre.**
 **Rome, _nella stamperia dfi Angelo Rotilj, nel Palazzo di Massimi. Si vendono in Roma dai Signori Bouchard, e gravier Mercanti...,_ 1756**
+
 -------------------
+
 **Bibliothèque de l’INHA, cote Pl Res 13 (2-3)**
 [Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.470877 ){:target="_blank"}
 
@@ -16,8 +18,6 @@ Vénitien, Giovan Battista Piranesi (1720-1778) a été un architecte, dessinate
 Les quatre volumes _in-folio_ des _Antichità Romane_ parurent entre 1756 et 1757. Dans ces 262 planches, l’artiste-antiquaire présente les monuments antiques tels qu’ils étaient en ce milieu du XVIIIe siècle. Les tomes II et III traitent des tombeaux et font état des résultats de fouilles exécutées dans les premières décennies du XVIIIe siècle et déjà publiées en partie. On y trouve d’abord une image de ces monuments tels qu’on les apercevait de l’extérieur. Puis, le plan, les relevés et les coupes précèdent la présentation des trouvailles selon une mise en scène très originale, où l’objet archéologique - relief, urne, stuc, mosaïque, vase, inscription ou objet en bronze - s’anime d’une vie propre grâce à un travail exceptionnel sur la lumière et les ombres. Les objets trouvés dans les fouilles sont en effet disposés sur des espèces de présentoirs comme s’il s’agissait de natures mortes. Des légendes détaillées permettent d’identifier chacune des pièces et de les replacer à l’intérieur du lieu où elles avaient été retrouvées et où parfois elles se trouvaient encore. Dans ce travail de longue haleine, qui dura sept ans, Piranèse fut épaulé par Mgr Bottari (1689-1775), le brillant bibliothécaire du cardinal Corsini, et aidé par le peintre français Jean Barbault (1718-1762), qui signe certaines planches. « Les gravures de Piranèse - écrit Alain Schnapp (2017) - agrandissent ou réduisent à plaisir les monuments, elles jouent de l’infiniment grand et de l’infiniment petit, elles tordent les perspectives et modulent les premiers plans comme si le graveur, conscient de ses effets, ployait les monuments à son propre plaisir pour les faire parler à sa place. »
 L’un des fils de Giambattista, Francesco (1756-1810), réédita le recueil des _Antichità Romane_ une première fois en 1784 avec dédicace à Gustave III, roi de Suède, et à nouveau en 1787. 
 Les exemplaires de la bibliothèque de l’INHA portent l’ex-libris du deuxième duc de Sutherland, qui fut un grand amateur de livres et l’un des cinq fondateurs du très exclusif Roxburghe Club en 1812 (voir aussi n°1 et 7). Son père avait été un grand collectionneur et l’homme le plus riche du Royaume-Uni.
-
-_Daniela Gallo_
 
 Biblio. : Battaglia 1996 ; Kantor-Kazovsky 2006 ; Mariani 2014 ; Gallo 2018.
 
