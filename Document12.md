@@ -1,8 +1,10 @@
 ***
 ### **Document n°12 - Carl Morgenstern (1770-1852)**
 **_Johann Winkelmann. Eine Rede von D. Carl Morgenstern, Russ. Kaiserl. Hofrat, Ordentl. Professor der Beredsamkeit und Altclassischen Philologie, der Ästhetik und der Geschichte der Literatur und Kunst an der Kaiserl. Universität zu Dorpat, Director der Universitäts-Bibliothek und des Akad. Museums ; nebst dessen Rede über den Einfluss des Studiums der Griechischen und Römischen Classiker auf Harmonische Bildung zum Menschen. Mit Winckelmanns Portrait nach Mengs_**
-**Leipzig, Bey G.J. Göschen, 1805 **
+**Leipzig, Bey G.J. Göschen, 1805**
+
 -------------------------
+
 **Bibliothèque de l’INHA, cote 8 RES 1897**
 [Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.230497){:target="_blank"}
 
