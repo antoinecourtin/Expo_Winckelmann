@@ -2,7 +2,9 @@
 ### **Document n°9 - Ridolfino Venuti (1705-1763)**
 **_Accurata e succinta descrizione topografica delle Antichità di Roma dell’abate Ridolfino Venuti Cortonese Presidente all’Antichità Romane, e Membro Onorario della Regia Società degli Antiquari di Londra_**
 **Rome, _Presso Gio. Battista Bernabò, e Giuseppe Lazzarini,_ 1763**
+
 -------------------------------------
+
 **Bibliothèque de l’INHA, cote 4 Res 1730**
 [Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227071){:target="_blank"}
 
@@ -17,7 +19,5 @@ Paru à titre posthume, cet ouvrage avait été conçu pour les visiteurs étran
 La qualité moyenne des images gravées, qui sont très souvent des reproductions de gravures d’artistes célèbres tels que Piranèse, J. Ch. Bellicard ou Jean Barbault, déjà imprimées dans des guides ou des recueils des années 1740, n’empêcha pas la réussite éditoriale de cet ouvrage, qui fut réédité, avec des mises à jour, en 1803 et en 1824. 
 La publication de cette première édition fut assurée par une souscription à laquelle adhérèrent des personnages aussi célèbres que les cardinaux Alessandro Albani et Neri Corsini, le duc de Devonshire, Piranèse ou l’architecte londonien James Adam. Winckelmann lui-même, qui succéda à Ridolfino Venuti comme préfet aux antiquités de la ville de Rome, souscrivit à côté des soixante-onze Italiens et des cent-quatre-vingt-douze Anglais qui permirent la parution de l’ouvrage après la mort de son auteur.
 Né à Cortone en 1705, Ridolfino Venuti mourut à Rome le 30 mars 1763. Il avait été l’un des fondateurs de l’Académie étrusque de Cortone (voir notice n° 10). Avant d’être nommé commissaire aux antiquités de Rome et conservateur des galeries pontificales par le pape Benoît XIV en 1744, il avait été auditeur du cardinal Alessandro Albani, dont il avait publié la collection de médailles antiques. Il devint célèbre parmi les voyageurs illustres du Grand Tour, qu’il accompagnait lors de leurs visites aux monuments en arrondissant ainsi ses fins de mois. La liste de ses publications est imprimée à la fin de ce volume (p. 143 de la seconde partie), où est reproduite aussi la longue inscription latine que le Cortonais Niccolò Lucci, chanoine de l’église Saint-Eustache à Rome, avait préparée pour le tombeau  qu’il était en train de faire élever à Ridolfino Venuti dans l’église San Nicola in Arcione.
-
-_Daniela Gallo_
 
 Biblio. : Winckelmann 1961, p. 224 (lettre du 30 avril 1763) ; Gallo 1985 ; Gallo 2005 ; Bentz 2012.
