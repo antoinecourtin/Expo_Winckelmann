@@ -9,8 +9,8 @@
 [![Foo](/img/doc7/doc7_1.jpg)](./document7.html)
 <small style="text-align:center">PIRANESI, Antichità Romane, 1756, 4 volumes.PI Res. 13 (2) </small>
 
-[![Foo](/img/doc8/doc8_1.jpg)](./document8.html)
+[![Foo](/img/doc8/doc8_1.png)](./document8.html)
 <small style="text-align:center">PIRANESI, Antichità Romane, 1756, 4 volumes. PI Res. 13 (3)</small>
 
-[![Foo](/img/doc9/doc9_1.jpg)](./document9.html)
+[![Foo](/img/doc9/doc9_1.png)](./document9.html)
 <small style="text-align:center">Ridolfino VENUTI, Accurata e succinta descrizione topografica delle Antichità di Roma, 1763. 4 Rés. 1730</small>
