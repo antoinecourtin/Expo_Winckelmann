@@ -5,7 +5,9 @@ Elle a été réalisée à l'occasion d'une présentation en salle Labrouste du 
 
 ---
 Parcourez les documents ci-dessous et utiliser les sections dans le menu de gauche.
+
 ---
+
 <div class="row">
   <div class="column">
     <a href="./document1.html"><img src="./img/vignettes/doc1_1.jpg"></a>
