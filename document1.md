@@ -179,7 +179,7 @@ font-weight:bold;}
 </style>
 
 
-
+### **Document n°1 - Anton Francesco Gori (1691-1757)**
 
 <div class="carousel">
    <div class="carousel-inner">
@@ -194,6 +194,22 @@ font-weight:bold;}
       <input name="carousel" class="carousel-open" id="carousel-3" aria-hidden="true" type="radio" hidden="true"/>
       <div class="carousel-item">
 <img class="pic" src="./img/doc1/doc1_3.jpg">
+<div class="carousel-item">
+<img class="pic" src="./img/doc1/doc1_4.jpg">
+<div class="carousel-item">
+<img class="pic" src="./img/doc1/doc1_5.jpg">
+<div class="carousel-item">
+<img class="pic" src="./img/doc1/doc1_6.jpg">
+<div class="carousel-item">
+<img class="pic" src="./img/doc1/doc1_7.jpg">
+<div class="carousel-item">
+<img class="pic" src="./img/doc1/doc1_8.jpg">
+<div class="carousel-item">
+<img class="pic" src="./img/doc1/doc1_9.jpg">
+<div class="carousel-item">
+<img class="pic" src="./img/doc1/doc1_10.jpg">
+<div class="carousel-item">
+<img class="pic" src="./img/doc1/doc1_11.jpg">
       </div>
       <label class="carousel-control prev control-1" for="carousel-3">‹</label>
       <label class="carousel-control next control-1" for="carousel-2">›</label>
@@ -218,7 +234,7 @@ font-weight:bold;}
          <li>
             <label class="carousel-bullet" for="carousel-3">●</label>
             <div class="carousel-preview">
-              <img src="./img/doc1/doc1_1.jpg" />
+              <img src="./img/doc1/doc1_3.jpg" />
             </div>
          </li>
     </ol>
@@ -226,7 +242,6 @@ font-weight:bold;}
 </div>
 
 ***
-### **Document n°1 - Anton Francesco Gori (1691-1757)**
 **_Museum florentinum exhibens insigniora vetustatis monumenta quae Florentiae sunt, Ioanni Gastoni Etruriae Magno Duci dedicatum._**
 **_I, Gemmae antiquae ex thesauro mediceo et privatorum dactyliothecis Florentiae exhibentes tabulis_**
 **_c. Imagines virorum illustrium et deorum cum observationibus Antonii Francisci Gorii publici historiarum professoris, Florence,_**
