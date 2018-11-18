@@ -5,38 +5,39 @@ Elle a été réalisée à l'occasion d'une présentation en salle Labrouste du 
 
 ---
 
+---
 <div class="row">
   <div class="column">
-    <a href="./document1.html"><img src="./img/doc1/doc1_1.jpg"></a>
-    <a href="./document5.html"><img src="./img/doc5/doc5_1.jpg"></a>
-    <a href="./document9.html"><img src="./img/doc9/doc9_1.jpg"></a>
-    <a href="./document13.html"><img src="./img/doc13/doc13_1.jpg"></a>
-    <a href="./document17.html"><img src="./img/doc17/doc17_1.jpg"></a>
-    <a href="./document21.html"><img src="./img/doc21/doc21_1.jpg"></a>
+    <a href="./document1.html"><img src="./img/vignettes/doc1_1.jpg"></a>
+    <a href="./document5.html"><img src="./img/vignettes/doc5_1.jpg"></a>
+    <a href="./document9.html"><img src="./img/vignettes/doc9_1.jpg"></a>
+    <a href="./document13.html"><img src="./img/vignettes/doc13_1.jpg"></a>
+    <a href="./document17.html"><img src="./img/vignettes/doc17_1.jpg"></a>
+    <a href="./document21.html"><img src="./img/vignettes/doc21_1.jpg"></a>
 
   </div>
   <div class="column">
-  <a href="./document2.html"><img src="./img/doc2/doc2_1.jpg"></a>
-  <a href="./document6.html"><img src="./img/doc6/doc6_1.jpg"></a>
-  <a href="./document10.html"><img src="./img/doc10/doc10_1.jpg"></a>
-  <a href="./document14.html"><img src="./img/doc14/doc14_1.jpg"></a>
-  <a href="./document18.html"><img src="./img/doc18/doc18_1.jpg"></a>
+  <a href="./document2.html"><img src="./img/vignettes/doc2_1.jpg"></a>
+  <a href="./document6.html"><img src="./img/vignettes/doc6_1.jpg"></a>
+  <a href="./document10.html"><img src="./img/vignettes/doc10_1.jpg"></a>
+  <a href="./document14.html"><img src="./img/vignettes/doc14_1.jpg"></a>
+  <a href="./document18.html"><img src="./img/vignettes/doc18_1.jpg"></a>
 
   </div>
   <div class="column">
-  <a href="./document3.html"><img src="./img/doc3/doc3_1.jpg"></a>
-  <a href="./document7.html"><img src="./img/doc7/doc7_1.jpg"></a>
-  <a href="./document11.html"><img src="./img/doc11/doc11_1.jpg"></a>
-  <a href="./document15.html"><img src="./img/doc15/doc15_1.jpg"></a>
-  <a href="./document19.html"><img src="./img/doc19/doc19_1.jpg"></a>
+  <a href="./document3.html"><img src="./img/vignettes/doc3_1.jpg"></a>
+  <a href="./document7.html"><img src="./img/vignettes/doc7_1.jpg"></a>
+  <a href="./document11.html"><img src="./img/vignettes/doc11_1.jpg"></a>
+  <a href="./document15.html"><img src="./img/vignettes/doc15_1.jpg"></a>
+  <a href="./document19.html"><img src="./img/vignettes/doc19_1.jpg"></a>
 
   </div>
   <div class="column">
-  <a href="./document4.html"><img src="./img/doc4/doc4_1.jpg"></a>
-  <a href="./document8.html"><img src="./img/doc8/doc8_1.jpg"></a>
-  <a href="./document12.html"><img src="./img/doc12/doc12_1.jpg"></a>
-  <a href="./document16.html"><img src="./img/doc16/doc16_1.jpg"></a>
-  <a href="./document20.html"><img src="./img/doc20/doc20_1.jpg"></a>
+  <a href="./document4.html"><img src="./img/vignettes/doc4_1.jpg"></a>
+  <a href="./document8.html"><img src="./img/vignettes/doc8_1.jpg"></a>
+  <a href="./document12.html"><img src="./img/vignettes/doc12_1.jpg"></a>
+  <a href="./document16.html"><img src="./img/vignettes/doc16_1.jpg"></a>
+  <a href="./document20.html"><img src="./img/vignettes/doc20_1.jpg"></a>
 
   </div>
 </div>
