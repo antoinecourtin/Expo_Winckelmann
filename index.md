@@ -11,7 +11,7 @@ Elle a été réalisée à l'occasion d'une présentation en salle Labrouste du 
     <a href="./document5.html"><img src="./img/doc5/doc5_1.jpg"></a>
     <a href="./document9.html"><img src="./img/doc9/doc9_1.jpg"></a>
     <a href="./document13.html"><img src="./img/doc13/doc13_1.jpg"></a>
-    <a href="./document17.html"><img src="./img/doc117/doc17_1.jpg"></a>
+    <a href="./document17.html"><img src="./img/doc17/doc17_1.jpg"></a>
     <a href="./document21.html"><img src="./img/doc21/doc21_1.jpg"></a>
 
   </div>
@@ -34,7 +34,7 @@ Elle a été réalisée à l'occasion d'une présentation en salle Labrouste du 
   <div class="column">
   <a href="./document4.html"><img src="./img/doc4/doc4_1.jpg"></a>
   <a href="./document8.html"><img src="./img/doc8/doc8_1.jpg"></a>
-  <a href="./document12.html"><img src="./img/doc5/doc12_1.jpg"></a>
+  <a href="./document12.html"><img src="./img/doc12/doc12_1.jpg"></a>
   <a href="./document16.html"><img src="./img/doc16/doc16_1.jpg"></a>
   <a href="./document20.html"><img src="./img/doc20/doc20_1.jpg"></a>
 
