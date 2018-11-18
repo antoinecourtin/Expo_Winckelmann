@@ -4,7 +4,7 @@ Cette exposition virtuelle met en valeur les fonds de la bibliothèque de l'INHA
 Elle a été réalisée à l'occasion d'une présentation en salle Labrouste du 22 au 30 novembre 2018.
 
 ---
-
+Parcourez les documents ci-dessous et utiliser les sections dans le menu de gauche.
 ---
 <div class="row">
   <div class="column">
