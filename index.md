@@ -3,34 +3,44 @@
 Cette exposition virtuelle met en valeur les fonds de la bibliothèque de l'INHA relatif à l'historien de l'art Johann Joachim Winckelmann.
 Elle a été réalisée à l'occasion d'une présentation en salle Labrouste du 22 au 30 novembre 2018.
 
+---
 
 <div class="row">
   <div class="column">
     <a href="./document1.html"><img src="./img/doc1/doc1_1.jpg"></a>
-    <img src="./img/doc1/doc1_2.jpg">
-    <img src="./img/doc1/doc1_2.jpg">
-    <img src="./img/doc1/doc1_2.jpg">
-    <img src="./img/doc1/doc1_2.jpg">
+    <a href="./document2.html"><img src="./img/doc2/doc2_1.png"></a>
+    <a href="./document3.html"><img src="./img/doc3/doc3_1.jpg"></a>
+    <a href="./document4.html"><img src="./img/doc4/doc4_1.png"></a>
+    <a href="./document5.html"><img src="./img/doc5/doc5_1.jpg"></a>
+
   </div>
   <div class="column">
     <img src="./img/doc1/doc1_2.jpg">
     <img src="./img/doc1/doc1_1.jpg">
     <img src="./img/doc1/doc1_2.jpg">
     <img src="./img/doc1/doc1_2.jpg">
+    <img src="./img/doc1/doc1_2.jpg">
+
   </div>
   <div class="column">
   <img src="./img/doc1/doc1_2.jpg">
   <img src="./img/doc1/doc1_1.jpg">
   <img src="./img/doc1/doc1_2.jpg">
   <img src="./img/doc1/doc1_2.jpg">
+  <img src="./img/doc1/doc1_2.jpg">
+
   </div>
   <div class="column">
   <img src="./img/doc1/doc1_2.jpg">
   <img src="./img/doc1/doc1_1.jpg">
   <img src="./img/doc1/doc1_2.jpg">
   <img src="./img/doc1/doc1_2.jpg">
+  <img src="./img/doc1/doc1_2.jpg">
+
   </div>
 </div>
+
+---
 
 
 ## Avant-propos
