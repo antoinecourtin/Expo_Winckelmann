@@ -179,7 +179,6 @@ font-weight:bold;}
 </style>
 
 
-## Document n°1 - TEST
 
 
 <div class="carousel">
@@ -194,7 +193,7 @@ font-weight:bold;}
       </div>
       <input name="carousel" class="carousel-open" id="carousel-3" aria-hidden="true" type="radio" hidden="true"/>
       <div class="carousel-item">
-<img class="pic" src="./img/doc1/doc1_1.jpg">
+<img class="pic" src="./img/doc1/doc1_3.jpg">
       </div>
       <label class="carousel-control prev control-1" for="carousel-3">‹</label>
       <label class="carousel-control next control-1" for="carousel-2">›</label>
@@ -252,7 +251,7 @@ avec la devise
 Estampille sur la page de titre :
 > Bibliothèque d'art et d'archéologie, 19 rue Spontini, 19 Paris.
 
-Entièrement réglés à l'encre rouge ; marges d'origine conservées. Les planches sont intercalées au regard des explications dans le texte. 
+Entièrement réglés à l'encre rouge ; marges d'origine conservées. Les planches sont intercalées au regard des explications dans le texte.
 
 
 Anton Francesco Gori est un célèbre antiquaire de Florence, une des grandes figures de la première moitié du XVIIIe siècle.
@@ -287,6 +286,6 @@ Le livre de Gori fait suite à d’autres études comme celle de Leonardo Agosti
 avec des annotations de Giovan Pietro Bellori, et celle de Philip de Stosch, _Gemmae Antiquae Caelatae_, paru en 1724.
 Les analyses très développées, en latin, cherchent avant tout à faire le lien entre les images et les textes antiques connus, et à expliquer les sujets représentés.
 Le travail sur les planches était tout aussi important que le texte : reproduire ces motifs de très petites dimensions, parfois difficile à comprendre, par des dessins agrandis
-et donc facilement déformés était difficile, et Gori veillait de près à la réalisation de ces planches. 
+et donc facilement déformés était difficile, et Gori veillait de près à la réalisation de ces planches.
 
 Bibliographie : Micheli 1986 ; Gallo 1997 ; Masci 2003 ; Cagianelli 2006 ; Balleri 2007 ; _Symbolae antiquvariae_ 2008 ; Gambaro 2008 ; Bruni 2008 ; Bruni 2014.
