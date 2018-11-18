@@ -9,5 +9,5 @@
 [![Foo](/img/doc3/doc3_1.jpg)](./document3.html)
 <small style="text-align:center">Recueil d'antiquités égyptiennes, étrusques, grecques et romaines, Caylus, 1752-1767.	4 RES 1847 (1)</small>
 
-[![Foo](/img/doc4/doc4_1.pnf)](./document4.html)
+[![Foo](/img/doc4/doc4_1.png)](./document4.html)
 <small style="text-align:center">J.J. Winckelmann, Description des pierres gravées du feu Baron de Stosch, 1760.	4 RES 1939</small>
