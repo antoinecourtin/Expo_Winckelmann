@@ -3,7 +3,7 @@
 [![Foo](/img/doc10/doc10_1.jpg)](./document10.html)
 <small style="text-align:center">Lettre signée J.J. Winckelmann,  à Sellari, 17 février 1761. Autographes 28bis, 17</small>
 
-[![Foo](/img/doc11/doc11_1.png)](./document11.html)
+[![Foo](/img/doc11/doc11_1.jpg)](./document11.html)
 <small style="text-align:center">Lettres familières de M. Winckelmann. 1781	8 RES1905</small>
 
 [![Foo](/img/doc12/doc12_1.jpg)](./document12.html)
