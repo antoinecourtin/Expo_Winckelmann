@@ -1,16 +1,13 @@
-## Rome au 18e siècle
+## Winckelmann et la tradition antiquaire
 
-[![Foo](/img/doc5/doc5_1.jpg)](./document5.html)
-<small style="text-align:center">Nuova pianta di Roma data in luce da Giambattista Nolli,  l'anno MDCCXLVIII.Fol C 208 </small>
+[![Foo](/img/doc1/doc1_1.jpg)](./document1.html)
+<small style="text-align:center">Gori, Museum florentinum exhibens insigniora vetustatis monumenta quae Florentiae sunt, I-II A. F. Gemmae antiquae, 1731-32. Fol Res 399 (1-2)</small>
 
-[![Foo](/img/doc6/doc6_1.jpg)](./document6.html)
-<small style="text-align:center">Ficoroni Francesco de, Le Vestigia e rarita di Roma Antica, Rome, 1744. 4 Res 1718 </small>
+[![Foo](/img/doc2/doc2_1.jpg)](./document2.html)
+<small style="text-align:center">Mariette, Traité de pierres gravées, 1750. 4 RES 504 (1 ou 2) </small>
 
-[![Foo](/img/doc7/doc7_1.jpg)](./document7.html)
-<small style="text-align:center">PIRANESI, Antichità Romane, 1756, 4 volumes.PI Res. 13 (2) </small>
+[![Foo](/img/doc3/doc3_1.jpg)](./document3.html)
+<small style="text-align:center">Recueil d'antiquités égyptiennes, étrusques, grecques et romaines, Caylus, 1752-1767.	4 RES 1847 (1)</small>
 
-[![Foo](/img/doc8/doc8_1.jpg)](./document8.html)
-<small style="text-align:center">PIRANESI, Antichità Romane, 1756, 4 volumes. PI Res. 13 (3)</small>
-
-[![Foo](/img/doc9/doc9_1.jpg)](./document9.html)
-<small style="text-align:center">Ridolfino VENUTI, Accurata e succinta descrizione topografica delle Antichità di Roma, 1763. 4 Rés. 1730</small>
+[![Foo](/img/doc4/doc4_1.jpg)](./document4.html)
+<small style="text-align:center">J.J. Winckelmann, Description des pierres gravées du feu Baron de Stosch, 1760.	4 RES 1939</small>

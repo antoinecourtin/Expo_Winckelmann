@@ -1,4 +1,4 @@
-## Geschichte
+## L’Histoire de l'art antique et sa diffusion en France
 
 [![Foo](/img/doc15/doc15_1.jpg)](./document15.html)
 <small style="text-align:center">J.J. Winckelmann, Histoire de l'art chez les Anciens, première traduction française par Gottfried Sellius, 2 vol., Paris, Saillant, 1766.	12 RES 1611 (1-2)</small>
