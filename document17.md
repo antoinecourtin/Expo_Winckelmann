@@ -17,5 +17,7 @@ Cette troisième édition française du chef-d’œuvre de Winckelmann est une r
 Cet exemplaire de la bibliothèque de l’INHA est enrichi, à la fin du vol. III, de 27 planches reproduisant surtout des pierres gravées, des peintures et quelques objets étrusques et égyptiens. Il a appartenu à l’historien et critique d’art Louis Dimier (1865-1943), lequel, selon un tampon apposé sur l’une des pages de titres du vol. 1, le donna à la bibliothèque d’art Jacques Doucet. En 1900, Dimier avait soutenu une thèse à la Sorbonne sur Le Primatice, peintre, sculpteur et architecte des rois de France, préparée sous la direction d’Eugène Müntz, dans laquelle il présentait, à juste titre, l’artiste italien comme « le véritable initiateur » de la Renaissance en France. Royaliste, catholique et antisémite, il fonda en 1907 l’Institut d’Action française.
 Dimier lut très attentivement l'ouvrage de Winckelmann en l’annotant ici et là au crayon. Il s’intéressa particulièrement aux passages concernant Michel-Ange (II, p. 30, 31) et fut souvent critique envers les considérations de l’antiquaire sur les qualités de l’art grec et de sa beauté. Sur le frontispice du vol. I, il annota au crayon une citation du philosophe anti-révolutionnaire Louis de Bonald (1754-1840) en guise d’« épigraphe à prendre » : « Ce sont les doctrines étrangères qui nous ont asservis et livrés aux armes étrangères. Bonald ».
 
+DG
+
 Biblio. : Griener 1998 ; Pommier 2003, p. 227-228 ; Passini et Zerner 2008.
 

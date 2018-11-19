@@ -20,4 +20,6 @@ Le vol. I de ces Lettres familières s’ouvre sur la préface, anonyme, du trad
 Les lettres du vol. I avaient déjà été publiées en deux volumes à Dresde par l’un des bibliothécaires de la Bibliothèque électorale, Karl Wilhelm Dassdorf (1750-1812), entre 1777 et 1780, et celles du volume II adressées par Winckelmann à ses amis suisses avaient vu le jour à Zurich, chez Orell, Gessner, Füssli & Compagnie, en 1778. Suivirent deux autres éditions françaises de cette correspondance publiées à Yverdon respectivement en 1782 et en 1784.
 La bibliothèque de l’INHA possède un autre exemplaire de cet ouvrage (8 Rés 880), mais il présente des problèmes de conservation.
 
+DG
+
 Biblio. : Il sepolcro di Winckelmann 1823, p. 178-180 ; Espagne 1991.

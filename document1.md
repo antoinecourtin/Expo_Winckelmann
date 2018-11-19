@@ -292,4 +292,7 @@ Les analyses très développées, en latin, cherchent avant tout à faire le lie
 Le travail sur les planches était tout aussi important que le texte : reproduire ces motifs de très petites dimensions, parfois difficile à comprendre, par des dessins agrandis
 et donc facilement déformés était difficile, et Gori veillait de près à la réalisation de ces planches.
 
+CC
+
 Bibliographie : Micheli 1986 ; Gallo 1997 ; Masci 2003 ; Cagianelli 2006 ; Balleri 2007 ; _Symbolae antiquvariae_ 2008 ; Gambaro 2008 ; Bruni 2008 ; Bruni 2014.
+

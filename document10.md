@@ -15,5 +15,7 @@ Fondée en 1727 par un groupe de savants cortonais qui purent compter sur l’ap
 La candidature de Winckelmann avait été proposée par le nonce apostolique auprès du grand-duc de Toscane, Mgr Vitaliano Borromeo, à l’automne 1758. Il était alors _lucumone_ (président) de l’académie et avait connu Winckelmann à Florence lorsque ce dernier préparait le catalogue de la collection des pierres gravées du baron Philipp von Stosch (n° 4). Cette élection prouvait que les érudits toscans reconnaissaient désormais le Saxon comme un des leurs. Winckelmann venait d’être élu aussi « _accademico d’onore_ » (membre honoraire) à l’Académie de Saint-Luc de Rome et membre de la Society of Antiquaries à Londres. 
 Une traduction française manuscrite et anonyme accompagne cet autographe.
  
+DG
+
 Biblio. : Winckelmann 1961, p. 117 (lettre du 7 octobre 1758) et 162-163, n° 59 (lettre du 14 février 1761) ; Barocchi-Gallo 1985 ; Fanfani 2016, p. 197.
 

@@ -19,5 +19,7 @@ Les quatre volumes _in-folio_ des _Antichità Romane_ parurent entre 1756 et 175
 L’un des fils de Giambattista, Francesco (1756-1810), réédita le recueil des _Antichità Romane_ une première fois en 1784 avec dédicace à Gustave III, roi de Suède, et à nouveau en 1787. 
 Les exemplaires de la bibliothèque de l’INHA portent l’ex-libris du deuxième duc de Sutherland, qui fut un grand amateur de livres et l’un des cinq fondateurs du très exclusif Roxburghe Club en 1812 (voir aussi n°1 et 7). Son père avait été un grand collectionneur et l’homme le plus riche du Royaume-Uni.
 
+DG
+
 Biblio. : Battaglia 1996 ; Kantor-Kazovsky 2006 ; Mariani 2014 ; Gallo 2018.
 
