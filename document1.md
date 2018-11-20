@@ -179,8 +179,7 @@ font-weight:bold;}
 </style>
 
 
-## Document n°1 - TEST
-
+### Document n°1 - Anton Francesco Gori (1691-1757)
 
 <div class="carousel">
    <div class="carousel-inner">
@@ -194,7 +193,7 @@ font-weight:bold;}
       </div>
       <input name="carousel" class="carousel-open" id="carousel-3" aria-hidden="true" type="radio" hidden="true"/>
       <div class="carousel-item">
-<img class="pic" src="./img/doc1/doc1_1.jpg">
+<img class="pic" src="./img/doc1/doc1_3.jpg">
       </div>
       <label class="carousel-control prev control-1" for="carousel-3">‹</label>
       <label class="carousel-control next control-1" for="carousel-2">›</label>
@@ -219,7 +218,7 @@ font-weight:bold;}
          <li>
             <label class="carousel-bullet" for="carousel-3">●</label>
             <div class="carousel-preview">
-              <img src="./img/doc1/doc1_1.jpg" />
+              <img src="./img/doc1/doc1_3.jpg" />
             </div>
          </li>
     </ol>
@@ -227,12 +226,15 @@ font-weight:bold;}
 </div>
 
 ***
-### **Document n°1 - Anton Francesco Gori (1691-1757)**
+
 **_Museum florentinum exhibens insigniora vetustatis monumenta quae Florentiae sunt, Ioanni Gastoni Etruriae Magno Duci dedicatum._**
+
 **_I, Gemmae antiquae ex thesauro mediceo et privatorum dactyliothecis Florentiae exhibentes tabulis_**
 **_c. Imagines virorum illustrium et deorum cum observationibus Antonii Francisci Gorii publici historiarum professoris, Florence,_**
+
 **_ex typographia Michaelis Nestenus et Francisci Moücke, 1731-1732_**
 
+***
 
 [Consulter le document numérisé](https://bibliotheque-numerique.inha.fr/collection/item/13543-lettres-familieres-de-m-winckelmann-premiere-partie?offset=2){:target="_blank"}
 
@@ -244,8 +246,9 @@ Reliure en maroquin rouge, encadrement doré sur les plats avec au centre du pre
 Ex-libris gravé _The Marquis of Stafford_ avec la devise _Honi soit qui mal y pense_, collé sur le premier contreplat de chaque volume.
 Estampille sur la page de titre : _Bibliothèque d'art et d'archéologie, 19 rue Spontini, 19 Paris._
 
-Entièrement réglés à l'encre rouge ; marges d'origine conservées. Les planches sont intercalées au regard des explications dans le texte. 
+Entièrement réglés à l'encre rouge ; marges d'origine conservées. Les planches sont intercalées au regard des explications dans le texte.
 
+***
 
 Anton Francesco Gori est un célèbre antiquaire de Florence, une des grandes figures de la première moitié du XVIIIe siècle.
 Elève d'Anton Maria Salvini (1653-1729) et inspiré par les études de Filippo Buonarroti (1661-1733), il fut l'un des fondateurs de la _Società Colombaria Fiorentina en 1735._
@@ -282,4 +285,9 @@ et donc facilement déformés était difficile, et Gori veillait de près à la 
 
 CC
 
+<<<<<<< HEAD
 Bibliographie : Micheli 1986 ; Gallo 1997 ; Masci 2003 ; Cagianelli 2006 ; Balleri 2007 ; Gambaro 2008 ; Bruni 2008 ; Bruni 2014.
+=======
+Bibliographie : Micheli 1986 ; Gallo 1997 ; Masci 2003 ; Cagianelli 2006 ; Balleri 2007 ; _Symbolae antiquvariae_ 2008 ; Gambaro 2008 ; Bruni 2008 ; Bruni 2014.
+
+>>>>>>> d7087b3d5423d88f416495eaab27a79979bd5201

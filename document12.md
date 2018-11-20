@@ -6,9 +6,10 @@
 -------------------------
 
 **Bibliothèque de l’INHA, cote 8 RES 1897**
-[Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.230497){:target="_blank"}
 
-[exemplaire numérisé d'une autre bibliothèque] (http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10050212-0) {:target="_blank"}
+[Consulter le document numérisé ici](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.230497){:target="_blank"}
+
+[exemplaire numérisé d'une autre bibliothèque](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10050212-0){:target="_blank"}
 
 1 volume in-8°
 Reliure en papier marbré, titre doré sur le dos
@@ -19,5 +20,7 @@ Né à Magdebourg, dans l’Anhalt, en 1770, Johann Carl Simon Morgenstern avait
 Morgenstern prononça son discours sur Winckelmann le 12 décembre 1803 à l’occasion de la publication des premiers sujets de concours pour les étudiants de l’université impériale de Dorpat. Se fondant sur la correspondance éditée de l’antiquaire, il considère surtout l’homme Winckelmann, dont il n’existait alors pas encore de biographie. Il en retrace ainsi la vie et résume le contenu de ses principaux ouvrages en essayant d’en dégager un portrait historique et psychologique.
 Il avait prononcé son discours sur l’influence des études classiques sur la formation  harmonieuse de l’être humain le 12 décembre 1802, à l’occasion de l’anniversaire du tzar.
 Cet exemplaire arriva-t-il à Paris lors de la campagne napoléonienne de 1806-1807 ? La présence du tampon avec l’aigle impériale pourrait le laisser entendre. Quant à l’architecte A. Kaufmann, il est l’auteur d’une plaquette sur le château de Brugny en Champagne publiée à Paris, chez Plon frères, en 1852.
+
+DG
 
 Biblio. : Traemer 1885 ; Brohm 2008, p. 107 ; Rößler 2014, p. 212.
