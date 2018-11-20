@@ -179,7 +179,7 @@ font-weight:bold;}
 </style>
 
 
-### Document n°1 - Anton Francesco Gori (1691-1757)
+## Document n°1 - Anton Francesco Gori (1691-1757)
 
 <div class="carousel">
    <div class="carousel-inner">
@@ -226,8 +226,6 @@ font-weight:bold;}
 </div>
 
 ***
-
-**Document n°1 - Anton Francesco Gori (1691-1757)**
 
 **_Museum florentinum exhibens insigniora vetustatis monumenta quae Florentiae sunt, Ioanni Gastoni Etruriae Magno Duci dedicatum._**
 
