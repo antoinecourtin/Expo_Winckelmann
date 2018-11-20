@@ -8,6 +8,9 @@
 
 ***
 
+![Branching](./img/doc4/doc4_1.jpg)
+
+
 **Bibliothèque de l'INHA, cote 4 RES 1939**
 
 [Consulter le document numérisé](http://bibliotheque-numerique.inha.fr/idurl/1/13547){:target="_blank"}
