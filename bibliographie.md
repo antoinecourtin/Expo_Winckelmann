@@ -1,6 +1,5 @@
 ﻿## Bibliographie
 
-
 AGHION Irène et ZAMBON Alessia, « Le comte de Caylus (1692-1765) et l’invention de l’archéologie », dans Les nouvelles de l’archéologie, no 110, 30 novembre 2007, p. 15‑17.
 
 AGHION Irène (éd.), Caylus, mécène du roi  : collectionner les antiquités au XVIIIe siècle, Paris, INHA, 2002.
