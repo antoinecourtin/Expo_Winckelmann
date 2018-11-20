@@ -8,7 +8,7 @@
 **Bibliothèque de l’INHA, cote 12 RES 1611 (1-2)**
 [Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.264250){:target="_blank"}
 
-[exemplaire numérisé d'une autre bibliothèque] (https://gallica.bnf.fr/ark:/12148/bpt6k6423247r) {:target="_blank"}
+[exemplaire numérisé d'une autre bibliothèque](https://gallica.bnf.fr/ark:/12148/bpt6k6423247r){:target="_blank"}
 
 2 volumes in-12°(20 x 13 cm)
 Reliure en veau brun marbré, dos orné et doré à huit nerfs avec pièce de titre et tomaison.

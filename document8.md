@@ -8,7 +8,7 @@
 **Bibliothèque de l’INHA, cote Pl Res 13 (2-3)**
 [Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.470877 ){:target="_blank"}
 
-[exemplaire numérisé d'une autre bibliothèque] (http://arachne.uni-koeln.de/books/Piranesi1756Vol2) {:target="_blank"}
+[exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/books/Piranesi1756Vol2){:target="_blank"}
 
 Reliure en mi-cuir marbré, dos avec faux nerfs dorés et fleurons, pièce de titre, auteur et tomaison dorés
 2 volumes in-fol (54 x 41 cm chacun)

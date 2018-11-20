@@ -8,7 +8,7 @@
 **Bibliothèque de l’INHA, cote N7483.W5 JUST 1898 (1)**
 [Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.117769){:target="_blank"}
 
-[exemplaire numérisé d'une autre bibliothèque] (http://digi.ub.uni-heidelberg.de/diglit/justi1866bd1) {:target="_blank"}
+[exemplaire numérisé d'une autre bibliothèque](http://digi.ub.uni-heidelberg.de/diglit/justi1866bd1){:target="_blank"}
 
 1 volume in-8°
 Reliure en tissu noir, dos avec pièce de titre en veau fauve, titre et nom de l’auteur dorés.

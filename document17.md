@@ -7,7 +7,7 @@
 
 **Bibliothèque de l’INHA, cote 8 RES 1384 (1-3) (inv. 31216)**
 
-[exemplaire numérisé d'une autre bibliothèque] (https://catalog.hathitrust.org/Record/009019193) {:target="_blank"}
+[exemplaire numérisé d'une autre bibliothèque](https://catalog.hathitrust.org/Record/009019193){:target="_blank"}
 
 3 volumes (21 x 13 cm)
 Reliures en veau brun avec encadrements dorés, dos à six nerfs orné avec des motifs dorés, titre et tomaison.

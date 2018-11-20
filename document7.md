@@ -6,7 +6,7 @@
 
 **Bibliothèque de l’INHA, cote Pl Res 13 (16, 17)**
 
-[exemplaire numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.312886) {:target="_blank"}
+[exemplaire numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.312886){:target="_blank"}
 
 (78 x 56 cm)
 Le volume des _Vedute di Roma, disegnate ed incise da Giambattista Piranesi, architetto ve[nez]iano_, dont est issue cette planche porte un ex-libris doré sur cuir collé au dos du plat de reliure : armes à la devise de l’ordre de la Jarretière « Honi soit qui mal y pense » de George Granville Sutherland-Leveson-Gower (1786-1861), deuxième duc de Sutherland ([voir n° 1](./document1.md) et [n° 8](./document8.md)).

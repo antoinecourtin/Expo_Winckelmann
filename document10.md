@@ -5,7 +5,7 @@
 
 **Bibliothèque de l’INHA, Autographe 28bis, 17**
 
-[exemplaire numérisé](https://agorha.inha.fr/inhaprod/ark:/54721/00521717) {:target="_blank"}
+[exemplaire numérisé](https://agorha.inha.fr/inhaprod/ark:/54721/00521717){:target="_blank"}
 
 encre brune sur papier vergé (240 x  152 mm)
 Au verso, en haut à droite : « al Canonico Antonio Sellari Segretario dell’Accademia Etrusca di Cortona »

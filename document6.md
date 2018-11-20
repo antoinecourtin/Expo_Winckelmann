@@ -9,8 +9,7 @@ Titre de la seconde partie : Le singolarità di Roma moderna ricercate, e spiega
 
 **Bibliothèque de l’INHA, cote 4 Res 1718**
 [Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.226413){:target="_blank"}
-
-[exemplaire numérisé d'une autre bibliothèque] (http://arachne.uni-koeln.de/item/buchseite/354615) {:target="_blank"}
+[exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/item/buchseite/354615){:target="_blank"}
 
 2 parties en 1 volume in-4° (28 x 20 cm)
 Reliure en parchemin, dos avec titre et décor d’entrelacs à l’encre brune 

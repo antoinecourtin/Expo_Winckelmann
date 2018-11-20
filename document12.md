@@ -8,7 +8,7 @@
 **Bibliothèque de l’INHA, cote 8 RES 1897**
 [Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.230497){:target="_blank"}
 
-[exemplaire numérisé d'une autre bibliothèque] (http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10050212-0) {:target="_blank"}
+[exemplaire numérisé d'une autre bibliothèque](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10050212-0){:target="_blank"}
 
 1 volume in-8°
 Reliure en papier marbré, titre doré sur le dos
