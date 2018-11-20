@@ -287,9 +287,4 @@ et donc facilement déformés était difficile, et Gori veillait de près à la 
 
 CC
 
-<<<<<<< HEAD
 Bibliographie : Micheli 1986 ; Gallo 1997 ; Masci 2003 ; Cagianelli 2006 ; Balleri 2007 ; Gambaro 2008 ; Bruni 2008 ; Bruni 2014.
-=======
-Bibliographie : Micheli 1986 ; Gallo 1997 ; Masci 2003 ; Cagianelli 2006 ; Balleri 2007 ; _Symbolae antiquvariae_ 2008 ; Gambaro 2008 ; Bruni 2008 ; Bruni 2014.
-
->>>>>>> d7087b3d5423d88f416495eaab27a79979bd5201
