@@ -9,7 +9,7 @@
 
 **Bibliothèque de l'INHA, [cote 4 RES 504 (1-2)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227111)**
 
-![Branching](./img/doc2/doc2_1.png)
+![Branching](./img/doc2/doc2_1.jpg)
 
 [Exemplaire numérisé d'une autre bibliothèque](https://gallica.bnf.fr/ark:/12148/bpt6k311112h){:target="_blank"}
 
