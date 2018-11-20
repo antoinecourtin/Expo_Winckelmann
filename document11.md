@@ -1,6 +1,6 @@
 ***
 ### **Document n°11 - Johann Joachim Winckelmann (1717-1768)**
-**_Lettres familières de M. Winckelmann. 1781_
+**_Lettres familières de M. Winckelmann._
 Amsterdam,  1781, et se vend à Paris, chez Couturier fils, Libraire, quai & près les Grands Augustins, au Coq**
 **Rome, _Nella stamperia di Girolamo Mainardi_, 1744.**
 
