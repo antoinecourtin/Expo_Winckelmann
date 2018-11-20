@@ -6,6 +6,7 @@
 **Rome, A spese dell' autore, 1767**
 
 ***
+![Branching](./img/doc18/doc18_1.jpg)
 
 **Bibliothèque de l'INHA, cote Fol RES 355 (1-2)**
 

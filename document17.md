@@ -4,6 +4,7 @@
 **Paris, chez Barrois l’aîné, Libraire quai des Augustins, n° 19, et chez Savoye, Libraire, rue Saint-Jacques, n° 12, 1789**
 
 -------------------------
+![Branching](./img/doc17/doc17_1.jpg)
 
 **Bibliothèque de l’INHA, cote 8 RES 1384 (1-3) (inv. 31216)**
 
@@ -22,4 +23,3 @@ Dimier lut très attentivement l'ouvrage de Winckelmann en l’annotant ici et l
 DG
 
 Biblio. : Griener 1998 ; Pommier 2003, p. 227-228 ; Passini et Zerner 2008.
-

@@ -4,6 +4,7 @@
 **Leipzig, Bey G.J. Göschen, 1805**
 
 -------------------------
+![Branching](./img/doc12/doc12_1.jpg)
 
 **Bibliothèque de l’INHA, cote 8 RES 1897**
 

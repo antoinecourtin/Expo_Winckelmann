@@ -3,6 +3,7 @@
 **_« Veduta della Villa dell’Emo. Sig. Card. Alessandro Albani fuori di Porta Salaria », 1769-1771._**
 
 -------------------------
+![Branching](./img/doc7/doc7_1.jpg)
 
 **Bibliothèque de l’INHA, cote Pl Res 13 (16, 17)**
 
@@ -17,4 +18,3 @@ Arrivé à Rome de Dresde le 19 novembre 1755, Winckelmann devint membre de l’
 DG
 
 Biblio. : Beck et Bol 1982 ; Bevilacqua 1993.
-

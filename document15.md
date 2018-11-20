@@ -4,6 +4,7 @@
 **Paris, chez  Saillant, rue S. Jean de  Beauvais, 1766**
 
 -------------------------
+![Branching](./img/doc15/doc15_1.jpg)
 
 **Bibliothèque de l’INHA, cote 12 RES 1611 (1-2)**
 

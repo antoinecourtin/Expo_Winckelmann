@@ -5,6 +5,8 @@
 
 -------------------------
 
+![Branching](./img/doc13/doc13_1.jpg)
+
 **Bibliothèque de l’INHA, cote N7483.W5 JUST 1898 (1)**
 
 [Consulter le document numérisé ici](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.117769){:target="_blank"}

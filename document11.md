@@ -5,6 +5,7 @@ Amsterdam,  1781, et se vend à Paris, chez Couturier fils, Libraire, quai & pr�
 **Rome, _Nella stamperia di Girolamo Mainardi_, 1744.**
 
 -------------------------
+![Branching](./img/doc11/doc11_1.jpg)
 
 **Bibliothèque de l’INHA, cote 8 RES 1905 (1-2)**
 [Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.226413){:target="_blank"}
