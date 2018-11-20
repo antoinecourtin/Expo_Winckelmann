@@ -242,6 +242,7 @@ font-weight:bold;}
 
 [exemplaire numérisé d'une autre bibliothèque](http://gallica.bnf.fr/ark:/12148/bpt6k888083n){:target="_blank"}
 
+
 2 volumes in-folio (47 x 36 cm).
 
 Reliure en maroquin rouge, encadrement doré sur les plats avec au centre du premier plat de chaque volume des armes frappées or, dos à six nerfs cloisonné de filets dorés, titre et tomaison (interversion volumes I et II).
