@@ -6,7 +6,8 @@
 -------------------------
 
 **Bibliothèque de l’INHA, cote 12 RES 1611 (1-2)**
-[Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.264250){:target="_blank"}
+
+[Consulter le document numérisé ici](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.264250){:target="_blank"}
 
 [exemplaire numérisé d'une autre bibliothèque](https://gallica.bnf.fr/ark:/12148/bpt6k6423247r){:target="_blank"}
 
