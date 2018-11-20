@@ -7,11 +7,10 @@
 
 ***
 
-**Bibliothèque de l'INHA, cote 4 RES 504 (1-2)**
+**Bibliothèque de l'INHA, [cote 4 RES 504 (1-2)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227111)**
 
 ![Branching](./img/doc2/doc2_1.png)
 
-[Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227111){:target="_blank"}
 [Exemplaire numérisé d'une autre bibliothèque](https://gallica.bnf.fr/ark:/12148/bpt6k311112h){:target="_blank"}
 
 2 volumes in-quarto (33 x 22 cm)

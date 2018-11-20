@@ -236,7 +236,7 @@ font-weight:bold;}
 
 **_ex typographia Michaelis Nestenus et Francisci Moücke, 1731-1732_**
 
-**Brunet, t.2, col. 1670. Cote FOL Res 399 (1-6)[http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search&p=74469586-3948-11e2-a8f1-ac6f86effe00#recordId=1.226416]**
+**Brunet, t.2, col. 1670. [Cote FOL Res 399 (1-6)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search&p=74469586-3948-11e2-a8f1-ac6f86effe00#recordId=1.226416)**
 
 ***
 
