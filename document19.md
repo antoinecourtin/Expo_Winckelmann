@@ -1,7 +1,11 @@
-﻿**Document n°19 - Johann Joachim Winckelmann (1717-1768)**
+﻿***
+
+**Document n°19 - Johann Joachim Winckelmann (1717-1768)**
 **_Recueil de lettres de M. Winckelmann, sur les découvertes faites à Herculanum, à Pompéii, à Stabia, à Caserte & à Rome_**
 
 **Paris, chez Barrois l'aîné, libraire, quai des Augustins, 1784**
+
+***
 
 **Bibliothèque de l'INHA, cote 8 RES 855 et 8 RES 856**
 

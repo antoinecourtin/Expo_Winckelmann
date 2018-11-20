@@ -227,6 +227,8 @@ font-weight:bold;}
 
 ***
 
+**Document n°1 - Anton Francesco Gori (1691-1757)**
+
 **_Museum florentinum exhibens insigniora vetustatis monumenta quae Florentiae sunt, Ioanni Gastoni Etruriae Magno Duci dedicatum._**
 
 **_I, Gemmae antiquae ex thesauro mediceo et privatorum dactyliothecis Florentiae exhibentes tabulis_**

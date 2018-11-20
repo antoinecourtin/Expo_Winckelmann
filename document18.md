@@ -1,7 +1,11 @@
-﻿**Document n°18 - Johann Joachim Winckelmann**
+﻿***
+
+**Document n°18 - Johann Joachim Winckelmann**
 **_Monumenti antichi inediti_**
 
 **Rome, A spese dell' autore, 1767**
+
+***
 
 **Bibliothèque de l'INHA, cote Fol RES 355 (1-2)**
 

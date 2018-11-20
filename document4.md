@@ -1,8 +1,12 @@
-﻿**Document n°4 - Johann Joachim Winckelmann (1717-1768)**
+﻿***
+
+**Document n°4 - Johann Joachim Winckelmann (1717-1768)**
 
 **_Description des pierres gravées du feu Baron de Stosch_**
 
 **Florence, André Bonducci, 1760**
+
+***
 
 **Bibliothèque de l'INHA, cote 4 RES 1939**
 

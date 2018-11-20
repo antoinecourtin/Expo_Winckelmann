@@ -1,7 +1,11 @@
-﻿**Document n°21 - Hendrick Jansen (éd.)**
+﻿***
+
+**Document n°21 - Hendrick Jansen (éd.)**
 **_De l'allégorie, ou Traités sur cette matière ; par Winckelmann, Addison, Sulzer, etc. Recueil utile aux gens de lettres, et nécessaire aux artistes_**
 
 **Paris, chez H. J. Jansen, imprimeur-libraire, rue des Pères, n°1195, an VII (1798-1799)**
+
+***
 
 **Bibliothèque de l'INHA, cote 8 VA 1799 (1-2) inv. 164253**
 

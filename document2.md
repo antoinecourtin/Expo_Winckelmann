@@ -1,7 +1,11 @@
-﻿**Document n°2 - Pierre-Jean Mariette (1694-1774)**
+﻿***
+
+**Document n°2 - Pierre-Jean Mariette (1694-1774)**
 **_Traité des pierres gravées_**
 
 **Paris, chez P.J. Mariette, 1750**
+
+***
 
 **Bibliothèque de l'INHA, cote 4 RES 504 (1-2)**
 

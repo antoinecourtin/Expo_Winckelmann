@@ -1,7 +1,11 @@
-﻿**Document n°20 - Johann Joachim Winckelmann (1717-1768)**
+﻿***
+
+**Document n°20 - Johann Joachim Winckelmann (1717-1768)**
 **_Recueil de différentes pièces sur les arts_**
 
 **Paris, chez Barrois l'aîné, libraire, quai des Augustins, 1786**
+
+***
 
 **Bibliothèque de l'INHA, cote 8 RES 1221 et 8 RES 2500**
 

@@ -1,6 +1,11 @@
-﻿**Document n°3 - Anne Claude Philippe de Caylus (1692-1765)**
+﻿***
+
+**Document n°3 - Anne Claude Philippe de Caylus (1692-1765)**
 **_Recueil d'antiquités égyptiennes, étrusques, grecques et romaines_**
 **Paris, chez Desaint et Saillant, 1752-1767**
+
+***
+
 **Bibliothèque de l'INHA, cote 4 RES 1847 (1-7)**
 
 [consulter l'exemplaire numérisé ici](http://bibliotheque-numerique.inha.fr/idurl/1/5655){:target="_blank"}
