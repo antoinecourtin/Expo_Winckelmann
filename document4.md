@@ -12,14 +12,13 @@
 
 Reliure de veau brun marbré, dos orné à 5 nerfs avec pièce de titre.
 
-Estampille sur la page de titre :
-> Bibliothèque d'art et d'archéologie, 19 rue Spontini, 19 Paris
+Estampille sur la page de titre : _Bibliothèque d'art et d'archéologie, 19 rue Spontini, 19 Paris_
 
 L’antiquaire prussien Philipp von Stosch (1691-1757), après avoir voyagé dans toute l’Europe,
 s’installa en Italie et devint un proche du cardinal Albani.
 
-A Rome, ce personnage extravagant se fit marchand d’art et d’antiquité, collectionneur et
-espion pour le gouvernement anglais. Il fût contraint de quitter la ville en 1731,
+À Rome, ce personnage extravagant se fit marchand d’art et d’antiquités, collectionneur et
+espion pour le gouvernement anglais. Il fut contraint de quitter la ville en 1731,
 et trouva refuge à Florence jusqu’à sa mort. Il y installa son immense collection,
 qui occupait une maison à part et comprenait des estampes, des dessins, une bibliothèque,
 et surtout des pierres gravées antiques et des reproductions en pâte de
@@ -39,25 +38,22 @@ Le catalogue comprend 3 444 numéros, qui donnent selon l’auteur un panorama c
 de l’histoire de la glyptique : on y trouverait la plus ancienne pierre gravée connue,
 mais aussi la plus belle pierre étrusque. Les notices très détaillées pallient en partie
 l’absence d’illustration, d’autant plus regrettable que la plupart des pièces avaient été
-dessinées du vivant de Stosch (
-> on a tâché d’y suppléer de la manière la plus propre ; et ç’a été d’aider l’imagination du Lecteur en citant d’autres pierres gravées, médailles et monuments déjà publiés,
-
-préface).
-A la fin est ajouté un catalogue abrégé de l’Atlas,
+dessinées du vivant de Stosch (_on a tâché d’y suppléer de la manière la plus propre ; et ç’a été d’aider l’imagination du Lecteur en citant d’autres pierres gravées, médailles et monuments déjà publiés_, préface).
+À la fin est ajouté un catalogue abrégé de l’Atlas,
 c’est-à-dire de la collection d’arts graphique de Stosch.
 
 Winckelmann se plia donc à la commande du propriétaire, qui demandait un texte en français ;
 mais il montra clairement sa conception de l’étude des œuvres antiques.
 Le classement regroupe d’abord les pierres égyptiennes et orientales, puis les pierres
 de l’antiquité classique par sujet (en commençant par la mythologie).
-Si, comme Mariette et Caylus, Winckelmann prônait une approche par
-> nation
+Si, comme Mariette et Caylus, Winckelmann prônait une approche par _nation._
 
 et un classement chronologique, il affirma aussi l’importance du jugement esthétique dans
-l’approche de ces œuvres :
-> La Connaissance de l’Art consiste principalement dans la différence de la manière tant des nations, que des Siècles, et dans le sentiment du Beau.
+l’étude de ces œuvres : _La Connaissance de l’Art consiste principalement dans la différence de la manière tant des nations, que des Siècles, et dans le sentiment du Beau._
 
 Même dans ce cadre contraint, Winckelmann tenta donc la synthèse entre l’histoire érudite
 et l’approche philosophique.
 
-Bibliographie : Cristofani 1981 ; Zazoff 1983 ; Pomian 2000 ; Winckelmann 2013 ; Hanson 2014 ; Kunze 2016 ; Disselkamp - Testa 2017, p.199-210.
+CC
+
+Bibliographie : Cristofani 1981 ; Zazoff 1983 ; Pomian 2000 ; Winckelmann 2013 ; Hansson 2014 ; Kunze 2016 ; Disselkamp - Testa 2017, p.199-210.

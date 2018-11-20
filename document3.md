@@ -30,13 +30,12 @@ liés est tout à fait personnelle : les reproductions graphiques viennent en co
 Les dessins ont été confiés à des artistes divers, dont l’identité n’est pas toujours connue, et le résultat est parfois assez éclectique. 
 
 S’il ne rédigea jamais de traité ou d’histoire faisant la synthèse de ses remarques et idées, ses écrits montrent que comme beaucoup de ses contemporains il était convaincu
-de la supériorité de l’art grec. Comme Mariette, il affirme que l’œuvre est typique du
-> goût d’une nation
-
-, et ouvre la voie à un classement typo-chronologique
+de la supériorité de l’art grec. Comme Mariette, il affirme que l’œuvre est typique du _goût d’une nation_, et ouvre la voie à un classement typo-chronologique
 qui deviendra la règle en archéologie. Le comparatisme qu’il prône dépasse d’ailleurs l’antiquité classique et touche l’Egypte ou les antiquités gauloises.
 
 Cette absence de conceptualisation d’une idée générale de l’art le sépare de Winckelmann ; Caylus prône le recours à une méthode empirique, à la manière de la science physique naissante et hors de tout systématisme.
 
-Bibliographie : Paris 2002 ; Aghion, Zambon 2007 ; Paris 2009 ; Fumaroli 2016 ; Ortona 2016
-		[Ressource HumaNum](http://caylus-recueil.huma-num.fr/){:target="_blank"}
+CC
+
+Bibliographie : Aghion (dir.) 2002 ; Aghion, Zambon 2007 ; Aghion (dir.) 2009 ; Fumaroli 2016 ; Gentile Ortona, Modolo 2016
+		[Comte de Caylus. Recueils d'antiquités 1752-1767](http://caylus-recueil.huma-num.fr/){:target="_blank"}

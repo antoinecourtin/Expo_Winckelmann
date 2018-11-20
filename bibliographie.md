@@ -29,8 +29,6 @@ BOUTRY Philippe, CHIARINI Paolo et DEUCHLER Florens (éd.), La Grecia antica, mi
 
 BROHM Silke, « ‘Zu wahren Aufklärung und sittlichen Bildung’ : Die Zensurverordnung von 1804 und die neuen Universitätsstatuten », dans LEHMANN-CARLI Gabriela, BROHM Silke et HILMAR PREUSS (éd.), Göttinger und Moskauer Gelehrte und Publizisten im Spannungsfeld von russischer Historie, Reformimpulsen der Aufklärung und Petersburger Kulturpolitik, Berlin, Frank & Timme, 2008, p. 101‑114.
 
-BRUNI Stefano, « Anton Francesco Gori, Carlo Goldoni e “La famiglia dell’antiquario”. Una precisazione », dans Symbolae Antiquariae, vol. 1, 2008.
-
 BRUNI Stefano, « Anton Francesco Gori, Gaetano Albizzini, Francesco Vettori e l’officina del Museum Etruscum », dans Symbolae Antiquariae, vol. 7, 2014.
 
 CAGIANELLI Cristina, « La collezione di antichità di Anton Francesco Gori  : i materiali, la dispersione e alcuni recuperi », dans Atti e memorie dell’Accademia Toscana di Scienze e Lettere « La Colombaria » / Accademia Toscana di Scienze e Lettere La Colombaria, 2006, p. 99‑167.
