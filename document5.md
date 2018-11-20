@@ -6,11 +6,10 @@
 
 **Rome, 1748**
 
-**Bibliothèque de l'INHA, cote 4 RES 504 (1-2)**
+**Bibliothèque de l'INHA, [cote 4 RES 504 (1-2)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.228575)**
 
 ***
 
-[Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.228575){:target="_blank"}
 [Exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/books/Nolli1748){:target="_blank"}
 
 1 volume in-folio (50 x 40,5 cm)

@@ -43,4 +43,5 @@ Cette absence de conceptualisation d’une idée générale de l’art le sépar
 CC
 
 Bibliographie : Aghion (dir.) 2002 ; Aghion, Zambon 2007 ; Aghion (dir.) 2009 ; Fumaroli 2016 ; Gentile Ortona, Modolo 2016
-		[Comte de Caylus. Recueils d'antiquités 1752-1767](http://caylus-recueil.huma-num.fr/){:target="_blank"}
+		
+[Comte de Caylus. Recueils d'antiquités 1752-1767](http://caylus-recueil.huma-num.fr/){:target="_blank"}
