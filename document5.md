@@ -6,7 +6,7 @@
 
 **Rome, 1748**
 
-**Bibliothèque de l'INHA, [cote 4 RES 504 (1-2)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.228575)**
+**Bibliothèque de l'INHA, [Fol C 208](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.228575)**
 
 ***
 
