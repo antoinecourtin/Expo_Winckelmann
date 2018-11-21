@@ -274,7 +274,7 @@ un accès direct au _dessin_ des anciens, et permettent une étude aussi bien de
 Ce sont de petits objets précieux, dont on peut facilement faire des empreintes ou même des reproductions (en pâte de verre) : ces dernières sont alors largement échangées
 entre les amateurs de toute l’Europe, permettant de constituer des cabinets montrant toute la diversité des productions et des sujets.
 Le livre de Gori fait suite à d’autres études comme celle de Leonardo Agostini, _Gemme antiche figurate_, 1636, réédité en 1657
-avec des annotations de Giovan Pietro Bellori, et celle de Philip de Stosch, _Gemmae Antiquae Caelatae_, paru en 1724.
+avec des annotations de Giovan Pietro Bellori, et celle de Philipp von Stosch, _Gemmae Antiquae Caelatae_, paru en 1724.
 Les analyses très développées, en latin, cherchent avant tout à faire le lien entre les images et les textes antiques connus, et à expliquer les sujets représentés.
 Le travail sur les planches était tout aussi important que le texte : reproduire ces motifs de très petites dimensions, parfois difficile à comprendre, par des dessins agrandis
 et donc facilement déformés était difficile, et Gori veillait de près à la réalisation de ces planches.
