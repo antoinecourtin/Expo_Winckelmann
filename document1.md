@@ -189,7 +189,7 @@ font-weight:bold;}
 
 **Bibliothèque de l'INHA [Cote FOL Res 399 (1-6)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search&p=74469586-3948-11e2-a8f1-ac6f86effe00#recordId=1.226416)**
 
-[exemplaire numérisé d'une autre bibliothèque](http://gallica.bnf.fr/ark:/12148/bpt6k888083n){:target="_blank"}
+[exemplaire numérisé d'une autre bibliothèque](http://gallica.bnf.fr/ark:/12148/bpt6k888083n)
 
 
 <div class="carousel">
@@ -236,7 +236,7 @@ font-weight:bold;}
 </div>
 </div>
 
-
+***
 
 2 volumes in-folio (47 x 36 cm).
 

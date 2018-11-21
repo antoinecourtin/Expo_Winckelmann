@@ -13,7 +13,6 @@
 [consulter l'exemplaire numérisé ici](http://bibliotheque-numerique.inha.fr/idurl/1/5655){:target="_blank"}
 
 
-
 7 volumes in-quarto (26 x 21 cm)
 
 Reliure de veau fauve avec encadrements dorés, dos orné à cinq nerfs cloisonné de filets dorés, titre et tomaison.
