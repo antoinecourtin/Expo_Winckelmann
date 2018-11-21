@@ -8,12 +8,56 @@
 
 **Bibliothèque de l'INHA, cote 8 RES 1221 et 8 RES 2500**
 
-[Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227402){:target="_blank"}
+[Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227402)
 
-[Exemplaire numérisé d'une autre bibliothèque](https://gallica.bnf.fr/ark:/12148/bpt6k84160q){:target="_blank"}
+[Exemplaire numérisé d'une autre bibliothèque](https://gallica.bnf.fr/ark:/12148/bpt6k84160q)
 
-![Branching](./img/doc20/doc20_1.jpg)
 
+<div class="carousel">
+   <div class="carousel-inner">
+      <input name="carousel" class="carousel-open" id="carousel-1" aria-hidden="true" type="radio" hidden="true" Checked/>
+      <div class="carousel-item">
+<img class="pic" src="./img/doc20/doc20_1.jpg">
+      </div>
+      <input name="carousel" class="carousel-open" id="carousel-2" aria-hidden="true" type="radio" hidden="true"/>
+      <div class="carousel-item">
+  <img class="pic" src="./img/doc20/doc20_2.jpg">
+      </div>
+      <input name="carousel" class="carousel-open" id="carousel-3" aria-hidden="true" type="radio" hidden="true"/>
+      <div class="carousel-item">
+<img class="pic" src="./img/doc20/doc20_3.jpg">
+      </div>
+      <label class="carousel-control prev control-1" for="carousel-3">‹</label>
+      <label class="carousel-control next control-1" for="carousel-2">›</label>
+      <label class="carousel-control prev control-2" for="carousel-1">‹</label>
+      <label class="carousel-control next control-2" for="carousel-3">›</label>
+      <label class="carousel-control prev control-3" for="carousel-2">‹</label>
+      <label class="carousel-control next control-3" for="carousel-1">›</label>
+
+      <ol class="carousel-indicators">
+         <li>
+            <label class="carousel-bullet" for="carousel-1">●</label>
+            <div class="carousel-preview">
+              <img src="./img/doc20/doc20_1.jpg" />
+            </div>
+         </li>
+         <li>
+            <label class="carousel-bullet" for="carousel-2">●</label>
+            <div class="carousel-preview">
+              <img src="./img/doc20/doc20_2.jpg" />
+            </div>
+          </li>  
+         <li>
+            <label class="carousel-bullet" for="carousel-3">●</label>
+            <div class="carousel-preview">
+              <img src="./img/doc20/doc20_3.jpg" />
+            </div>
+         </li>
+    </ol>
+</div>
+</div>
+
+***
 
 
 1 volume in-octavo (21 x 15 cm).

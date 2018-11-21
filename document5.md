@@ -8,9 +8,54 @@
 
 **Bibliothèque de l'INHA, [Fol C 208](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.228575)**
 
-[Exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/books/Nolli1748){:target="_blank"}
+[Exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/books/Nolli1748)
 
-![Branching](./img/doc5/doc5_1.jpg)
+
+<div class="carousel">
+   <div class="carousel-inner">
+      <input name="carousel" class="carousel-open" id="carousel-1" aria-hidden="true" type="radio" hidden="true" Checked/>
+      <div class="carousel-item">
+<img class="pic" src="./img/doc5/doc5_1.jpg">
+      </div>
+      <input name="carousel" class="carousel-open" id="carousel-2" aria-hidden="true" type="radio" hidden="true"/>
+      <div class="carousel-item">
+  <img class="pic" src="./img/doc5/doc5_2.jpg">
+      </div>
+      <input name="carousel" class="carousel-open" id="carousel-3" aria-hidden="true" type="radio" hidden="true"/>
+      <div class="carousel-item">
+<img class="pic" src="./img/doc5/doc5_3.jpg">
+      </div>
+      <label class="carousel-control prev control-1" for="carousel-3">‹</label>
+      <label class="carousel-control next control-1" for="carousel-2">›</label>
+      <label class="carousel-control prev control-2" for="carousel-1">‹</label>
+      <label class="carousel-control next control-2" for="carousel-3">›</label>
+      <label class="carousel-control prev control-3" for="carousel-2">‹</label>
+      <label class="carousel-control next control-3" for="carousel-1">›</label>
+
+      <ol class="carousel-indicators">
+         <li>
+            <label class="carousel-bullet" for="carousel-1">●</label>
+            <div class="carousel-preview">
+              <img src="./img/doc5/doc5_1.jpg" />
+            </div>
+         </li>
+         <li>
+            <label class="carousel-bullet" for="carousel-2">●</label>
+            <div class="carousel-preview">
+              <img src="./img/doc5/doc5_2.jpg" />
+            </div>
+          </li>  
+         <li>
+            <label class="carousel-bullet" for="carousel-3">●</label>
+            <div class="carousel-preview">
+              <img src="./img/doc5/doc5_3.jpg" />
+            </div>
+         </li>
+    </ol>
+</div>
+</div>
+
+***
 
 
 

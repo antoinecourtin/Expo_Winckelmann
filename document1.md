@@ -189,7 +189,7 @@ font-weight:bold;}
 
 **Bibliothèque de l'INHA [Cote FOL Res 399 (1-6)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search&p=74469586-3948-11e2-a8f1-ac6f86effe00#recordId=1.226416)**
 
-[exemplaire numérisé d'une autre bibliothèque](http://gallica.bnf.fr/ark:/12148/bpt6k888083n){:target="_blank"}
+[exemplaire numérisé d'une autre bibliothèque](http://gallica.bnf.fr/ark:/12148/bpt6k888083n)
 
 
 <div class="carousel">
@@ -237,7 +237,8 @@ font-weight:bold;}
 </div>
 
 ***
-#2 volumes in-folio (47 x 36 cm).
+
+2 volumes in-folio (47 x 36 cm).
 
 Reliure en maroquin rouge, encadrement doré sur les plats avec au centre du premier plat de chaque volume des armes frappées or, dos à six nerfs cloisonné de filets dorés, titre et tomaison (interversion volumes I et II).
 Ex-libris gravé _The Marquis of Stafford_ avec la devise _Honi soit qui mal y pense_, collé sur le premier contreplat de chaque volume.
