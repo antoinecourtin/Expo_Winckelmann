@@ -1,4 +1,4 @@
-# Winckelmann à la bibliothèque de l’INHA
+﻿# Winckelmann à la bibliothèque de l’INHA
 ## Exposition dossier du 22 au 30 novembre 2018
 
 ## Lieu
@@ -26,6 +26,9 @@ Domaine de recherche Histoire de l’art antique et de l’archéologie
 * Hélène Boubée
 * Marc Riou
 
+## Texte des catalogues
+* Cécile Colonna
+* Daniela Gallo
 
 ### Site Internet
 * Antoine Courtin
