@@ -1,4 +1,4 @@
-## Introduction : Winckelmann et l’histoire de l’art antique
+﻿## Introduction : Winckelmann et l’histoire de l’art antique
 
 Si les œuvres de l’antiquité ont été rassemblées et étudiées depuis la Renaissance, au XVIII<sup>e</sup> siècle la façon de les considérer change radicalement. Dans un contexte de construction de nouveaux savoirs rationnels sur l’homme et la nature, les découvertes archéologiques de plus en plus nombreuses encouragent le développement d’une véritable science pour les étudier.
 
@@ -86,7 +86,7 @@ La nouveauté réside aussi dans la langue et le ton des écrits. Winckelmann co
 ### Winckelmann hier et aujourd’hui
 
 La postérité de Winckelmann est immense, et ses idées ont irrigué aussi bien l’histoire, l’archéologie, la philosophie et l’histoire de l’art, comme en témoignent les nombreuses éditions et traductions de ses écrits, de son vivant ou après sa mort. C’est en Allemagne sans doute que sa figure a eu le plus profond retentissement, avant tout sur le classicisme du cercle de Weimar porté par Johann Wolfgang von Goethe (1749-1832) et Johann Gottfried Herder (1744-1803)  : dès le début du XIXe siècle, il devient le symbole de la culture allemande.
-Différentes dimensions de son oeuvre ont été retenus au fil du temps, selon les milieux ou les disciplines, et les héritages sont multiples. Ainsi, la France révolutionnaire va faire avant tout une lecture politique de Winckelmann, et mettre en avant le lien primordial établi entre l’art et la liberté ; Paris sera la capitale des arts, une nouvelle Athènes, patrie de la liberté, et c’est au nom de ces principes qu’on justifiera lors des campagnes napoléoniennes le déplacement des chefs-d’œuvres de l’Europe entière dans la capitale française.  
+Différentes dimensions de son oeuvre ont été retenues au fil du temps, selon les milieux ou les disciplines, et les héritages sont multiples. Ainsi, la France révolutionnaire va faire avant tout une lecture politique de Winckelmann, et mettre en avant le lien primordial établi entre l’art et la liberté ; Paris sera la capitale des arts, une nouvelle Athènes, patrie de la liberté, et c’est au nom de ces principes qu’on justifiera lors des campagnes napoléoniennes le déplacement des chefs-d’œuvres de l’Europe entière dans la capitale française.  
 
 Certains aspects du personnage aussi ont façonné sa légende : sa mort brutale et inattendue, pour un motif mal défini, donne un tournant tragique à son existence. Son homosexualité, qui est clairement révélée dans sa correspondance, est semble-t-il bien connue de ses amis, mais elle ne pouvait pas être ouvertement déclarée à son époque (autre liberté de moeurs dont jouissaient les Grecs de l’antiquité, au contraire des Européens de son temps).
 
@@ -116,7 +116,7 @@ Mais cet examen poussé ne doit pas déboucher sur une érudition stérile, et W
 
 
 #### Table des illusration
-1. Anton von Maron (1733-1808), Portrait de JJW, 1768, huile sur toile, château de Weimar.  https://commons.wikimedia.org/wiki/File:Johann_Joachim_Winckelmann_(Anton_von_Maron_1768).jpg)
+1. Anton von Maron (1733-1808), Portrait de Johann Joachim Winckelmann, 1768, huile sur toile, château de Weimar.  https://commons.wikimedia.org/wiki/File:Johann_Joachim_Winckelmann_(Anton_von_Maron_1768).jpg)
 2. Carte de l’Europe, 1759.  https://fr.wikipedia.org/wiki/Fichier:Carte_europe_1763.jpg
 3. Hubert Robert (1733 - 1808), Un dessinateur dans la galerie du Capitole, vers 1765, sanguine, The J. Paul Getty Museum, Los Angeles.
 4. “Apollon du Belvédère”, copie romaine d’un original de Léocharès du 4e siècle av JC, marbre, Vatican, Museo Pio-Clementino. https://fr.wikipedia.org/wiki/Fichier:Belvedere_Apollo_Pio-Clementino_Inv1015_n4.jpg © Marie-Lan Nguyen / Wikimedia Commons.
