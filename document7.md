@@ -5,9 +5,7 @@
 -------------------------
 ![Branching](./img/doc7/doc7_1.jpg)
 
-**Bibliothèque de l’INHA, cote Pl Res 13 (16, 17)**
-
-[Consulter le document numérisé ici](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.312886){:target="_blank"}
+**Bibliothèque de l’INHA, [cote Pl Res 13 (16, 17)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.312886){:target="_blank"}**
 
 (78 x 56 cm)
 
