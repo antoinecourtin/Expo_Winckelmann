@@ -31,7 +31,7 @@ Après une conversion opportuniste au catholicisme, par le cardinal Alberico Arc
 <small style="text-align:center"> fig.3 : Hubert Robert (1733 - 1808), Un dessinateur dans la galerie du Capitole, vers 1765, sanguine, The J. Paul Getty Museum, Los Angeles.
  </small>
 
-Il s’enflamme notamment pour les fameuses sculptures de la cour du Belvédère : l’Apollon, le Torse ou le Laocoon (fig.4).
+Il s’enflamme notamment pour les célèbres sculptures de la cour du Belvédère : l’Apollon, le Torse ou le Laocoon (fig.4).
 
 ![Branching](./img/chap1/illu_4.jpg)
 <small style="text-align:center"> fig.4 :“Apollon du Belvédère”, copie romaine d’un original de Léocharès du IVe siècle av. J.-C., marbre, Vatican, Museo Pio-Clementino </small>
@@ -76,7 +76,7 @@ Pourquoi cette Histoire de l’Art a-t-elle révolutionné l’approche des œuv
 
 Pour lui, le lien avec la création de son temps est essentiel, et d’ailleurs il fréquente de près peintres et sculpteurs. Dans la plupart de ses écrits, il s’adresse clairement aux artistes, et propose aussi des considérations techniques sur la manière de créer des anciens ; en cela il s’insère dans une tradition des écrits et discours sur l’art qui, depuis la Renaissance, se doivent d’apporter des modèles ou des normes pour la création. L’art antique est donc clairement proposé comme modèle, mais en même temps, par son insertion dans le récit historique, il appartient à un passé révolu et donc impossible à répéter : il doit servir d’inspiration. Pour autant, Winckelmann n’est pas à l’origine du mouvement néo-classique, dont les tendances étaient déjà bien présentes dans la culture européenne. Mais il en a rédigé le plus éclatant manifeste, et il a ainsi puissamment contribué à son développement.
 
-On a eu tendance à exagérer la nouveauté radicale de l’approche de Winckelmann ;  en fait, le savant allemand, lecteur assidu des auteurs anciens comme modernes, s’inscrit pleinement dans l’évolution des connaissances et des méthodes de son temps. Ses positions ne sont pas toujours aussi nouvelles qu’il ne l’affirme lui-même, ou que la postérité lui a reconnu. Il connaît bien la tradition romaine et florentine d’étude de l’antique, lit et rejoint sur de nombreux points les Français de la génération précédente, Mariette et Caylus, ou les archéologues d’Europe du Nord. Mais il intègre aussi la tradition des écrits allemands plus théoriques, notamment dans les redéfinitions de l’art et de l’esthétique. Et c’est là peut-être son apport décisif : opérer une synthèse historique et philosophique à partir de traditions séparées. Cela explique le succès de ses écrits de son vivant, et le fait que son nom évoque à lui seul les évolutions majeures dans la pensée humaniste du XVIII<sup>e</sup> siècle.
+On a eu tendance à exagérer la nouveauté radicale de l’approche de Winckelmann ;  en fait, le savant allemand, lecteur assidu des auteurs anciens comme modernes, s’inscrit pleinement dans l’évolution des connaissances et des méthodes de son temps. Ses positions ne sont pas toujours aussi nouvelles qu’il ne l’affirme lui-même, ou que la postérité lui a reconnu. Il connaît bien la tradition romaine et florentine d’étude de l’antique, lit et rejoint sur de nombreux points les Français de la génération précédente, Mariette et Caylus, ou les archéologues d’Europe du Nord. Mais il intègre aussi la tradition des écrits allemands plus théoriques, notamment dans les redéfinitions de l’art et de l’esthétique. Et c’est là peut-être son apport décisif : opérer une synthèse historique et philosophique à partir de traditions séparées. Cela explique le succès de ses écrits de son vivant, et le fait que son nom évoque à lui seul les évolutions majeures dans la pensée du XVIII<sup>e</sup> siècle.
 
 La nouveauté réside aussi dans la langue et le ton des écrits. Winckelmann considère les œuvres antiques comme si elles étaient contemporaines, et n’hésite pas à émettre des jugements très net sur l’art antique comme moderne : les deux sont souvent mêlés et comparés. Parmi les peintres européens, c’est Raphaël qu’il place sur la plus haute marche, louant la pureté de son trait, tandis qu’il est très dur avec des artistes comme le Bernin, qui incarne à ses yeux tous les excès du baroque. Mais son approche est aussi éminemment sensible et il a su montrer à ses lecteurs des beautés parfois difficiles à appréhender. Ses écrits offrent ainsi une vision érotique de la sculpture antique, les œuvres sont décrites avec une passion qui a inspiré beaucoup de lecteurs.
 
@@ -113,6 +113,7 @@ Il le répète à de nombreuses reprises :
 
 Mais cet examen poussé ne doit pas déboucher sur une érudition stérile, et Winckelmann n’a que dédain pour les érudits pour lesquels une œuvre n’est que le prétexte de commentaires sans fin. Lier l’archéologie la plus exigeante à une appréciation esthétique la plus sensible, ouvrir la discipline au-delà du cercle des spécialistes : voilà sans doute des considérations qui résonnent encore aujourd’hui.
 
+Cécile Colonna, conseillère scientifique en charge du domaine "Histoire de l'art antique et de l'archéologie" à l'INHA
 
 
 #### Table des illusration
