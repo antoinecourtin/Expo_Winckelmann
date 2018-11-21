@@ -7,9 +7,8 @@ Amsterdam,  1781, et se vend à Paris, chez Couturier fils, Libraire, quai & pr�
 -------------------------
 ![Branching](./img/doc11/doc11_1.jpg)
 
-**Bibliothèque de l’INHA, cote 8 RES 1905 (1-2)**
-[Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.226413){:target="_blank"}
-[Consulter le document numérisé](http://bibliotheque-numerique.inha.fr/idurl/1/13546){:target="_blank"}
+**Bibliothèque de l’INHA,[cote 8 RES 1905 (1-2)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.226413){:target="_blank"}**
+**[cote 8 RES 1905 (1-2)](http://bibliotheque-numerique.inha.fr/idurl/1/13546){:target="_blank"}**
 
 
 2 volumes in -8° (21,5 x 14 cm)
