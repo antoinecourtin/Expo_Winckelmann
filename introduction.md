@@ -144,15 +144,13 @@ Cécile Colonna, conseillère scientifique en charge du domaine "Histoire de l'a
 
 <p>
 <small>
-<a name="myfootnote5">5</a>: Sendschreiben von den Herculanischen Entdeckungen, 1762 ; Nachrichten von den neuesten Herculanischen Entdeckungen, 1764. Visites à Naples en 1758, 1762, 1764 et 1767. <a href="./document19">voir document n°19</a>.
-</p>
+<a name="myfootnote5">5</a>: Sendschreiben von den Herculanischen Entdeckungen, 1762 ; Nachrichten von den neuesten Herculanischen Entdeckungen, 1764. Visites à Naples en 1758, 1762, 1764 et 1767. <a href="./document19">voir document n°19</a>.</p>
 
 <p>
 <small>
 <a name="myfootnote6">6</a>: Description des pierres gravées du feu Baron de Stosch, 1760, <a href="./document4">voir document n°4</a>.
 </small>
 </p>
-
 
 <p>
 <small>
@@ -171,7 +169,6 @@ Cécile Colonna, conseillère scientifique en charge du domaine "Histoire de l'a
 <a name="myfootnote9">9</a>: Winckelmann 2005, p.39.
 </small>
 </p>
-
 
 <p>
 <small>
