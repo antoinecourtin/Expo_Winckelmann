@@ -204,6 +204,5 @@ Mais cet examen poussé ne doit pas déboucher sur une érudition stérile, et W
 7. <a href="http://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/museo-pio-clementino/sala-delle-muse/torso-del-belvedere.html">“Torse du Belvédère”, Ier siècle av. J.-C., marbre, Vatican, Museo Pio-Clementino.</a>
 8. <a href="http://www.getty.edu/art/collection/objects/40662/robert-macpherson-antinous-bas-relief-villa-albani-scottish-1860s/">Robert Macpherson (1811 - 1872), Antinous - bas relief, Villa Albani, vers 1860, Tirage sur papier albuminé, The J. Paul Getty Museum, Los Angeles. </a>
 9. <a href="https://commons.wikimedia.org/wiki/File:Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg">Agésandros, Athanadoros et Polydore, Laocoon et ses fils, Ier siècle av. J.-C., trouvé à Rome dans les thermes de Trajan en 1507, marbre, Vatican, Museo Pio-Clementino. © Marie-Lan Nguyen / Wikimedia Commons). </a>
-10. Hydrie attique à figures rouges, signée par Meidias, 420-400 av. J.-C., terre cuite, Londres, British Museum.
- + planche coll. Hamilton 1766 I pl.127, bibliothèque de l’INHA.
+10. Hydrie attique à figures rouges, signée par Meidias, 420-400 av. J.-C., terre cuite, Londres, British Museum., planche coll. Hamilton 1766 I pl.127, bibliothèque de l’INHA.
 11. Intaille de la collection Stosch, dans  Johann Joachim Winckelmann, Monumenti antichi inediti, Rome, 1767, pl.97, bibliothèque de l’INHA.
