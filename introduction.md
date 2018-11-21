@@ -113,16 +113,16 @@ Il le répète à de nombreuses reprises :
 
 Mais cet examen poussé ne doit pas déboucher sur une érudition stérile, et Winckelmann n’a que dédain pour les érudits pour lesquels une œuvre n’est que le prétexte de commentaires sans fin<sup>[19](#myfootnote19)</sup>. Lier l’archéologie la plus exigeante à une appréciation esthétique la plus sensible, ouvrir la discipline au-delà du cercle des spécialistes : voilà sans doute des considérations qui résonnent encore aujourd’hui.
 
-Cécile Colonna, conseillère scientifique en charge du domaine "Histoire de l'art antique et de l'archéologie" à l'INHA
+**Cécile Colonna, conseillère scientifique en charge du domaine "Histoire de l'art antique et de l'archéologie" à l'INHA**
 
 
 * * *
 
-<p>
+
 <small>
 <a name="myfootnote1">1</a>:  La bibliographie sur Winckelmann lui-même est absolument énorme ; voir notamment Justi 1866 ; Gaehtgens 1986 ; Heres 1991 ; Pommier 1991 ; Disselkamp 1993 ; Potts 1994 ; Pigeaud, Barbe 1995 ; Testa 1999 ; Décultot 2000 ; Pommier 2003 ; Gallo 2008. De nombreux ouvrages ont été publié à l’occasion des commémorations de 2017-2018 : voir Disselkemp, Testa 2017 ; Parisi Presicce (dir.) 2017 ; Décultot (dir.) 2017. <a href="./bibliographie.html>Voir également la bibliographie de l'exposition</a>.
 </small>
-</p>
+
 
 <p>
 <small>
