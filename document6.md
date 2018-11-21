@@ -9,7 +9,7 @@ Titre de la seconde partie : Le singolarità di Roma moderna ricercate, e spiega
 
 ![Branching](./img/doc6/doc6_1.jpg)
 
-**Bibliothèque de l’INHA,[cote 4 Res 1718](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.226413){:target="_blank"}**
+**Bibliothèque de l’INHA, [cote 4 Res 1718](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.226413){:target="_blank"}**
 
 [exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/item/buchseite/354615){:target="_blank"}
 
