@@ -15,15 +15,15 @@
    <div class="carousel-inner">
       <input name="carousel" class="carousel-open" id="carousel-1" aria-hidden="true" type="radio" hidden="true" Checked/>
       <div class="carousel-item">
-<img class="pic" src="./img/doc5/doc5_1.jpg">
+<img class="pic" src="./img/doc2/doc2_1.jpg">
       </div>
       <input name="carousel" class="carousel-open" id="carousel-2" aria-hidden="true" type="radio" hidden="true"/>
       <div class="carousel-item">
-  <img class="pic" src="./img/doc5/doc5_2.jpg">
+  <img class="pic" src="./img/doc2/doc2_2.jpg">
       </div>
       <input name="carousel" class="carousel-open" id="carousel-3" aria-hidden="true" type="radio" hidden="true"/>
       <div class="carousel-item">
-<img class="pic" src="./img/doc5/doc5_3.jpg">
+<img class="pic" src="./img/doc2/doc2_3.jpg">
       </div>
       <label class="carousel-control prev control-1" for="carousel-3">‹</label>
       <label class="carousel-control next control-1" for="carousel-2">›</label>
@@ -36,24 +36,25 @@
          <li>
             <label class="carousel-bullet" for="carousel-1">●</label>
             <div class="carousel-preview">
-              <img src="./img/doc5/doc5_1.jpg" />
+              <img src="./img/doc2/doc2_1.jpg" />
             </div>
          </li>
          <li>
             <label class="carousel-bullet" for="carousel-2">●</label>
             <div class="carousel-preview">
-              <img src="./img/doc5/doc5_2.jpg" />
+              <img src="./img/doc2/doc2_2.jpg" />
             </div>
           </li>  
          <li>
             <label class="carousel-bullet" for="carousel-3">●</label>
             <div class="carousel-preview">
-              <img src="./img/doc5/doc5_3.jpg" />
+              <img src="./img/doc2/doc2_3.jpg" />
             </div>
          </li>
     </ol>
 </div>
 </div>
+
 
 ***
 
