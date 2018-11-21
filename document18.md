@@ -8,9 +8,8 @@
 ***
 ![Branching](./img/doc18/doc18_1.jpg)
 
-**Bibliothèque de l'INHA, cote Fol RES 355 (1-2)**
+**Bibliothèque de l'INHA, cote [Fol RES 355 (1-2)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227708)**
 
-[Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227708){:target="_blank"}
 [Exemplaire numérisé d'une autre bibliothèque](http://digi.ub.uni-heidelberg.de/diglit/winckelmann1767ga){:target="_blank"}
 
 1 volume  in-folio (39 x 28 cm)
