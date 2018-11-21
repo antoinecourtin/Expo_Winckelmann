@@ -10,7 +10,6 @@
 **Bibliothèque de l’INHA,[cote 4 Res 1730](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227071){:target="_blank"}**
 
 [exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/books/Venuti1763Vol1){:target="_blank"}
-(http://arachne.uni-koeln.de/books/Venuti1763Vol2 ){:target="_blank"}
 
 2 parties en 1 volume in-4°(29 x 22 cm)
 Reliure en veau brun, dos orné à six nerfs avec motifs dorés, pièce de titre
