@@ -182,14 +182,11 @@ font-weight:bold;}
 
 ***
 **Document n°1 - Anton Francesco Gori (1691-1757)**
-**_Museum florentinum exhibens insigniora vetustatis monumenta quae Florentiae sunt, Ioanni Gastoni Etruriae Magno Duci dedicatum._**
+**_Museum florentinum exhibens insigniora vetustatis monumenta quae Florentiae sunt, Ioanni Gastoni Etruriae Magno Duci dedicatum. I, Gemmae antiquae ex thesauro mediceo et privatorum dactyliothecis Florentiae exhibentes tabulis. c. Imagines virorum illustrium et deorum cum observationibus Antonii Francisci Gorii publici historiarum professoris_**
 
-**_I, Gemmae antiquae ex thesauro mediceo et privatorum dactyliothecis Florentiae exhibentes tabulis_**
-**_c. Imagines virorum illustrium et deorum cum observationibus Antonii Francisci Gorii publici historiarum professoris, Florence,_**
+**Florence, ex typographia Michaelis Nestenus et Francisci Moücke, 1731-1732. [Cote FOL Res 399 (1-6)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search&p=74469586-3948-11e2-a8f1-ac6f86effe00#recordId=1.226416)**
 
-**_ex typographia Michaelis Nestenus et Francisci Moücke, 1731-1732_**
-
-**Brunet, t.2, col. 1670. [Cote FOL Res 399 (1-6)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search&p=74469586-3948-11e2-a8f1-ac6f86effe00#recordId=1.226416)**
+[exemplaire numérisé d'une autre bibliothèque](http://gallica.bnf.fr/ark:/12148/bpt6k888083n){:target="_blank"}
 
 ***
 
@@ -237,9 +234,7 @@ font-weight:bold;}
 </div>
 </div>
 
-
-[exemplaire numérisé d'une autre bibliothèque](http://gallica.bnf.fr/ark:/12148/bpt6k888083n){:target="_blank"}
-
+***
 
 2 volumes in-folio (47 x 36 cm).
 
@@ -273,9 +268,7 @@ et développé la bibliothèque familiale bâtie par son grand-père Sir John Le
 Les deux premiers volumes, sur lesquels Gori travaille depuis 1728, sont consacrés aux _Gemmae antiquae_, les pierres gravées antiques, et comprennent 200 planches.
 Ce type d’œuvres, principalement les intailles, sont extrêmement prisées, collectionnées et étudiées au XVIIIe siècle.
 Ce succès s’explique par de nombreux facteurs : ces pierres subsistent en nombre, et sont largement intactes, contrairement à la grande sculpture ; elles offrent ainsi
-un accès direct au _dessin._
-
-des anciens, et permettent une étude aussi bien des sujets que, de plus en plus, des styles.
+un accès direct au _dessin_ des anciens, et permettent une étude aussi bien des sujets que, de plus en plus, des styles.
 Ce sont de petits objets précieux, dont on peut facilement faire des empreintes ou même des reproductions (en pâte de verre) : ces dernières sont alors largement échangées
 entre les amateurs de toute l’Europe, permettant de constituer des cabinets montrant toute la diversité des productions et des sujets.
 Le livre de Gori fait suite à d’autres études comme celle de Leonardo Agostini, _Gemme antiche figurate_, 1636, réédité en 1657
