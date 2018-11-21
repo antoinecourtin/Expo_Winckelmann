@@ -1,6 +1,8 @@
 ﻿# Winckelmann à la bibliothèque de l’INHA
 ## Exposition dossier du 22 au 30 novembre 2018
 
+## Textes du catalogue : ```Cécile Colonna et Daniela Gallo```
+
 ## Lieu
 Bibliothèque de l’INHA
 Salle Labrouste - Site Richelieu
