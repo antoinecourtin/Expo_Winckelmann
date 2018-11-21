@@ -6,7 +6,7 @@
 -------------------------
 ![Branching](./img/doc15/doc15_1.jpg)
 
-**Bibliothèque de l’INHA, [cote 12 RES 1611 (1-2)cote 12 RES 1611 (1-2)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.264250){:target="_blank"}**
+**Bibliothèque de l’INHA, [cote 12 RES 1611 (1-2)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.264250){:target="_blank"}**
 
 
 **[exemplaire numérisé d'une autre bibliothèque](https://gallica.bnf.fr/ark:/12148/bpt6k6423247r){:target="_blank"}**
