@@ -60,7 +60,7 @@ Ainsi, de ses éditions originales, le lecteur n’y trouvera que la Description
 
 Nous avons pu réaliser ce travail grâce à l’accord et au soutien de France Nerlich, directrice du département des études et de la recherche, d’Anne-Elisabeth Buxtorf, directrice de la Bibliothèque de l’INHA. Il a été réalisé en étroite collaboration avec Christine Ferret, chef de service du développement des collections, et Juliette Robain, conservatrice au service du patrimoine. Le service des manifestations et la direction de la communication ont été essentiels dans la mise en place du projet. La version numérique de l’exposition a été conçue et réalisée par Antoine Courtin, responsable de la cellule d'ingénierie documentaire, avec l’aide de Maï Delhomme, du service des manifestations, et Bastien Rueff, chargé d’études et de recherche au département des études et de la recherche. L’aide de ce dernier nous a été particulièrement précieuse lors de toutes les étapes de la mise en place de l’exposition et de la mise au point de l’édition numérique de ce catalogue. À toutes et à tous, nous exprimons notre gratitude la plus sincère.
 
-Cécile Colonna et Daniela Gallo, Paris le 10 novembre 2018.
+**Cécile Colonna et Daniela Gallo, Paris le 10 novembre 2018.**
 
 [Pour en savoir + sur le colloque](https://www.inha.fr/fr/agenda/parcourir-par-annee/en-2018/novembre-2018/winckelmann-et-l-uvre-d-art-materiaux-et-types.html)
 

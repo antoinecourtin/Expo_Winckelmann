@@ -236,9 +236,8 @@ font-weight:bold;}
 </div>
 </div>
 
-
-
-2 volumes in-folio (47 x 36 cm).
+***
+#2 volumes in-folio (47 x 36 cm).
 
 Reliure en maroquin rouge, encadrement doré sur les plats avec au centre du premier plat de chaque volume des armes frappées or, dos à six nerfs cloisonné de filets dorés, titre et tomaison (interversion volumes I et II).
 Ex-libris gravé _The Marquis of Stafford_ avec la devise _Honi soit qui mal y pense_, collé sur le premier contreplat de chaque volume.
