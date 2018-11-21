@@ -6,7 +6,7 @@
 -------------------------
 ![Branching](./img/doc16/doc16_1.jpg)
 
-**Bibliothèque de l’INHA, cote 4 Res 446 (1-3)**
+**Bibliothèque de l’INHA, [cote 4 Res 446 (1-3)](http://bibliotheque-numerique.inha.fr/idurl/1/13537){:target="_blank"}**
 
 3 tomes en 1 volume in-4° (25 x 20 cm)
 Reliure de veau fauve avec encadrements dorés, dos orné à six nerfs cloisonné de filets dorés, titre.
