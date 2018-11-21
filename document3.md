@@ -4,17 +4,15 @@
 
 **_Recueil d'antiquités égyptiennes, étrusques, grecques et romaines_**
 
-**Paris, chez Desaint et Saillant, 1752-1767. Bibliothèque de l'INHA, cote 4 RES 1847 (1-7)**
+**Paris, chez Desaint et Saillant, 1752-1767**
+
+**Bibliothèque de l'INHA, cote 4 RES 1847 (1-7)**
 
 ![Branching](./img/doc3/doc3_1.jpg)
 
 [consulter l'exemplaire numérisé ici](http://bibliotheque-numerique.inha.fr/idurl/1/5655){:target="_blank"}
 
 
-***
-
-
-***
 
 7 volumes in-quarto (26 x 21 cm)
 

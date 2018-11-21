@@ -8,17 +8,19 @@
 
 **Bibliothèque de l'INHA, [Fol C 208](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.228575)**
 
-***
-
 ![Branching](./img/doc5/doc5_1.jpg)
 
 [Exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/books/Nolli1748){:target="_blank"}
+
+
 
 1 volume in-folio (50 x 40,5 cm)
 
 Reliure en veau brun marbré avec encadrements dorés, dos orné à dix nerfs, pièce de titre.
 
 Ex-libris collé au dos du plat de reliure : armes à la devise _Virtute itur ad astra_ d’E. G. Gillow
+
+***
 
 Le savoir cartographique était au milieu du XVIIIe siècle en pleine évolution, et la fameuse carte de Nolli parue en 1748 est une des manifestations les plus éclatantes du rationalisme des Lumières au service de la représentation de la ville. Giovanni Battista Nolli était un ingénieur originaire de Côme. Après avoir participé à la campagne de mise en carte de Milan par Charles VI d’Autriche (1685-1740) sous la supervision de Giovanni Giacomo Marinoni (1676-1755), mathématicien de la cour des Habsbourg, il arriva à Rome en 1736. Il travailla alors à une nouvelle cartographie de la ville, grâce au soutien de l’abbé Diego Revillas (1690-1746) de Milan, mathématicien et cartographe. Avec une équipe importante et armé des avancées techniques du temps (méthode de triangulation, table rotative, etc), il entreprit de reprendre entièrement les mesures de la ville, aussi bien dans les espaces publics que privés. Le résultat est une carte qui révolutionna la cartographie urbaine.
 

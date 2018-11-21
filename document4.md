@@ -6,20 +6,21 @@
 
 **Florence, André Bonducci, 1760**
 
-***
+**Bibliothèque de l'INHA, cote 4 RES 1939**
 
 ![Branching](./img/doc4/doc4_1.jpg)
 
-
-**Bibliothèque de l'INHA, cote 4 RES 1939**
-
 [Consulter le document numérisé](http://bibliotheque-numerique.inha.fr/idurl/1/13547){:target="_blank"}
+
+
 
 1 volume  in-quarto (26 x 18 cm)
 
 Reliure de veau brun marbré, dos orné à 5 nerfs avec pièce de titre.
 
 Estampille sur la page de titre : _Bibliothèque d'art et d'archéologie, 19 rue Spontini, 19 Paris_
+
+***
 
 L’antiquaire prussien Philipp von Stosch (1691-1757), après avoir voyagé dans toute l’Europe,
 s’installa en Italie et devint un proche du cardinal Albani.

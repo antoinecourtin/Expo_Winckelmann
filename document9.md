@@ -1,18 +1,23 @@
-***
-### **Document n°9 - Ridolfino Venuti (1705-1763)**
+﻿***
+
+**Document n°9 - Ridolfino Venuti (1705-1763)**
+
 **_Accurata e succinta descrizione topografica delle Antichità di Roma dell’abate Ridolfino Venuti Cortonese Presidente all’Antichità Romane, e Membro Onorario della Regia Società degli Antiquari di Londra_**
-**Rome, _Presso Gio. Battista Bernabò, e Giuseppe Lazzarini,_ 1763**
 
--------------------------------------
-
-![Branching](./img/doc9/doc9_1.jpg)
+**Rome, Presso Gio. Battista Bernabò, e Giuseppe Lazzarini, 1763**
 
 **Bibliothèque de l’INHA,[cote 4 Res 1730](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227071){:target="_blank"}**
 
+![Branching](./img/doc9/doc9_1.jpg)
+
 [exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/books/Venuti1763Vol1){:target="_blank"}
+
+
 
 2 parties en 1 volume in-4°(29 x 22 cm)
 Reliure en veau brun, dos orné à six nerfs avec motifs dorés, pièce de titre
+
+***
 
 Paru à titre posthume, cet ouvrage avait été conçu pour les visiteurs étrangers afin qu’ils pussent s’orienter facilement dans la topographie de la Rome antique. Il n’avait pas été pensé seulement comme un guide, mais comme un outil pour interpréter les sources. Ainsi, après une introduction faisant le point sur la morphologie et l’aspect urbain de la cité antique, la description topographique démarre au Palatin, « en tant qu’origine de la première Rome de Romulus », conduit le « touriste » à travers le Forum Romain et le Capitole, les forums de César, d’Auguste, de Nerva et de Trajan, et le fait monter ensuite sur les collines du Quirinal, du Viminal, de l’Esquilin et du Célius. Dans la seconde partie, on parcourt la Voie Appienne, on monte à l’Aventin et on traverse ensuite le _Campo Marzio_ pour atteindre l’île Tibérine et le Transtévère. Venuti y décrit les monuments encore debout ou en ruine (les plus célèbres sont illustrés) et n’oublie pas d’évoquer les édifices disparus. À la fin du volume, une « carte topographique »  permet d’avoir une vue d’ensemble de « tous les vestiges des anciennes fabriques selon le tour méthodique que faisait autrefois l’abbé Ridolfino Venuti et qui est enseigné par lui-même dans son ouvrage ». Un index des « choses les plus importantes » (p. 113-135 de la seconde partie), facilite encore la consultation de l’ouvrage.
 
