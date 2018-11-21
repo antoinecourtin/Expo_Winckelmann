@@ -120,115 +120,70 @@ Mais cet examen poussé ne doit pas déboucher sur une érudition stérile, et W
 
 
 <small>
-<a name="myfootnote1">1</a>:  La bibliographie sur Winckelmann lui-même est absolument énorme ; voir notamment Justi 1866 ; Gaehtgens 1986 ; Heres 1991 ; Pommier 1991 ; Disselkamp 1993 ; Potts 1994 ; Pigeaud, Barbe 1995 ; Testa 1999 ; Décultot 2000 ; Pommier 2003 ; Gallo 2008. De nombreux ouvrages ont été publié à l’occasion des commémorations de 2017-2018 : voir Disselkemp, Testa 2017 ; Parisi Presicce (dir.) 2017 ; Décultot (dir.) 2017. <a href="./bibliographie.html>Voir également la bibliographie de l'exposition</a>.
+<a name="myfootnote1">1</a>:  La bibliographie sur Winckelmann lui-même est absolument énorme ; voir notamment Justi 1866 ; Gaehtgens 1986 ; Heres 1991 ; Pommier 1991 ; Disselkamp 1993 ; Potts 1994 ; Pigeaud, Barbe 1995 ; Testa 1999 ; Décultot 2000 ; Pommier 2003 ; Gallo 2008. De nombreux ouvrages ont été publié à l’occasion des commémorations de 2017-2018 : voir Disselkemp, Testa 2017 ; Parisi Presicce (dir.) 2017 ; Décultot (dir.) 2017. <a href="./bibliographie.html>Voir également la bibliographie de l'exposition.
 </small>
 
 
-<p>
-<small>
-<a name="myfootnote2">2</a>: Gedanken über die Nachahmung der griechischen Werke in der Malerei und Bildhauerkunst, <a href="./document20">voir document n°20</a>.
+<small><a name="myfootnote2">2</a>: Gedanken über die Nachahmung der griechischen Werke in der Malerei und Bildhauerkunst, <a href="./document20">voir document n°20</a>.
 </small>
-</p>
 
-<p>
+
 <small>
 <a name="myfootnote3">3</a>: Winckelmann 2005, p.38.
 </small>
-</p>
 
-<p>
+
+
 <small>
 <a name="myfootnote4">4</a>: Haskell, Penny 1988 ; Polignac, Raspi Serra 1998.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote5">5</a>: Sendschreiben von den Herculanischen Entdeckungen, 1762 ; Nachrichten von den neuesten Herculanischen Entdeckungen, 1764. Visites à Naples en 1758, 1762, 1764 et 1767. <a href="./document19">voir document n°19</a>.</p>
 
-<p>
+
 <small>
-<a name="myfootnote6">6</a>: Description des pierres gravées du feu Baron de Stosch, 1760, <a href="./document4">voir document n°4</a>.
+<a name="myfootnote5">5</a>: Sendschreiben von den Herculanischen Entdeckungen, 1762 ; Nachrichten von den neuesten Herculanischen Entdeckungen, 1764. Visites à Naples en 1758, 1762, 1764 et 1767. <a href="./document19">voir document n°19</a>.
+
+<small><a name="myfootnote6">6</a>: Description des pierres gravées du feu Baron de Stosch, 1760, <a href="./document4">voir document n°4</a>.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote7">7</a>: Geschichte der Kunst des Alterthums, 1764, voir les notices <a href="./document15"> n°15</a>, <a href="./document20">n°16</a> et <a href="./document17">n°17</a>
+<small><a name="myfootnote7">7</a>: Geschichte der Kunst des Alterthums, 1764, voir les notices <a href="./document15"> n°15</a>, <a href="./document20">n°16</a> et <a href="./document17">n°17</a>
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote8">8</a>: Monumenti antichi inediti, spiegati ed illustrati, 1767, <a href="./document18">voir document n°18</a>.
+<small><a name="myfootnote8">8</a>: Monumenti antichi inediti, spiegati ed illustrati, 1767, <a href="./document18">voir document n°18</a>.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote9">9</a>: Winckelmann 2005, p.39.
+<small><a name="myfootnote9">9</a>: Winckelmann 2005, p.39.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote10">10</a>: Hérodote a écrit au Ve siècle av. J.-C. un texte intitulé ’Ιστορ́ιη (Historiè), que l’on peut traduire par enquête.
+<small><a name="myfootnote10">10</a>: Hérodote a écrit au Ve siècle av. J.-C. un texte intitulé ’Ιστορ́ιη (Historiè), que l’on peut traduire par enquête.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote11">11</a>: Pomian 2000.
+<small><a name="myfootnote11">11</a>: Pomian 2000.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote12">12</a>: Boutry, Chiarini, Deuchler 1991 ; Gallo 2008.
+<small><a name="myfootnote12">12</a>: Boutry, Chiarini, Deuchler 1991 ; Gallo 2008.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote13">13</a>: Schnapp 1982 ; Pomian 2000 ; DaCosta Kaufmann 2001.
+<small><a name="myfootnote13">13</a>: Schnapp 1982 ; Pomian 2000 ; DaCosta Kaufmann 2001.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote14">14</a>: Griener 1998.
+<small><a name="myfootnote14">14</a>: Griener 1998.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote15">15</a>: Uhlig 1988 ; Bruer 1994.
+<small><a name="myfootnote15">15</a>: Uhlig 1988 ; Bruer 1994.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote16">16</a>: Pommier 1991.
+<small><a name="myfootnote16">16</a>: Pommier 1991.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote17">17</a>: Michaud 2015 ; cet aspect a pu être célébré par les théories raciales les plus radicales des XIXe et XXe siècles.
+<small><a name="myfootnote17">17</a>: Michaud 2015 ; cet aspect a pu être célébré par les théories raciales les plus radicales des XIXe et XXe siècles.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote18">18</a>: Blanc 2018.
+<small><a name="myfootnote18">18</a>: Blanc 2018.
 </small>
-</p>
 
-<p>
-<small>
-<a name="myfootnote19">19</a>:“L’érudition est une chose qui rend les hommes insensibles”, lettre à K.F. Uden, 3 mars 1752 (Winckelmann 1952, I, p.109).
+<small><a name="myfootnote19">19</a>:“L’érudition est une chose qui rend les hommes insensibles”, lettre à K.F. Uden, 3 mars 1752 (Winckelmann 1952, I, p.109).
 </small>
-</p>
 
 
 
