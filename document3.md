@@ -1,17 +1,20 @@
 ﻿***
 
 **Document n°3 - Anne Claude Philippe de Caylus (1692-1765)**
-**_Recueil d'antiquités égyptiennes, étrusques, grecques et romaines_**
-**Paris, chez Desaint et Saillant, 1752-1767**
 
-***
+**_Recueil d'antiquités égyptiennes, étrusques, grecques et romaines_**
+
+**Paris, chez Desaint et Saillant, 1752-1767. Bibliothèque de l'INHA, cote 4 RES 1847 (1-7)**
 
 ![Branching](./img/doc3/doc3_1.jpg)
 
-
-**Bibliothèque de l'INHA, cote 4 RES 1847 (1-7)**
-
 [consulter l'exemplaire numérisé ici](http://bibliotheque-numerique.inha.fr/idurl/1/5655){:target="_blank"}
+
+
+***
+
+
+***
 
 7 volumes in-quarto (26 x 21 cm)
 
@@ -19,6 +22,7 @@ Reliure de veau fauve avec encadrements dorés, dos orné à cinq nerfs cloisonn
 
 Autre titre des vol. 3 à 7 : _Recueil d'antiquités égyptiennes, étrusques, grecques, romaines et gauloises_
 
+***
 
 Anne Claude Philippe de Pestels de Lévis de Tubières-Grimoard, comte de Caylus, né dans la plus haute noblesse
 de France, est l’un des grands personnages de la République des Lettres, et ses écrits sur les œuvres antiques sont un jalon essentiel de l’histoire de l’archéologie.

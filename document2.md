@@ -1,23 +1,26 @@
 ﻿***
 
 **Document n°2 - Pierre-Jean Mariette (1694-1774)**
+
 **_Traité des pierres gravées_**
 
-**Paris, chez P.J. Mariette, 1750**
-
-***
-
-**Bibliothèque de l'INHA, [cote 4 RES 504 (1-2)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227111)**
+**Paris, chez P.J. Mariette, 1750. Bibliothèque de l'INHA, [cote 4 RES 504 (1-2)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227111)**
 
 ![Branching](./img/doc2/doc2_1.jpg)
 
 [Exemplaire numérisé d'une autre bibliothèque](https://gallica.bnf.fr/ark:/12148/bpt6k311112h){:target="_blank"}
+
+***
+
+***
 
 2 volumes in-quarto (33 x 22 cm)
 
 Reliure en maroquin rouge, encadrement doré sur les plats, dos à cinq nerfs cloisonné de filets dorés, titre et tomaison.
 
 Première page mention à l’encre : _1877. collationné complet le 6 juillet 1825. J.J. Debure l’ainé. la feuille 6 du tome second est double. en bas c.d.m.m. 689_
+
+***
 
 Pierre-Jean Mariette est une des grandes figures de la République des Lettres à Paris au XVIIIe siècle.
 Né dans une importante famille de graveurs et éditeurs d’estampes de la rue Saint-Jacques, il apprend le dessin et la gravure avec Jean Chaufourier (1679-1757)
