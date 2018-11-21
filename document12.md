@@ -16,6 +16,7 @@
 
 1 volume in-8°
 Reliure en papier marbré, titre doré sur le dos
+
 Sur la page de titre, deux cachets : « A. Kaufmann architecte «  et « Bibliothèque d'art et d'archéologie, 19 rue Spontini, 19 Paris » et un timbre sec : « Empire français (Paris) ».
 Frontispice avec un portrait en médaillon de Winckelmann gravé à Dorpat en 1804 par le Prussien Karl Augustus Senff (1770-1838) - depuis un an professeur associé de dessin et gravure à l’université de Dorpat - d’après le portrait posthume qu’Anton Raphaël Mengs avait exécuté à Rome vers 1777 pour l’ambassadeur espagnol auprès du Saint-Siège José Nicolás de Azara (1730-1804), aujourd’hui au Metropolitan Museum of Art de New York.
 
