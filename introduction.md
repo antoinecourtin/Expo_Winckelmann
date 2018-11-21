@@ -234,7 +234,9 @@ Cécile Colonna, conseillère scientifique en charge du domaine "Histoire de l'a
 </p>
 
 
+
 #### Table des illusration
+
 1. Anton von Maron (1733-1808), Portrait de Johann Joachim Winckelmann, 1768, huile sur toile, château de Weimar.  https://commons.wikimedia.org/wiki/File:Johann_Joachim_Winckelmann_(Anton_von_Maron_1768).jpg)
 2. Carte de l’Europe, 1759.  https://fr.wikipedia.org/wiki/Fichier:Carte_europe_1763.jpg
 3. Hubert Robert (1733 - 1808), Un dessinateur dans la galerie du Capitole, vers 1765, sanguine, The J. Paul Getty Museum, Los Angeles.
