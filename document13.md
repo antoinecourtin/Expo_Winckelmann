@@ -1,19 +1,23 @@
-***
-### **Document n°13 - Carl Justi (1832-1912)**
+﻿***
+**Document n°13 - Carl Justi (1832-1912)**
+
 **_Winckelmann und seine Zeitgenossen, Zweite durchgesehene Auflage, I, Winckelmann in Deutschland ; II, Winckelmann in Rom_**
-**Leipzig, Verlag von F. C. W. Vogel, 1898.**
 
--------------------------
-
-![Branching](./img/doc13/doc13_1.jpg)
+**Leipzig, Verlag von F. C. W. Vogel, 1898**
 
 **Bibliothèque de l’INHA, [cote N7483.W5 JUST 1898 (1)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.117769){:target="_blank"}**
 
-**[exemplaire numérisé d'une autre bibliothèque](http://digi.ub.uni-heidelberg.de/diglit/justi1866bd1){:target="_blank"}**
+[exemplaire numérisé d'une autre bibliothèque](http://digi.ub.uni-heidelberg.de/diglit/justi1866bd1){:target="_blank"}
+
+![Branching](./img/doc13/doc13_1.jpg)
+
+
 
 1 volume in-8°
 Reliure en tissu noir, dos avec pièce de titre en veau fauve, titre et nom de l’auteur dorés.
 Frontispice avec portrait de Winckelmann dans un médaillon dans le vol. I ; dans le vol. II, portrait du cardinal Alessandro Albani exécuté par Marguerite Lecomte (1717-1800) à Rome en 1764.
+
+***
 
 Professeur d’histoire de l’art à l’université de Bonn de 1872 à 1901, Carl Justi (1832-1912) est l’auteur de quatre grandes monographies, celle sur Winckelmann, une sur Velázquez, parue en 1888 et immédiatement traduite en anglais (Londres, H. Grevel, 1889) et une troisième sur Murillo, éditée à Leipzig chez E. A. Seeman, en 1892. Il fut en effet l’un des premiers historiens de l’art allemands à s’intéresser à l’art espagnol du Siècle d’or. Son _Michelangelo : Beiträge zur Erklärung der Werke und des Menschen_ parut à Leipzig, chez Breitkopf et Härtel, en 1900. Il fut suivi neuf ans plus tard par un autre volume, _Michelangelo. Neue Beiträge zur Erklärung seiner Werke_.
 

@@ -8,9 +8,9 @@
 
 **Bibliothèque de l'INHA, [Fol C 208](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.228575)**
 
-![Branching](./img/doc5/doc5_1.jpg)
-
 [Exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/books/Nolli1748){:target="_blank"}
+
+![Branching](./img/doc5/doc5_1.jpg)
 
 
 

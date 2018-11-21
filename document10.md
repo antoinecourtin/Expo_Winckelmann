@@ -1,14 +1,16 @@
 ﻿***
-### **Document n°10 - Lettre de « Giovanni Winkelmann, membro onorario dell’Acad. di S. Luca e della Società antiquaria di Londra » à Reginaldo Sellari, Rome, le 14 février 1761.**
-
--------------------------
-
-![Branching](./img/doc10/doc10_1.jpg)
+**Document n°10 - Lettre de « Giovanni Winkelmann, membro onorario dell’Acad. di S. Luca e della Società antiquaria di Londra » à Reginaldo Sellari, Rome, le 14 février 1761.**
 
 **Bibliothèque de l’INHA, [Autographe 28bis, 17](https://agorha.inha.fr/inhaprod/ark:/54721/00521717){:target="_blank"}**
 
+![Branching](./img/doc10/doc10_1.jpg)
+
+
+
 encre brune sur papier vergé (240 x  152 mm)
 Au verso, en haut à droite : « al Canonico Antonio Sellari Segretario dell’Accademia Etrusca di Cortona »
+
+***
 
 En répondant avec retard au bibliothécaire et secrétaire de l’Académie étrusque de Cortone, l’avocat et chanoine Reginaldo Sellari (1718-1799), qui lui avait communiqué son élection comme membre, Winckelmann se justifie en disant qu’il avait plusieurs fois repoussé le moment de prendre la plume à cause de son niveau défaillant dans la rédaction en langue italienne. Ce qui est démenti par le contenu de la lettre. Le même jour, il écrivait aussi une lettre de remerciement aux « _Illustrissimi e Dottissimi Accademici_ » (Winckelmann 1961, p. 162).
 

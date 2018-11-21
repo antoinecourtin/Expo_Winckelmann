@@ -1,15 +1,21 @@
-***
-### **Document n°16 - Johann Joachim Winckelmann (1717-1768)**
-**_Histoire de l’Art de l’Antiquité par M. Winkelmann traduite de l’allemand par M. Huber_**
-**Leipzig, chez l’auteur et chez Jean Gottl. Imman. Breitkopf, 1781**
+﻿***
 
--------------------------
-![Branching](./img/doc16/doc16_1.jpg)
+**Document n°16 - Johann Joachim Winckelmann (1717-1768)**
+
+**_Histoire de l’Art de l’Antiquité par M. Winkelmann traduite de l’allemand par M. Huber_**
+
+**Leipzig, chez l’auteur et chez Jean Gottl. Imman. Breitkopf, 1781**
 
 **Bibliothèque de l’INHA, [cote 4 Res 446 (1-3)](http://bibliotheque-numerique.inha.fr/idurl/1/13537){:target="_blank"}**
 
+![Branching](./img/doc16/doc16_1.jpg)
+
+
+
 3 tomes en 1 volume in-4° (25 x 20 cm)
 Reliure de veau fauve avec encadrements dorés, dos orné à six nerfs cloisonné de filets dorés, titre.
+
+***
 
 Dédiée « à Son Altesse Léopold-Frédéric François prince d’Anhalt-Dessau », qui avait connu Winckelmann à Rome, et préfacée par le traducteur, cette seconde traduction française de la première édition de la _Geschichte der Kunst des Alterthums_ de Winckelmann est l’œuvre de Michael Huber (1727-1804).
 

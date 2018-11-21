@@ -1,23 +1,26 @@
 ﻿***
 
 **Document n°20 - Johann Joachim Winckelmann (1717-1768)**
+
 **_Recueil de différentes pièces sur les arts_**
 
 **Paris, chez Barrois l'aîné, libraire, quai des Augustins, 1786**
 
-***
-![Branching](./img/doc20/doc20_1.jpg)
-
 **Bibliothèque de l'INHA, cote 8 RES 1221 et 8 RES 2500**
 
 [Consulter le document numérisé](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227402){:target="_blank"}
+
 [Exemplaire numérisé d'une autre bibliothèque](https://gallica.bnf.fr/ark:/12148/bpt6k84160q){:target="_blank"}
+
+![Branching](./img/doc20/doc20_1.jpg)
+
+
 
 1 volume in-octavo (21 x 15 cm).
 
-8 RES 1221 : reliure veau fauve, dos orné avec pièce de titre. Estampille sur la page de titre : _Bibliothèque d'art et d'archéologie, 19 rue Spontini, 19 Paris._
+8 RES 1221 : reliure veau fauve, dos orné avec pièce de titre. Estampille sur la page de titre : _Bibliothèque d'art et d'archéologie, 19 rue Spontini, 19 Paris._ 8 RES 2500 : reliure moderne (tampon M. Teinturier relieur), inv. 31.217 ; cachet au faux-titre : _Don de M. Louis Dimier_ ; annoté au crayon à papier.
 
-8 RES 2500 : reliure moderne (tampon M. Teinturier relieur), inv. 31.217 ; cachet au faux-titre : _Don de M. Louis Dimier_ ; annoté au crayon à papier.
+***
 
 Cet ouvrage de 1786 proposa au public francophone la réunion de plusieurs publications de Winckelmann. La première, _Réflexions sur l’imitation des artistes grecques dans la peinture et la sculpture_, est une nouvelle traduction des _Gedanken über die Nachahmung der griechischen Werke in der Malerei und Bildhauerkunst_, parus en 1755 à Dresde. Il existait déjà une traduction en français sous forme de lettres, à partir d’une version anglaise, mais selon l’auteur elle comportait des erreurs et des omissions. Le traducteur (sans doute Hendrik Jansen, 1741-1812, *voir n° 11 et 17*) est reparti de ce travail en le corrigeant et en ajoutant les changements de la seconde édition allemande publiée à Dresde et Leipzig en 1756.
 

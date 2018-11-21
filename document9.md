@@ -8,9 +8,9 @@
 
 **Bibliothèque de l’INHA,[cote 4 Res 1730](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227071){:target="_blank"}**
 
-![Branching](./img/doc9/doc9_1.jpg)
-
 [exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/books/Venuti1763Vol1){:target="_blank"}
+
+![Branching](./img/doc9/doc9_1.jpg)
 
 
 

@@ -8,9 +8,9 @@
 
 **Bibliothèque de l’INHA, [cote Pl Res 13 (2-3)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.470877 ){:target="_blank"}**
 
-![Branching](./img/doc8/doc8_1.jpg)
-
 [exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/books/Piranesi1756Vol2){:target="_blank"}
+
+![Branching](./img/doc8/doc8_1.jpg)
 
 
 

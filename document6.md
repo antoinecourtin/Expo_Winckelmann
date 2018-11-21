@@ -10,9 +10,10 @@
 
 **Bibliothèque de l’INHA, [cote 4 Res 1718](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.226413){:target="_blank"}**
 
-![Branching](./img/doc6/doc6_1.jpg)
-
 [exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/item/buchseite/354615){:target="_blank"}
+
+
+![Branching](./img/doc6/doc6_1.jpg)
 
 
 

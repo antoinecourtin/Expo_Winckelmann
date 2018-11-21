@@ -1,24 +1,24 @@
 ﻿***
 
 **Document n°19 - Johann Joachim Winckelmann (1717-1768)**
+
 **_Recueil de lettres de M. Winckelmann, sur les découvertes faites à Herculanum, à Pompéii, à Stabia, à Caserte & à Rome_**
 
 **Paris, chez Barrois l'aîné, libraire, quai des Augustins, 1784**
-
-***
-![Branching](./img/doc19/doc19_1.jpg)
 
 **Bibliothèque de l'INHA, cote 8 RES 855 et 8 RES 856**
 
 [Consulter le document numérisé](http://bibliotheque-numerique.inha.fr/idurl/1/13540){:target="_blank"}
 
+![Branching](./img/doc19/doc19_1.jpg)
+
+
+
 1 volume in-octavo (21 x 13 cm)
 
-Reliure de veau brun marbré, dos orné avec pièce de titre.
+Reliure de veau brun marbré, dos orné avec pièce de titre. 8 RES 855 : Ex-libris impr. _Giannalisa Feltrinelli._ Rel. avec _Remarques sur l'architecture des anciens, par M. Winckelmann, président des Antiquités du Vatican, Paris, Barrois, 1783_
 
-8 RES 855 : Ex-libris impr. _Giannalisa Feltrinelli._
-
-Rel. avec _Remarques sur l'architecture des anciens, par M. Winckelmann, président des Antiquités du Vatican, Paris, Barrois, 1783_
+***
 
 Ce recueil comprend trois écrits de Winckelmann sur les découvertes des sites antiques de Campanie : _Lettre de M. l’abbé Winckelmann à M. le comte de Brühl, sur les découvertes d’Herculanum (Sendschreiben von den Herculanischen Entdeckungen an den Hochgebohrnen Herrn Heinrich Reichsgrafen von Brühl_, 1762) ; _Relation des nouvelles découvertes faites à Herculanum, adressées à M. Henri Fuessli, de Zurich (Nachricht von den neuesten Herculanischen Entdeckungen_, 1764) ; _Seize lettres de M. Winckelmann à M. Bianconi, conseiller et résident de la Cour électorale de Saxe auprès du Pape ; sur les découvertes faites à Herculanum, à Pompeii, à Stabia, à Pestum, à Caserte et à Rome, avec des remarques et des notes de M. Dassdorf, bibliothécaire de la bibliothèque électorale à Dresde_. Il s’agit donc de trois ensembles de lettres, adressées respectivement à Heinrich von Brühl (1700-1763), premier ministre d’Auguste III de Pologne, le peintre suisse Johann Heinrich Füssli (1745-1832) et l’antiquaire italien Giovanni
 Ludovico Bianconi (1717-1781), archidiacre à la cour de Dresde. Le dernier est en fait le plus ancien, et documente le premier voyage de 1758 ; les deux premières témoignent de visites avec les destinataires et ont été publiés d’emblée en allemand en 1762 et 1764. Le premier opus fût traduit en français dès 1764 par Michael Huber, un savant allemand vivant à Paris (voir *n°16*), témoignant de la demande des lecteurs européens vis-à-vis des ces fameuses collections campaniennes.

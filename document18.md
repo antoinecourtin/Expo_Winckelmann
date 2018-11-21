@@ -1,24 +1,26 @@
 ﻿***
 
 **Document n°18 - Johann Joachim Winckelmann**
+
 **_Monumenti antichi inediti_**
 
 **Rome, A spese dell' autore, 1767**
-
-***
-![Branching](./img/doc18/doc18_1.jpg)
 
 **Bibliothèque de l'INHA, cote [Fol RES 355 (1-2)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227708)**
 
 [Exemplaire numérisé d'une autre bibliothèque](http://digi.ub.uni-heidelberg.de/diglit/winckelmann1767ga){:target="_blank"}
 
+![Branching](./img/doc18/doc18_1.jpg)
+
+
+
 1 volume  in-folio (39 x 28 cm)
 
 Reliure en veau brun (avec décor de croisillons estampé), encadrement doré sur les plats avec au centre du premier plat de chaque volume des armes frappées or avec la devise _Pro Rige et Patria_  et le monogramme C.C.A.M.I.R., dos à cinq nerfs cloisonné de filets dorés, titre et tomaison.
 
-Page de titre : marque _Charles Cameron C.C.A.M.I.R._ sur le volume 1 : papier collé sur une page blanche avec le titre _Honorius phil. Folu._ (?)
+Page de titre : marque _Charles Cameron C.C.A.M.I.R._ sur le volume 1 : papier collé sur une page blanche avec le titre _Honorius phil. Folu._ (?) Gravure collée sur la dernière page, avec à l’encre en dessous : _monumens inedis Vedi, parte seconda, pag.134._
 
-gravure collée sur la dernière page, avec à l’encre en dessous : _monumens inedis Vedi, parte seconda, pag.134._
+***
 
 Cet ouvrage, la dernière publication d’envergure de Winckelmann, parut en février 1767 ; c’est pourtant celui par lequel le savant allemand s’inscrivit le plus clairement dans la tradition antiquaire. Il s’agissait sans doute pour lui de convaincre un lectorat romain sensible à la forme du recueil illustré d’antiquités avec un large apparat critique, et qui ne connaissait pas bien ses livres en allemand (ou même en français). Le projet d’un recueil en italien regroupant les explications de monuments inédits était annoncé imminente en 1764 dans la Geschichte : en effet, Winckelmann y travailla dès 1760. Le projet évolua, et les deux volumes furent finalement édité par l’auteur lui-même, qui travailla d’emblée à un troisième volume dont le manuscrit est aujourd’hui conservé à la bibliothèque de Montpellier (_Osservazioni ed estratti di antichità_).
 
