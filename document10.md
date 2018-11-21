@@ -1,5 +1,5 @@
-***
-### **Lettre de « Giovanni Winkelmann, membro onorario dell’Acad. di S. Luca e della Società antiquaria di Londra » à Reginaldo Sellari, Rome, le 14 février 1761.**
+﻿***
+### **Document n°10 - Lettre de « Giovanni Winkelmann, membro onorario dell’Acad. di S. Luca e della Società antiquaria di Londra » à Reginaldo Sellari, Rome, le 14 février 1761.**
 
 -------------------------
 
