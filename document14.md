@@ -4,6 +4,7 @@
 **Paris, Louis Conard Libraire-éditeur - 6, place de la Madeleine, 1929**
 
 -------------------------
+![Branching](./img/doc14/doc14_1.jpg)
 
 **Bibliothèque de l’INHA, cote 8 MON 49502**
 

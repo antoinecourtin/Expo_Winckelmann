@@ -10,6 +10,8 @@
 
 ***
 
+![Branching](./img/doc5/doc5_1.jpg)
+
 [Exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/books/Nolli1748){:target="_blank"}
 
 1 volume in-folio (50 x 40,5 cm)

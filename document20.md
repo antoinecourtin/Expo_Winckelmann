@@ -6,6 +6,7 @@
 **Paris, chez Barrois l'aîné, libraire, quai des Augustins, 1786**
 
 ***
+![Branching](./img/doc20/doc20_1.jpg)
 
 **Bibliothèque de l'INHA, cote 8 RES 1221 et 8 RES 2500**
 

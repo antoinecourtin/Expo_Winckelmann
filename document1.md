@@ -179,7 +179,19 @@ font-weight:bold;}
 </style>
 
 
-### Document n°1 - Anton Francesco Gori (1691-1757)
+
+***
+**Document n°1 - Anton Francesco Gori (1691-1757)**
+**_Museum florentinum exhibens insigniora vetustatis monumenta quae Florentiae sunt, Ioanni Gastoni Etruriae Magno Duci dedicatum._**
+
+**_I, Gemmae antiquae ex thesauro mediceo et privatorum dactyliothecis Florentiae exhibentes tabulis_**
+**_c. Imagines virorum illustrium et deorum cum observationibus Antonii Francisci Gorii publici historiarum professoris, Florence,_**
+
+**_ex typographia Michaelis Nestenus et Francisci Moücke, 1731-1732_**
+
+**Brunet, t.2, col. 1670. [Cote FOL Res 399 (1-6)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search&p=74469586-3948-11e2-a8f1-ac6f86effe00#recordId=1.226416)**
+
+***
 
 <div class="carousel">
    <div class="carousel-inner">
@@ -225,20 +237,6 @@ font-weight:bold;}
 </div>
 </div>
 
-***
-
-**Document n°1 - Anton Francesco Gori (1691-1757)**
-
-**_Museum florentinum exhibens insigniora vetustatis monumenta quae Florentiae sunt, Ioanni Gastoni Etruriae Magno Duci dedicatum._**
-
-**_I, Gemmae antiquae ex thesauro mediceo et privatorum dactyliothecis Florentiae exhibentes tabulis_**
-**_c. Imagines virorum illustrium et deorum cum observationibus Antonii Francisci Gorii publici historiarum professoris, Florence,_**
-
-**_ex typographia Michaelis Nestenus et Francisci Moücke, 1731-1732_**
-
-**Brunet, t.2, col. 1670. [Cote FOL Res 399 (1-6)](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search&p=74469586-3948-11e2-a8f1-ac6f86effe00#recordId=1.226416)**
-
-***
 
 [exemplaire numérisé d'une autre bibliothèque](http://gallica.bnf.fr/ark:/12148/bpt6k888083n){:target="_blank"}
 

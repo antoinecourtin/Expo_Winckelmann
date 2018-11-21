@@ -6,6 +6,7 @@
 **Paris, chez H. J. Jansen, imprimeur-libraire, rue des Pères, n°1195, an VII (1798-1799)**
 
 ***
+![Branching](./img/doc21/doc21_1.jpg)
 
 **Bibliothèque de l'INHA, cote 8 VA 1799 (1-2) inv. 164253**
 
