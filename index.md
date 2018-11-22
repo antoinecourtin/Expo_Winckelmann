@@ -1,10 +1,10 @@
-## Winckelmann à la bibliothèque de l'INHA
+﻿## Winckelmann à la bibliothèque de l'INHA
 
-Cette exposition virtuelle met en valeur les fonds de la bibliothèque de l'INHA relatif à l'historien de l'art Johann Joachim Winckelmann.
+Cette exposition virtuelle met en valeur les fonds de la bibliothèque de l'INHA relatifs à l'historien de l'art Johann Joachim Winckelmann.
 Elle a été réalisée à l'occasion d'une présentation en salle Labrouste du 22 au 30 novembre 2018.
 
 ---
-Parcourez les documents ci-dessous et utiliser les sections dans le menu de gauche.
+Parcourez les documents ci-dessous et utilisez les sections dans le menu de gauche.
 
 ---
 
