@@ -1,7 +1,7 @@
 ﻿# Winckelmann à la bibliothèque de l’INHA
 ## Exposition dossier du 22 au 30 novembre 2018
 
-## Textes du catalogue :
+## Textes du catalogue
 Cécile Colonna et Daniela Gallo
 
 ## Lieu
@@ -37,3 +37,5 @@ Domaine de recherche Histoire de l’art antique et de l’archéologie
 * Antoine Courtin
 * Cécile Maï Delhomme
 * Bastien Rueff
+
+> Ce site internet fut l'occasion d'expérimenter à l'INHA, la réalisation d'un produit numérique géré de manière 100% collaboratif dans la réalisation "technique" car il repose sur un répertoire github et un ensemble de fichier rédigés en markdown. 
