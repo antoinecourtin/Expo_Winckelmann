@@ -44,7 +44,6 @@
               <img src="./img/doc9/doc9_2.jpg" />
             </div>
           </li>  
-        
     </ol>
 </div>
 </div>
@@ -90,8 +89,10 @@ Biblio. : Winckelmann 1961, p. 224 (lettre du 30 avril 1763) ; Gallo 1985 ; Gall
 .carousel-inner {
     position: relative;
     overflow: hidden;
-    width: 100%;
-    height:690px;
+    width: 500px;
+      height: 100%;
+      margin-left: auto;
+      margin-right: auto;
 }
 
 .carousel-open:checked + .carousel-item {
