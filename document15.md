@@ -23,14 +23,11 @@
       </div>
       <input name="carousel" class="carousel-open" id="carousel-3" aria-hidden="true" type="radio" hidden="true"/>
       <div class="carousel-item">
-<img class="pic" src="./img/doc15/doc15_3.jpg">
       </div>
       <label class="carousel-control prev control-1" for="carousel-3">‹</label>
       <label class="carousel-control next control-1" for="carousel-2">›</label>
       <label class="carousel-control prev control-2" for="carousel-1">‹</label>
       <label class="carousel-control next control-2" for="carousel-3">›</label>
-      <label class="carousel-control prev control-3" for="carousel-2">‹</label>
-      <label class="carousel-control next control-3" for="carousel-1">›</label>
 
       <ol class="carousel-indicators">
          <li>
@@ -45,12 +42,7 @@
               <img src="./img/doc15/doc15_2.jpg" />
             </div>
           </li>  
-         <li>
-            <label class="carousel-bullet" for="carousel-3">●</label>
-            <div class="carousel-preview">
-              <img src="./img/doc15/doc15_3.jpg" />
-            </div>
-         </li>
+
     </ol>
 </div>
 </div>
@@ -95,8 +87,10 @@ Biblio. : Espagne 1991, p. 103-106 ; Griener 1998 ; Ferrari 2011, p 15-27 ; Kunz
 .carousel-inner {
     position: relative;
     overflow: hidden;
-    width: 100%;
-    height:690px;
+    width: 500px;
+      height: 100%;
+      margin-left: auto;
+      margin-right: auto;
 }
 
 .carousel-open:checked + .carousel-item {
