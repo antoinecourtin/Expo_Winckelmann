@@ -10,7 +10,7 @@
 
 [Consulter le document numérisé](http://bibliotheque-numerique.inha.fr/idurl/1/13529){:target="_blank"}
 
-[Exemplaire numérisé sur Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k311112h){:target="_blank"}
+[Exemplaire numérisé sur Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k311112h)
 
 ![Branching](./img/doc21/doc21_1.jpg)
 
