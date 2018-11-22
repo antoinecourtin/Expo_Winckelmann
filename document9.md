@@ -6,7 +6,7 @@
 
 **Rome, Presso Gio. Battista Bernabò, e Giuseppe Lazzarini, 1763**
 
-**Bibliothèque de l’INHA,[cote 4 Res 1730](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227071){:target="_blank"}**
+**Bibliothèque de l’INHA, [cote 4 Res 1730](http://bibliotheque.inha.fr/iguana/www.main.cls?surl=search#RecordId=1.227071){:target="_blank"}**
 
 [exemplaire numérisé d'une autre bibliothèque](http://arachne.uni-koeln.de/books/Venuti1763Vol1)
 
