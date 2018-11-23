@@ -110,7 +110,7 @@ MARIANI Ginevra, _Giambattista Piranesi. Matrici incise 1756-1757. Le Antichità
 
 MASCI Maria Emilia, _Documenti per la storia del collezionismo di vasi antichi nel XVIII secolo : lettere ad Anton Francesco Gori (Firenze, 1691-1757)_, Naples, Liguori, 2003.
 
-MICHELI Maria Elisa, « “Gemmae antiquae caeletae” di Anton Francesco Gori. », dans Prospettiva, 47, 1986, p. 38 51.
+MICHELI Maria Elisa, « “Gemmae antiquae caeletae” di Anton Francesco Gori. », dans _Prospettiva_, 47, 1986, p. 38 51.
 
 OCCHIPINTI Carmelo, _Percorsi settecenteschi nella cultura figurativa europea. 1-2_, Roma, UniversItalia, 2011-2013.
 
