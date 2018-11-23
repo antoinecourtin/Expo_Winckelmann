@@ -56,7 +56,7 @@ ESPAGNE Michel, “La diffusion de la culture allemande dans la France des Lumi�
 
 FANFANI Massimo, « ‘Qualche modo elegante di parlare’. Sul ‘buon toscano’ di Winckelmann », dans ARBEID Barbara, BRUNI Stefano et IOZZO Mario (dir.), _Winckelmann, Firenze e gli Etruschi : il padre dell’archeologia in Toscana, catalogue de l’exposition (Florence, Museo Archeologico Nazionale, 26 mai 2016-30 janvier 2017)_, Pise, Edizioni ETS, 2016, p. 189 209.
 
-FERRARI Stefano, _Il piacere di tradurre François-Vincent Toussaint e la versione incompiuta dell’”Histoire de l’art chez les anciens” di Winckelmann_, Rovereto, Edizioni Osiride, 2011.
+FERRARI Stefano, _Il piacere di tradurre François-Vincent Toussaint e la versione incompiuta dell’ ”Histoire de l’art chez les anciens” di Winckelmann_, Rovereto, Edizioni Osiride, 2011.
 
 FERRARI Stefano, “I viaggi in Campania di Winckelmann (1758-1767): con particolari inediti alla luce di un nuovo documento”, dans _La Campania e il grand tour immagini, luoghi e racconti di viaggio tra Settecento e Ottocento_, Rome, "L'Erma" di Bretschneider, 2015, p. 249 260.
 
