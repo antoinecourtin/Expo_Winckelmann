@@ -1,38 +1,38 @@
 ﻿## Bibliographie
 
-AGHION Irène et ZAMBON Alessia, « Le comte de Caylus (1692-1765) et l’invention de l’archéologie », dans Les nouvelles de l’archéologie, 110, 30 novembre 2007, p. 15 17.
+AGHION Irène et ZAMBON Alessia, « Le comte de Caylus (1692-1765) et l’invention de l’archéologie », dans _Les nouvelles de l’archéologie_, 110, 30 novembre 2007, p. 15 17.
 
-AGHION Irène (dir.), Caylus, mécène du roi : collectionner les antiquités au XVIIIe siècle, Paris, INHA, 2002.
+AGHION Irène (dir.), _Caylus, mécène du roi : collectionner les antiquités au XVIIIe siècle_, Paris, INHA, 2002.
 
-ARATA Francesco Paolo, Il Secolo d’oro del Museo Capitolino: 1733-1838  : nascita e formazione della prima collezione pubblica di antichità, Rome, Campisano, 2016.
+ARATA Francesco Paolo, _Il Secolo d’oro del Museo Capitolino: 1733-1838  : nascita e formazione della prima collezione pubblica di antichità_, Rome, Campisano, 2016.
 
-ARBEID Barbara, BRUNI Stefano et IOZZO Mario (dir.), Winckelmann, Firenze e gli Etruschi : il padre dell’archeologia in Toscana, catalogue de l’exposition (Florence, Museo Archeologico Nazionale, 26 mai 2016-30 janvier 2017), Pise, Edizioni ETS, 2016.
+ARBEID Barbara, BRUNI Stefano et IOZZO Mario (dir.), _Winckelmann, Firenze e gli Etruschi : il padre dell’archeologia in Toscana, catalogue de l’exposition (Florence, Museo Archeologico Nazionale, 26 mai 2016-30 janvier 2017)_, Pise, Edizioni ETS, 2016.
 
-BALLERI Rita, « Il Settecento e la cultura antiquaria tra Firenze e Roma : il “Museum Florentinum” », dans Proporzioni, 2007, p. 97 141.
+BALLERI Rita, « Il Settecento e la cultura antiquaria tra Firenze e Roma : il “Museum Florentinum” », dans _Proporzioni_, 2007, p. 97 141.
 
-BAROCCHI Paola et GALLO Daniela (dir.), L’Accademia etrusca, catalogue de l’exposition (Cortone, Palazzo Casali, 19 mai-20 octobre 1985), Milan, Electa, 1985.
+BAROCCHI Paola et GALLO Daniela (dir.), _L’Accademia etrusca, catalogue de l’exposition (Cortone, Palazzo Casali, 19 mai-20 octobre 1985)_, Milan, Electa, 1985.
 
-BATTAGLIA Roberta, « Da Francesco Bianchini a Giovan Battista Piranesi  : l’illustrazione delle Camere Sepolcrali dei Liberti di Livia », dans Dialoghi di Storia dell’Arte, 2, 1996, p. 58 81.
+BATTAGLIA Roberta, « Da Francesco Bianchini a Giovan Battista Piranesi  : l’illustrazione delle Camere Sepolcrali dei Liberti di Livia », dans _Dialoghi di Storia dell’Arte_, 2, 1996, p. 58 81.
 
-BECK Herbert et BOL Peter Cornelis (dir.), Forschungen zur Villa Albani. Antike Kunst und die Epoche der Aufklärung, Berlin, Gebr. Mann, 1982.
+BECK Herbert et BOL Peter Cornelis (dir.), _Forschungen zur Villa Albani. Antike Kunst und die Epoche der Aufklärung_, Berlin, Gebr. Mann, 1982.
 
-BENTZ Martin, « Venuti, Ridolfino », dans KUHLMANN Peter et SCHNEIDER Helmuth (dir.), Geschichte der Altertumswissenschaftlichen Biographisches Lexikon (= Der Neue Pauly Supplementa vol. 6), 2012.
+BENTZ Martin, « Venuti, Ridolfino », dans KUHLMANN Peter et SCHNEIDER Helmuth (dir.), _Geschichte der Altertumswissenschaftlichen Biographisches Lexikon_ (= Der Neue Pauly Supplementa vol. 6), 2012.
 
-BEVILACQUA Mario, “Nolli e Piranesi a Villa Albani”, dans DEBENEDETTI Elisa (dir.), Alessandro Albani patrono delle arti : architettura, pittura e collezionismo nella Roma del ‘700, Rome, Bonsignori, 1993, p. 71 81.
+BEVILACQUA Mario, “Nolli e Piranesi a Villa Albani”, dans DEBENEDETTI Elisa (dir.), _Alessandro Albani patrono delle arti : architettura, pittura e collezionismo nella Roma del ‘700_, Rome, Bonsignori, 1993, p. 71 81.
 
-BEVILACQUA Mario, Roma nel secolo dei lumi : architettura erudizione scienza nella pianta di G.B. Nolli « celebre geometra », Naples, Electa Napoli, 1998.
+BEVILACQUA Mario, _Roma nel secolo dei lumi : architettura erudizione scienza nella pianta di G.B. Nolli « celebre geometra »_, Naples, Electa Napoli, 1998.
 
-BEVILACQUA Mario, Nolli, Vasi, Piranesi : immagine di Roma antica e moderna. Rappresentare e conoscere la metropoli dei lumi, Rome, Artemide, 2004.
+BEVILACQUA Mario, _Nolli, Vasi, Piranesi : immagine di Roma antica e moderna. Rappresentare e conoscere la metropoli dei lumi_, Rome, Artemide, 2004.
 
-BOUTRY Philippe, CHIARINI Paolo et DEUCHLER Florens (dir.), La Grecia antica, mito e simbolo per l’età della grande rivoluzione. Genesi e crisi di un modello nella cultura del Settecento, Milan, Guerini e Associati, 1991.
+BOUTRY Philippe, CHIARINI Paolo et DEUCHLER Florens (dir.), _La Grecia antica, mito e simbolo per l’età della grande rivoluzione. Genesi e crisi di un modello nella cultura del Settecento_, Milan, Guerini e Associati, 1991.
 
-BROHM Silke, « ‘Zu wahren Aufklärung und sittlichen Bildung’ : Die Zensurverordnung von 1804 und die neuen Universitätsstatuten », dans LEHMANN-CARLI Gabriela, BROHM Silke et HILMAR PREUSS (dir.), Göttinger und Moskauer Gelehrte und Publizisten im Spannungsfeld von russischer Historie, Reformimpulsen der Aufklärung und Petersburger Kulturpolitik, Berlin, Frank & Timme, 2008, p. 101 114.
+BROHM Silke, « ‘Zu wahren Aufklärung und sittlichen Bildung’ : Die Zensurverordnung von 1804 und die neuen Universitätsstatuten », dans LEHMANN-CARLI Gabriela, BROHM Silke et HILMAR PREUSS (dir.), _Göttinger und Moskauer Gelehrte und Publizisten im Spannungsfeld von russischer Historie, Reformimpulsen der Aufklärung und Petersburger Kulturpolitik_, Berlin, Frank & Timme, 2008, p. 101 114.
 
-BRUNI Stefano, « Anton Francesco Gori, Gaetano Albizzini, Francesco Vettori e l’officina del Museum Etruscum », dans Symbolae Antiquariae, 7, 2014, p.9-104.
+BRUNI Stefano, « Anton Francesco Gori, Gaetano Albizzini, Francesco Vettori e l’officina del Museum Etruscum », dans _Symbolae Antiquariae_, 7, 2014, p.9-104.
 
-CAGIANELLI Cristina, « La collezione di antichità di Anton Francesco Gori  : i materiali, la dispersione e alcuni recuperi », dans Atti e memorie dell’Accademia Toscana di Scienze e Lettere « La Colombaria » / Accademia Toscana di Scienze e Lettere La Colombaria, 2006, p. 99 167.
+CAGIANELLI Cristina, « La collezione di antichità di Anton Francesco Gori  : i materiali, la dispersione e alcuni recuperi », dans _Atti e memorie dell’Accademia Toscana di Scienze e Lettere « La Colombaria »_ / Accademia Toscana di Scienze e Lettere La Colombaria, 2006, p. 99 167.
 
-CRISTOFANI Mauro, « Winckelmann a Firenze », dans Prospettiva, 25, 1981, p. 24 30.
+CRISTOFANI Mauro, « Winckelmann a Firenze », dans _Prospettiva_, 25, 1981, p. 24 30.
 
 DACOSTA KAUFMANN Thomas, « Antiquarianism, the History of Objects, and the History of Art before Winckelmann », dans Journal of the History of Ideas, 62, no 3, 2001, p. 523 541.
 
