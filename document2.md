@@ -119,8 +119,10 @@ Bibliographie : Pomian 2000 ; Occhipinti 2013 ; Occhipinti 2017 ; Smentek 2017 ;
 .carousel-inner {
     position: relative;
     overflow: hidden;
-    width: 100%;
-    height:690px;
+    width: 500px;
+      height: 100%;
+      margin-left: auto;
+      margin-right: auto;
 }
 
 .carousel-open:checked + .carousel-item {

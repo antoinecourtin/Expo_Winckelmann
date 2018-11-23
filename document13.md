@@ -96,8 +96,10 @@ Biblio. : Rößler 2014 ; Lehmann 2016.
 .carousel-inner {
     position: relative;
     overflow: hidden;
-    width: 100%;
-    height:690px;
+    width: 500px;
+      height: 100%;
+      margin-left: auto;
+      margin-right: auto;
 }
 
 .carousel-open:checked + .carousel-item {

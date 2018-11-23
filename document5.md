@@ -97,8 +97,10 @@ Biblio. : Bevilacqua 1998 ; Bevilacqua 2004; Lelo 2013 ; Verstegen (dir.) 2013 ;
 .carousel-inner {
     position: relative;
     overflow: hidden;
-    width: 100%;
-    height:690px;
+    width: 500px;
+      height: 100%;
+      margin-left: auto;
+      margin-right: auto;
 }
 
 .carousel-open:checked + .carousel-item {
