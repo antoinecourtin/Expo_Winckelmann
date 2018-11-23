@@ -112,90 +112,90 @@ MASCI Maria Emilia, _Documenti per la storia del collezionismo di vasi antichi n
 
 MICHELI Maria Elisa, « “Gemmae antiquae caeletae” di Anton Francesco Gori. », dans Prospettiva, 47, 1986, p. 38 51.
 
-OCCHIPINTI Carmelo, Percorsi settecenteschi nella cultura figurativa europea. 1-2 Roma, UniversItalia, 2011-2013.
+OCCHIPINTI Carmelo, _Percorsi settecenteschi nella cultura figurativa europea. 1-2_, Roma, UniversItalia, 2011-2013.
 
-OCCHIPINTI Carmelo, “Mariette et Bouchardon. Recherche antiquaire et histoire de l’art”, dans L’artiste et l’antiquaire. L’étude de l’antique et son imaginaire à l’époque moderne, Paris, Picard, INHA, 2017, p. 67 81.
+OCCHIPINTI Carmelo, “Mariette et Bouchardon. Recherche antiquaire et histoire de l’art”, dans _L’artiste et l’antiquaire. L’étude de l’antique et son imaginaire à l’époque moderne_, Paris, Picard, INHA, 2017, p. 67 81.
 
-PARISI PRESICCE Claudio, DODERO Eloisa (dir.), Il Tesoro di Antichita. Winckelmann e il Museo Capitolino nella Roma Del Settecento, catalogue de l’exposition, Rome, Musei Capitolini, 07 décembre 2017- 22 avril 2018, Rome, Gangemi, 2017.
+PARISI PRESICCE Claudio, DODERO Eloisa (dir.), _Il Tesoro di Antichita. Winckelmann e il Museo Capitolino nella Roma Del Settecento, catalogue de l’exposition, Rome, Musei Capitolini, 07 décembre 2017- 22 avril 2018_, Rome, Gangemi, 2017.
 
-PASSINI Michela et ZERNER Henri, « Dimier, Louis », dans, BARBILLON Claire et SÉNÉCHAL Philippe (dir.), Dictionnaire critique des historiens de l’art actifs en France de la Révolution à la Première guerre mondiale, Paris, INHA, 2008, [En ligne], https://www.inha.fr/fr/ressources/publications/publications-numeriques/dictionnaire-critique-des-historiens-de-l-art/dimier-louis.html, (Consulté le 29 octobre 2018).
+PASSINI Michela et ZERNER Henri, « Dimier, Louis », dans, BARBILLON Claire et SÉNÉCHAL Philippe (dir.), _Dictionnaire critique des historiens de l’art actifs en France de la Révolution à la Première guerre mondiale_, Paris, INHA, 2008, [En ligne], https://www.inha.fr/fr/ressources/publications/publications-numeriques/dictionnaire-critique-des-historiens-de-l-art/dimier-louis.html, (Consulté le 29 octobre 2018).
 
-PIGEAUD Jackie et BARBE Jean-Paul (dir.), Winckelmann et le retour à l’antique : actes du colloque, 9-12 juin 1994, Nantes, Université de Nantes, 1995.
+PIGEAUD Jackie et BARBE Jean-Paul (dir.), _Winckelmann et le retour à l’antique : actes du colloque, 9-12 juin 1994_, Nantes, Université de Nantes, 1995.
 
-POLIGNAC François de et RASPI SERRA Joselita, La fascination de l’antique, 1700-1770 : Rome découverte, Rome inventée, catalogue de l'exposition, Lyon, musée de la civilisation gallo-romaine, 20 décembre 1998 - 14 mars 1999, Paris, Somogy, 1998.
+POLIGNAC François de et RASPI SERRA Joselita, _La fascination de l’antique, 1700-1770 : Rome découverte, Rome inventée, catalogue de l'exposition, Lyon, musée de la civilisation gallo-romaine, 20 décembre 1998 - 14 mars 1999_, Paris, Somogy, 1998.
 
-POMIAN Krzysztof, « Mariette et Winckelmann », dans Revue germanique internationale, no 13, 15 janvier 2000, p. 11 38.
+POMIAN Krzysztof, « Mariette et Winckelmann », dans _Revue germanique internationale_, no 13, 15 janvier 2000, p. 11 38.
 
-POMMIER Edouard, L’art de la liberté : doctrines et débats de la Révolution Française, Paris, Gallimard, 1991.
+POMMIER Edouard, _L’art de la liberté : doctrines et débats de la Révolution Française_, Paris, Gallimard, 1991.
 
-POMMIER Édouard (dir.), Winckelmann : la naissance de l’histoire de l’art à l’époque des lumières. Actes du cycle des conférences prononcées à l’Auditorium du Louvre du 11 décembre au 12 février 1990, Paris, La Documentation française, 1991.
+POMMIER Édouard (dir.), _Winckelmann : la naissance de l’histoire de l’art à l’époque des lumières. Actes du cycle des conférences prononcées à l’Auditorium du Louvre du 11 décembre au 12 février 1990_, Paris, La Documentation française, 1991.
 
-POMMIER Edouard, Winckelmann, inventeur de l’histoire de l’art, Paris, Gallimard, 2003.
+POMMIER Edouard, _Winckelmann, inventeur de l’histoire de l’art_, Paris, Gallimard, 2003.
 
-POTTS Alex, Flesh and the ideal: Winckelmann and the origins of art history, Yale, 1994.
+POTTS Alex, _Flesh and the ideal: Winckelmann and the origins of art history_, Yale, 1994.
 
-RIDLEY Ronald Thomas, The Prince of Antiquarians, Francesco de’ Ficoroni, Rome, Qasar, 2017.
+RIDLEY Ronald Thomas, _The Prince of Antiquarians, Francesco de’ Ficoroni_, Rome, Qasar, 2017.
 
-RÖßLER Johannes, « Winckelmann et son siècle », dans BEYER Andreas et OSTERKAMP Ernst (dir.), Goethe et l’art, II, Les écrits de Goethe sur les beaux-arts. Répertoire des artistes cités, Paris, Fondation MSH, 2014, p. 199 214.
+RÖßLER Johannes, « Winckelmann et son siècle », dans BEYER Andreas et OSTERKAMP Ernst (dir.), _Goethe et l’art, II, Les écrits de Goethe sur les beaux-arts. Répertoire des artistes cités_, Paris, Fondation MSH, 2014, p. 199 214.
 
-SCHNAPP Alain, « Archéologie et tradition académique en Europe aux XVIIIe et XIXe siècles », dans Annales, 37, no 5, 1982, p. 760 777.
+SCHNAPP Alain, « Archéologie et tradition académique en Europe aux XVIIIe et XIXe siècles », dans _Annales_, 37, no 5, 1982, p. 760 777.
 
-SCHNAPP Alain, La conquête du passé : aux origines de l’archéologie, Paris, Carré, 1993.
+SCHNAPP Alain, _La conquête du passé : aux origines de l’archéologie_, Paris, Carré, 1993.
 
-SCHNAPP Alain, World Antiquarianism: Comparative Perspectives, Getty Publications, 2014.
+SCHNAPP Alain, _World Antiquarianism: Comparative Perspectives_, Getty Publications, 2014.
 
-SCHNAPP Alain, Piranèse ou L’épaisseur de l’histoire, Paris, Dits-INHA, 2017.
+SCHNAPP Alain, _Piranèse ou L’épaisseur de l’histoire_, Paris, Dits-INHA, 2017.
 
-SMENTEK Kristel, Mariette and the science of the connoisseur in eighteenth-century Europe, Burlington, Ashgate, 2017.
+SMENTEK Kristel, _Mariette and the science of the connoisseur in eighteenth-century Europe_, Burlington, Ashgate, 2017.
 
-TESTA Fausto, Winckelmann e l’invenzione della storia dell’arte : i modelli e la mimesi, Bologne, Minerva, 1999.
+TESTA Fausto, _Winckelmann e l’invenzione della storia dell’arte : i modelli e la mimesi_, Bologne, Minerva, 1999.
 
-THRAEMER Eduard, « Morgenstern, Karl Simon », dans Allgemeine Deutsche Biographie, vol. 22, 1885, [En ligne], https://www.deutsche-biographie.de/sfz65436.html#adbcontent_literatur.
+THRAEMER Eduard, « Morgenstern, Karl Simon », dans _Allgemeine Deutsche Biographie_, vol. 22, 1885, [En ligne], https://www.deutsche-biographie.de/sfz65436.html#adbcontent_literatur.
 
-VERSTEGEN Ian et al. (dir.), Giambattista Nolli and Rome : mapping the city before and after the Pianta grande, 2013.
+VERSTEGEN Ian et al. (dir.), _Giambattista Nolli and Rome : mapping the city before and after the Pianta grande_, 2013.
 
-WINCKELMANN Johann Joachim, Briefe, édité par REHMS Walther, DIEPOLDER Hans, Berlin, De Gruyter, 1952-1957, 3 vol.
+WINCKELMANN Johann Joachim, _Briefe_, édité par REHMS Walther, DIEPOLDER Hans, Berlin, De Gruyter, 1952-1957, 3 vol.
 
-WINCKELMANN Johann Joachim, Lettere italiane, édité par ZAMPA Giorgio, Milan, Feltrinelli, 1961.
+WINCKELMANN Johann Joachim, _Lettere italiane_, édité par ZAMPA Giorgio, Milan, Feltrinelli, 1961.
 
-WINCKELMANN Johann Joachim, Kunsttheoretische Schriften, Baden-Baden, Heitz, 1962.
+WINCKELMANN Johann Joachim, __Kunsttheoretische Schriften_, Baden-Baden, Heitz, 1962.
 
-WINCKELMANN Johann Joachim, Unbekannte Schriften. Antiquarische Relationen und Beschreibung der Villa Albani, Munich, 1986 (Abhandlungen der Bayerische Akademie der Wissenschaften. Philosophisch-Historische Klasse, N.F. 95).
+WINCKELMANN Johann Joachim, _Unbekannte Schriften. Antiquarische Relationen und Beschreibung der Villa Albani_, Munich, 1986 (Abhandlungen der Bayerische Akademie der Wissenschaften. Philosophisch-Historische Klasse, N.F. 95).
 
-WINCKELMANN Johann Joachim, Réflexions sur l’imitation des oeuvres grecques en peinture et en sculpture = Gedanken über die Nachahmung der griechischen Werke in der Malerei und Bildhauerkunst, Paris, Aubier, 1990.
+WINCKELMANN Johann Joachim, _Réflexions sur l’imitation des oeuvres grecques en peinture et en sculpture = Gedanken über die Nachahmung der griechischen Werke in der Malerei und Bildhauerkunst_, Paris, Aubier, 1990.
 
-WINCKELMANN Johann, Pensieri sull’ imitazione, édité par Michele COMETA, Palerme, Aesthetica edizioni, 1992.
+WINCKELMANN Johann, _Pensieri sull’ imitazione_, édité par Michele COMETA, Palerme, Aesthetica edizioni, 1992.
 
-WINCKELMANN Johann Joachim, Herkulanische Schriften I = Sendschreiben von den Herculanischen Entdeckungen, édité par GROSS Marianne, KUNZE Max, RÜGLER Axel, BRUER Stephanie-Gerrit, vol. 1, Mayence, Philipp von Zabern, 1997 (Schriften und Nachlaß, 2, 1).
+WINCKELMANN Johann Joachim, _Herkulanische Schriften I = Sendschreiben von den Herculanischen Entdeckungen_, édité par GROSS Marianne, KUNZE Max, RÜGLER Axel, BRUER Stephanie-Gerrit, vol. 1, Mayence, Philipp von Zabern, 1997 (Schriften und Nachlaß, 2, 1).
 
-WINCKELMANN Johann Joachim, Herkulanische Schriften II = Nachrichten von den neuesten Herculanischen Entdeckungen, édité par GROSS Marianne, KUNZE Max, MAHARAM Wolfram, RÜGLER Axel, BRUER Stephanie-Gerrit, vol. 2, Mayence, Philipp von Zabern, 1997 (Schriften und Nachlaß, 2, 2).
+WINCKELMANN Johann Joachim, _Herkulanische Schriften II = Nachrichten von den neuesten Herculanischen Entdeckungen_, édité par GROSS Marianne, KUNZE Max, MAHARAM Wolfram, RÜGLER Axel, BRUER Stephanie-Gerrit, vol. 2, Mayence, Philipp von Zabern, 1997 (Schriften und Nachlaß, 2, 2).
 
-WINCKELMANN Johann Joachim, Herkulanische Schriften III = Briefe, Handschriften, zeitgenössische Rezensionen zu den Herkulanischen Schriften, édité par GROSS Marianne, KUNZE Max, MAHARAM Wolfram, RÜGLER Axel, vol. 3, Mayence, Philipp von Zabern, 1999 (Schriften und Nachlaß, 2, 3).
+WINCKELMANN Johann Joachim, _Herkulanische Schriften III = Briefe, Handschriften, zeitgenössische Rezensionen zu den Herkulanischen Schriften_, édité par GROSS Marianne, KUNZE Max, MAHARAM Wolfram, RÜGLER Axel, vol. 3, Mayence, Philipp von Zabern, 1999 (Schriften und Nachlaß, 2, 3).
 
-WINCKELMANN Johann Joachim, Geschichte der Kunst des Alterthums (Text: erste Aufl. Dresden 1764, zweite Aufl. Wien 1776), édité par BORBEIN Adolf Heinrich, GAEHTGENS Thomas W. , IRMSCHER Johannes, KUNZE Max, vol. 1, Mayence, Philipp von Zabern, 2002 (Schriften und Nachlaß, 4, 1).
+WINCKELMANN Johann Joachim, _Geschichte der Kunst des Alterthums (Text: erste Aufl. Dresden 1764, zweite Aufl. Wien 1776)_, édité par BORBEIN Adolf Heinrich, GAEHTGENS Thomas W. , IRMSCHER Johannes, KUNZE Max, vol. 1, Mayence, Philipp von Zabern, 2002 (Schriften und Nachlaß, 4, 1).
 
-WINCKELMANN Johann Joachim, Ville e palazzi di Roma: Antiken in den römischen Sammlungen, édité par KANSTEINER Sascha, KUHN-FORTE Brigitte, KUNZE Max, BORBEIN Adolf Heinrich, vol. 1, Mayence, Philipp von Zabern, 2003 (Schriften und Nachlaß, 5).
+WINCKELMANN Johann Joachim, _Ville e palazzi di Roma: Antiken in den römischen Sammlungen_, édité par KANSTEINER Sascha, KUHN-FORTE Brigitte, KUNZE Max, BORBEIN Adolf Heinrich, vol. 1, Mayence, Philipp von Zabern, 2003 (Schriften und Nachlaß, 5).
 
-WINCKELMANN Johann Joachim, Histoire de l’art dans l’antiquité, traduit par Dominique TASSEL, introduction et notes de Daniela GALLO, Paris, Librairie générale de française, 2005.
+WINCKELMANN Johann Joachim, _Histoire de l’art dans l’antiquité_, traduit par Dominique TASSEL, introduction et notes de Daniela GALLO, Paris, Librairie générale de française, 2005.
 
-WINCKELMANN Johann Joachim, De la description, édité par Élisabeth DÉCULTOT, Paris, Macula, 2006.
+WINCKELMANN Johann Joachim, _De la description_, édité par Élisabeth DÉCULTOT, Paris, Macula, 2006.
 
-WINCKELMANN Johann Joachim, Geschichte der Kunst des Alterthums (Katalog der Denkmäler: erste Aufl. Dresden 1764, zweite Aufl. Wien 1776), édité par BORBEIN Adolf Heinrich, GAEHTGENS Thomas W., IRMSCHER Johannes, KUNZE Max, vol. 2, Mayence, Philipp von Zabern, 2006 (Schriften und Nachlaß, 4, 2).
+WINCKELMANN Johann Joachim, _Geschichte der Kunst des Alterthums (Katalog der Denkmäler: erste Aufl. Dresden 1764, zweite Aufl. Wien 1776)_, édité par BORBEIN Adolf Heinrich, GAEHTGENS Thomas W., IRMSCHER Johannes, KUNZE Max, vol. 2, Mayence, Philipp von Zabern, 2006 (Schriften und Nachlaß, 4, 2).
 
-WINCKELMANN Johann Joachim, Geschichte der Kunst des Alterthum : erste auflage Dresden 1764 - zweite auflage Wien 1776, 3 : Allgemeiner Kommentar, édité par BORBEIN Adolf Heinrich, GAEHTGENS Thomas W., IRMSCHER Johannes, KUNZE Max, vol. 3, Mayence, Philipp von Zabern, 2007 (Schriften und Nachlaß, 4, 3).
+WINCKELMANN Johann Joachim, _Geschichte der Kunst des Alterthum : erste auflage Dresden 1764 - zweite auflage Wien 1776, 3 : Allgemeiner Kommentar_, édité par BORBEIN Adolf Heinrich, GAEHTGENS Thomas W., IRMSCHER Johannes, KUNZE Max, vol. 3, Mayence, Philipp von Zabern, 2007 (Schriften und Nachlaß, 4, 3).
 
-WINCKELMANN Johann Joachim, Anmerkungen über die Geschichte der Kunst des Alterthums : Dresden 1767 : Texte und Kommentar, édité par BORBEIN Adolf Heinrich, KUNZE Max, HOFSTETTER Eva, MAUCOLIN Brice, vol. 4, Mayence, Philipp von Zabern, 2008 (Schriften und Nachlaß, 4, 4).
+WINCKELMANN Johann Joachim, _Anmerkungen über die Geschichte der Kunst des Alterthums : Dresden 1767 : Texte und Kommentar_, édité par BORBEIN Adolf Heinrich, KUNZE Max, HOFSTETTER Eva, MAUCOLIN Brice, vol. 4, Mayence, Philipp von Zabern, 2008 (Schriften und Nachlaß, 4, 4).
 
-WINCKELMANN Johann Joachim, Monumenti antichi inediti spiegati ed illustrati, édité par BORBEIN Adolf Heinrich et KUNZE Max, vol. 1, Mayence, Philipp von Zabern, 2011 (Schriften und Nachlaß, 6, 1).
+WINCKELMANN Johann Joachim, _Monumenti antichi inediti spiegati ed illustrati_, édité par BORBEIN Adolf Heinrich et KUNZE Max, vol. 1, Mayence, Philipp von Zabern, 2011 (Schriften und Nachlaß, 6, 1).
 
-WINCKELMANN Johann Joachim, Letter and Report on the discoveries at Herculaneum, édité par Carol C. MATTUSCH, Los Angeles, J. Paul Getty Museum, 2011.
+WINCKELMANN Johann Joachim, _Letter and Report on the discoveries at Herculaneum_, édité par Carol C. MATTUSCH, Los Angeles, J. Paul Getty Museum, 2011.
 
-WINCKELMANN Johann Joachim, Statuenbeschreibungen Materialien zur „Geschichte der Kunst des Alterthums“ Rezensionen, édité par BORBEIN Adolf Heinrich, KUNZE Max, BALENSIEFEN Lilian, BÄBLER Balbina, vol. 5, Mayence, Philipp von Zabern, 2012 (Schriften und Nachlaß, 4, 5).
+WINCKELMANN Johann Joachim, _Statuenbeschreibungen Materialien zur „Geschichte der Kunst des Alterthums“ Rezensionen_, édité par BORBEIN Adolf Heinrich, KUNZE Max, BALENSIEFEN Lilian, BÄBLER Balbina, vol. 5, Mayence, Philipp von Zabern, 2012 (Schriften und Nachlaß, 4, 5).
 
-WINCKELMANN Johann Joachim, Description des Pierres gravées du feu Baron de Stosch : Florence 1760, édité par BORBEIN Adolf Heinrich, KUNZE Max et RÜGLER Axel, Mayence, Philipp von Zabern, 2013 (Schriften und Nachlaß, 7, 1).
+WINCKELMANN Johann Joachim, _Description des Pierres gravées du feu Baron de Stosch : Florence 1760_, édité par BORBEIN Adolf Heinrich, KUNZE Max et RÜGLER Axel, Mayence, Philipp von Zabern, 2013 (Schriften und Nachlaß, 7, 1).
 
-WINCKELMANN Johann Joachim, Monumenti antichi inediti spiegati ed illustrati, Kommentar, édité par BORBEIN Adolf Heinrich, KUNZE Max, RÜGLER Axel, BÄBLER Balbina, HOFSTETTER Eva, BALENSIEFEN Lilian, vol. 2, Mayence, Philipp von Zabern, 2014 (Schriften und Nachlaß, 6, 2).
+WINCKELMANN Johann Joachim, _Monumenti antichi inediti spiegati ed illustrati, Kommentar_, édité par BORBEIN Adolf Heinrich, KUNZE Max, RÜGLER Axel, BÄBLER Balbina, HOFSTETTER Eva, BALENSIEFEN Lilian, vol. 2, Mayence, Philipp von Zabern, 2014 (Schriften und Nachlaß, 6, 2).
 
-WINCKELMANN Johann Joachim, Vermischte Schriften zur Kunst, Kunsttheorie und Geschichte. Dresdner Schriften : Text und Kommentar, édité par BORBEIN Adolf Heinrich, KUNZE Max, RÜGLER Axel, BÄBLER Balbina, HOFSTETTER Eva, MÜLLER Adelheid, PAULA Doreen, vol. 1, Mayence, Philipp von Zabern, 2016 (Schriften und Nachlaß, 9, 1).
+WINCKELMANN Johann Joachim, _Vermischte Schriften zur Kunst, Kunsttheorie und Geschichte. Dresdner Schriften : Text und Kommentar_, édité par BORBEIN Adolf Heinrich, KUNZE Max, RÜGLER Axel, BÄBLER Balbina, HOFSTETTER Eva, MÜLLER Adelheid, PAULA Doreen, vol. 1, Mayence, Philipp von Zabern, 2016 (Schriften und Nachlaß, 9, 1).
 
-ZAZOFF Peter et ZAZOFF Hilde, Gemmensammler und Gemmenforscher : von einer noblen Passion zur Wissenschaft, Munich, C.H. Beck, 1983.
+ZAZOFF Peter et ZAZOFF Hilde, _Gemmensammler und Gemmenforscher : von einer noblen Passion zur Wissenschaft_, Munich, C.H. Beck, 1983.
